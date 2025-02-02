@@ -1,0 +1,78 @@
+/* styles.css */
+
+/* Load Fonts */
+@font-face {
+    font-family: 'Outer';
+    src: url('fonts/MADE Outer Sans Alt Black.otf') format('opentype');
+    font-weight: 900; /* Assuming Black weight */
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('fonts/PeydaWeb-Medium.woff2') format('woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('fonts/PeydaWeb-Bold.woff2') format('woff2');
+    font-weight: 700;
+}
+
+/* Default Font */
+body {
+    font-family: 'Peyda', sans-serif;
+    font-weight: 500; /* Medium as default */
+}
+
+/* Headings */
+h3 {
+    font-family: 'Outer', sans-serif;
+    font-weight: 900;
+}
+
+/* Card Container */
+.card {
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Custom Font Class */
+.custom-font {
+    font-family: 'Peyda', sans-serif;
+    font-weight: 700;
+}
+
+/* Copy Button */
+.copy-button {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    background-color: white; /* Initially white */
+    color: #6B7280; /* gray icon */
+    padding: 0.5rem;
+    width: 40px; /* Square */
+    height: 40px; /* Square */
+    border-radius: 8px; /* Moderate rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease, transform 0.2s ease, color 0.3s ease;
+}
+
+.copy-button:hover {
+    background-color: #f3f3f3; /* Light gray on hover */
+}
+
+.copy-button:active {
+    transform: scale(0.95); /* Slight press effect */
+}
+
+
