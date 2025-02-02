@@ -19,5 +19,12 @@
         "prompt": "Crocodile",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/02 20:12:27",
+        "image_url": "https://i.ibb.co/93Bf7nfH/68d5206e67b9.png",
+        "prompt": "a ninja on the mountain",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
