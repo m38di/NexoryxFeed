@@ -33,5 +33,12 @@
         "prompt": "a router modem",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/02 20:47:53",
+        "image_url": "https://i.ibb.co/4wvSwVHx/f3f6d944b4ab.jpg",
+        "prompt": "random",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
