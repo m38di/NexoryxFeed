@@ -26,5 +26,12 @@
         "prompt": "a ninja on the mountain",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/02 20:20:49",
+        "image_url": "https://i.ibb.co/G3Ct6Yhk/31f033af9640.png",
+        "prompt": "a router modem",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
