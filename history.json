@@ -12,5 +12,12 @@
         "prompt": "dog --ar 16:9",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/02 20:07:30",
+        "image_url": "https://i.ibb.co/GQnZj0yy/5ec1175ae3b0.jpg",
+        "prompt": "Crocodile",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
