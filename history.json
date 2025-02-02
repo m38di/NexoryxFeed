@@ -103,5 +103,12 @@
         "prompt": "Photo of an Iranian attractive young man wearing a Black shirt, Sitting on a park bench. He is looking into the camera. He is 25 years old, with short black hair and a clean-shaven face. The image was captured using a Sony \u03b17 III camera with natural lighting and an aperture of f/8.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/03 02:59:05",
+        "image_url": "https://i.ibb.co/45bDTm1/62a232e5bd65.png",
+        "prompt": "Photo of an Iranian attractive young man wearing a Black shirt, Sitting on a park bench. He is looking into the camera. He is 25 years old, with short black hair and a clean-shaven face. The image was captured using a Sony \u03b17 III camera with natural lighting and an aperture of f/8.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
