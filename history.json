@@ -11,6 +11,6 @@
         "image_url": "https://i.ibb.co/G4kN4s3k/50c2eddaf2f3.jpg",
         "prompt": "dog --ar 16:9",
         "aspect_ratio": "16:9",
-        "model": "flux-pro"
+        "model": "FLUX 1 [Pro]"
     }
 ]
