@@ -89,5 +89,12 @@
         "prompt": "Photo of an attractive young man wearing a gray shirt, Sitting on a park bench. He is looking into the camera. He is 25 years old, with short black hair and a clean-shaven face. The image was captured using a Sony \u03b17 III camera with natural lighting and an aperture of f/8.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/03 02:54:06",
+        "image_url": "https://i.ibb.co/tMVbbFSV/d1aefc20016e.png",
+        "prompt": "Photo of an attractive young man wearing a gray shirt, Sitting on a park bench. He is looking into the camera. He is 25 years old, with short black hair and a clean-shaven face. The image was captured using a Sony \u03b17 III camera with natural lighting and an aperture of f/8.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
