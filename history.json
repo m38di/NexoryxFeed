@@ -54,5 +54,12 @@
         "prompt": "car in smoke",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/03 01:22:47",
+        "image_url": "https://i.ibb.co/jPg2Sknz/31f06e0312da.png",
+        "prompt": "A red cigarette pack logo with hands, head and feet that says ''LUCKY RED'' in white with a thick diamond necklace around his neck with white socks and Jordan shoes and a pair of Balenciaga glasses over his eyes and over his ears with gold ring piercings and his hands are gloves in his pockets and a flip-top cap that has no head or tail.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
