@@ -82,5 +82,12 @@
         "prompt": "peogeut 206 car in smoke and snow in jangle at night",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/03 02:52:40",
+        "image_url": "https://i.ibb.co/WWG53g6g/91d1361fadcd.png",
+        "prompt": "Photo of an attractive young man wearing a gray shirt, Sitting on a park bench. He is looking into the camera. He is 25 years old, with short black hair and a clean-shaven face. The image was captured using a Sony \u03b17 III camera with natural lighting and an aperture of f/8.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
