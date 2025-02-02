@@ -47,5 +47,12 @@
         "prompt": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/03 01:22:21",
+        "image_url": "https://i.ibb.co/Z68Fk0FN/40eac602762d.png",
+        "prompt": "car in smoke",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
