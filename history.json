@@ -5,5 +5,12 @@
         "prompt": "Dog",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/02 20:02:08",
+        "image_url": "https://i.ibb.co/G4kN4s3k/50c2eddaf2f3.jpg",
+        "prompt": "dog --ar 16:9",
+        "aspect_ratio": "16:9",
+        "model": "flux-pro"
     }
 ]
