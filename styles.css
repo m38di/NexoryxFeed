@@ -37,6 +37,10 @@ h3 {
     border-radius: 1rem;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;  /* Stack items vertically */
+    position: relative;      /* Positioning context for absolute button */
+    height: 100%;            /* Ensure card fills the available height */
 }
 
 .card:hover {
@@ -49,12 +53,11 @@ h3 {
     font-weight: 700;
 }
 
-/* Flex container to manage prompt text and button */
-.prompt-container {
+/* Flex container for the details section */
+.card .flex-1 {
+    flex: 1;                 /* Allow prompt and details to take up remaining space */
     display: flex;
-    flex-direction: column;
-    gap: 0.5rem; /* Space between text and button */
-    position: relative; /* Keeps normal flow */
+    flex-direction: column;  /* Stack the details vertically */
 }
 
 /* Copy Button */
@@ -82,5 +85,3 @@ h3 {
 .copy-button:active {
     transform: scale(0.95); /* Slight press effect */
 }
-
-
