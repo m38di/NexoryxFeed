@@ -173,5 +173,12 @@
         "prompt": "A colorful, high-quality cartoon illustration of a fantasy scene from the Persian epic, featuring Esfandiar in his second trial. In this vibrant, non-realistic image, Esfandiar, a heroic young warrior, is standing tall with a sword in hand. He has just defeated two lions, a male lion and a female lion, with his mighty sword. The male lion lies in two pieces on the ground, and the female lion has her head severed. Esfandiar is confidently washing his hands in a clear, tranquil stream, while the bright sun shines overhead. The surrounding landscape is lush and magical, with rolling hills, trees, and distant mountains. His soldiers are in the background, cheering and setting up a feast. The style is whimsical and suitable for a children's book, with vivid colors and exaggerated expressions, creating a fantastical atmosphere.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/03 19:45:03",
+        "image_url": "https://i.ibb.co/zVQKNMht/32152e4b8b9f.png",
+        "prompt": "Create a simple, 2D illustration for a children\u2019s book inspired by the second trial of Esfandiyar from Persian mythology. Esfandiyar, a strong and heroic warrior, wears golden armor with intricate Persian patterns and a flowing red cape. He stands confidently in a glowing golden desert, holding his sharp sword after defeating two giant lions\u2014one male and one female. The male lion lies split in two, while the female lion, mid-attack, is struck down. Esfandiyar\u2019s expression is calm and fearless. The background features a bright sunrise, patches of green grass, and a small shimmering river where he later washes himself. The style is simple, flat, colorful, and whimsical, using bright hues like gold, blue, and red to create an adventurous and magical tone, avoiding realistic gore or violence.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
