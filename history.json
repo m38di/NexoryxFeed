@@ -271,5 +271,12 @@
         "prompt": "a Bmw M4 330",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 01:14:53",
+        "image_url": "https://i.ibb.co/wrFMq81W/37af9bac8c19.jpg",
+        "prompt": "a Bmw M4 330 white color",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
