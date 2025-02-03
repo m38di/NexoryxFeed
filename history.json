@@ -131,5 +131,12 @@
         "prompt": "The image depicts a dramatic, textured surface of dark, possibly volcanic, rock. The surface is characterized by a complex network of deep fissures and folds, creating a three-dimensional, almost sculptural effect.\u00a0 The color palette is predominantly monochrome, ranging from dark gray to black, with subtle variations in tone suggesting depth and shadow. The overall impression is one of raw power and the passage of time, hinting at geological forces that shaped the rock's form. The texture is rough and uneven, with sharp edges and crevices contrasting against smoother, flowing curves.\u00a0 The composition is abstract and non-representational, drawing the viewer's attention to the interplay of light and shadow within the rock's intricate structure.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/03 16:23:44",
+        "image_url": "https://i.ibb.co/7xHP9QPB/3a00e2f75ebf.png",
+        "prompt": "moz",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
