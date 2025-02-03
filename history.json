@@ -250,5 +250,12 @@
         "prompt": "car yellow bmw and car blue audi and logo sky team",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 01:11:44",
+        "image_url": "https://i.ibb.co/Y4Q757BN/a276e20bfd2a.png",
+        "prompt": "create logo blue whale",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
