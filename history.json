@@ -222,5 +222,12 @@
         "prompt": "xxx",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/03 21:35:41",
+        "image_url": "https://i.ibb.co/vbt0mcp/89c19089bc68.png",
+        "prompt": "Kir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
