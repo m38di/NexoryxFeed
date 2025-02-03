@@ -49,6 +49,14 @@ h3 {
     font-weight: 700;
 }
 
+/* Flex container to manage prompt text and button */
+.prompt-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem; /* Space between text and button */
+    position: relative; /* Keeps normal flow */
+}
+
 /* Copy Button */
 .copy-button {
     position: absolute;
