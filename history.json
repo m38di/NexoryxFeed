@@ -292,5 +292,12 @@
         "prompt": "a Bmw M5 White color",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 01:18:32",
+        "image_url": "https://i.ibb.co/9HDqC6R4/fce27ba259a5.jpg",
+        "prompt": "Shot Peugeot Pars",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
