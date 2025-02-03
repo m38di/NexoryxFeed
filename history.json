@@ -152,5 +152,12 @@
         "prompt": "moz",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/03 19:21:18",
+        "image_url": "https://i.ibb.co/gFTFFVhr/211dc06bc2a1.png",
+        "prompt": "A vibrant, whimsical children's book illustration of the legendary hero Esfandiyar battling two stylized, fierce lions (one male with a flowing mane, one female) near a shimmering river in a mythical Persian landscape. Esfandiyar is shown in dynamic action poses: mid-swing with a glowing sword splitting the male lion into two halves, and gracefully slicing the female lion\u2019s head, with no blood\u2014only dramatic energy. The lions have exaggerated features (sharp claws, expressive eyes) but softened, cartoonish designs for kids. The background features rocky cliffs, golden sunrise light, lush greenery, and a divine glow above the river where Esfandiyar washes his hands. Tiny, cartoonish soldiers cheer from afar, and the style combines bold outlines, painterly textures, rich jewel tones (emerald, gold, sapphire), and magical lighting. Inspired by Disney animation and Persian miniature art\u2014epic, playful, and fantastical, with simplified shapes, exaggerated expressions, and ancient Persian motifs on Esfandiyar\u2019s armor, perfect for a child\u2019s imagination.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
