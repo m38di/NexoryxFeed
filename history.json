@@ -299,5 +299,12 @@
         "prompt": "Shot Peugeot Pars",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 01:20:31",
+        "image_url": "https://i.ibb.co/Kctm3PH7/b5733c9fce39.jpg",
+        "prompt": "a Bmw M4 330 White color sport Full options",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
