@@ -264,5 +264,12 @@
         "prompt": "a Bmw M4 330",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 01:14:00",
+        "image_url": "https://i.ibb.co/9mRBZ9w1/a50ad6e5b947.jpg",
+        "prompt": "a Bmw M4 330",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
