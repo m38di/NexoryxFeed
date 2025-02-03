@@ -180,5 +180,12 @@
         "prompt": "Create a simple, 2D illustration for a children\u2019s book inspired by the second trial of Esfandiyar from Persian mythology. Esfandiyar, a strong and heroic warrior, wears golden armor with intricate Persian patterns and a flowing red cape. He stands confidently in a glowing golden desert, holding his sharp sword after defeating two giant lions\u2014one male and one female. The male lion lies split in two, while the female lion, mid-attack, is struck down. Esfandiyar\u2019s expression is calm and fearless. The background features a bright sunrise, patches of green grass, and a small shimmering river where he later washes himself. The style is simple, flat, colorful, and whimsical, using bright hues like gold, blue, and red to create an adventurous and magical tone, avoiding realistic gore or violence.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/03 21:09:16",
+        "image_url": "https://i.ibb.co/4ZznS7D6/d53fef46fe5d.png",
+        "prompt": "Gun",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
