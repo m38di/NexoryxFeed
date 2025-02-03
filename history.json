@@ -285,5 +285,12 @@
         "prompt": "a Bmw M4 330 White color sport Full options",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 01:16:36",
+        "image_url": "https://i.ibb.co/fVr4YLKG/9970ad2d6381.jpg",
+        "prompt": "a Bmw M5 White color",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
