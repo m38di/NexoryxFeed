@@ -124,5 +124,12 @@
         "prompt": "Create a dynamic, high-quality 3D animation of the word \"NOVA\" adorned with a golden crown. The style should be luxurious and modern, reminiscent of a premium brand.\u00a0 The animation should incorporate subtle particle effects, such as sparks or shimmering light, around the letters. The background should be a textured brick wall, maintaining a gritty yet sophisticated contrast.\u00a0 The text \"Buy and sell Freefire accounts, Unlock Facebook, Facebook Support, Premium Sales\" should smoothly appear below \"NOVA,\" one line at a time. Contact information (@IAMINWUM, @NOVAMSHOP, 09024120301) should briefly slide in from the bottom corners at the end of the animation, then fade slightly. The overall feel should be short, impactful, and attention-grabbing, suitable for a social media advertisement.\u00a0 Consider adding a subtle, repeating animation to the crown.\u00a0 Use a color palette that balances gold, silver, and dark tones to emphasize the premium feel.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/03 14:11:16",
+        "image_url": "https://i.ibb.co/twzJcVcX/46f5f841bc96.png",
+        "prompt": "The image depicts a dramatic, textured surface of dark, possibly volcanic, rock. The surface is characterized by a complex network of deep fissures and folds, creating a three-dimensional, almost sculptural effect.\u00a0 The color palette is predominantly monochrome, ranging from dark gray to black, with subtle variations in tone suggesting depth and shadow. The overall impression is one of raw power and the passage of time, hinting at geological forces that shaped the rock's form. The texture is rough and uneven, with sharp edges and crevices contrasting against smoother, flowing curves.\u00a0 The composition is abstract and non-representational, drawing the viewer's attention to the interplay of light and shadow within the rock's intricate structure.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
