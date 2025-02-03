@@ -194,5 +194,12 @@
         "prompt": "God",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/03 21:31:12",
+        "image_url": "https://i.ibb.co/nqq8MzFW/39c7b7c4696b.png",
+        "prompt": "Godpoori",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
