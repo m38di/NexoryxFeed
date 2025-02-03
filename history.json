@@ -117,5 +117,12 @@
         "prompt": "Photo of an Iranian attractive man wearing a sport gray shirt, Sitting on a park bench. He is looking into the camera. He is 25 years old, with short black hair and a clean-shaven face. The image was captured using a Sony \u03b17 III camera with natural lighting and an aperture of f/8.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/03 14:09:10",
+        "image_url": "https://i.ibb.co/XrCyYb1x/f880d3bbeebe.png",
+        "prompt": "Create a dynamic, high-quality 3D animation of the word \"NOVA\" adorned with a golden crown. The style should be luxurious and modern, reminiscent of a premium brand.\u00a0 The animation should incorporate subtle particle effects, such as sparks or shimmering light, around the letters. The background should be a textured brick wall, maintaining a gritty yet sophisticated contrast.\u00a0 The text \"Buy and sell Freefire accounts, Unlock Facebook, Facebook Support, Premium Sales\" should smoothly appear below \"NOVA,\" one line at a time. Contact information (@IAMINWUM, @NOVAMSHOP, 09024120301) should briefly slide in from the bottom corners at the end of the animation, then fade slightly. The overall feel should be short, impactful, and attention-grabbing, suitable for a social media advertisement.\u00a0 Consider adding a subtle, repeating animation to the crown.\u00a0 Use a color palette that balances gold, silver, and dark tones to emphasize the premium feel.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
