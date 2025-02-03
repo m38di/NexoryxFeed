@@ -229,5 +229,12 @@
         "prompt": "Kir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 00:47:31",
+        "image_url": "https://i.ibb.co/Hf4DgMHS/f0d0a1104ee4.png",
+        "prompt": "a car red supra and prade",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
