@@ -313,5 +313,12 @@
         "prompt": "texte horror",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 01:27:47",
+        "image_url": "https://i.ibb.co/zH7Pfy74/d7058e35da46.png",
+        "prompt": "car iran",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
