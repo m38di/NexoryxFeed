@@ -257,5 +257,12 @@
         "prompt": "create logo blue whale",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 01:13:18",
+        "image_url": "https://i.ibb.co/qY0Fbv0Z/6d82c6918ed1.png",
+        "prompt": "a Bmw M4 330",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
