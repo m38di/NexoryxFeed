@@ -20,6 +20,10 @@ async function loadHistory() {
         
             card.appendChild(img);
         
+            // Create a container for prompt and copy button (Flex container)
+            const promptContainer = document.createElement("div");
+            promptContainer.className = "prompt-container flex flex-col gap-2";  // Flexbox with gap
+
             // Add the other details (date, model, aspect ratio, prompt)
             const detailsDiv = document.createElement("div");
             detailsDiv.innerHTML = `
@@ -32,25 +36,29 @@ async function loadHistory() {
                 <p class="text-sm text-gray-500 flex items-center">
                     <i class="fa-duotone fa-up-right-and-down-left-from-center mr-2"></i> <span class="font-medium">${entry.aspect_ratio}</span>
                 </p>
-                <p class="custom-font text-lg font-semibold text-gray-700 dark:text-gray-300 mt-2">
-                    ${entry.prompt.replace(/\n/g, '<br>')}
-                </p>
             `;
-            card.appendChild(detailsDiv);
+            promptContainer.appendChild(detailsDiv);
+
+            // Add the prompt text
+            const promptText = document.createElement("p");
+            promptText.className = "custom-font text-lg font-semibold text-gray-700 dark:text-gray-300 mt-2";
+            promptText.innerHTML = entry.prompt.replace(/\n/g, '<br>'); // Handle line breaks
+            promptContainer.appendChild(promptText);
 
             // Define the escapedPrompt variable here before using it in the copyPrompt
             const escapedPrompt = JSON.stringify(entry.prompt); // Escape newlines properly
 
             // Copy Button Positioned at Bottom-Right
             const copyBtn = document.createElement("button");
-            copyBtn.className = "copy-button absolute bottom-2 right-2 bg-blue-500 text-white p-2 rounded-2xl hover:bg-blue-600 transition";
-            copyBtn.innerHTML = `
-                <i class="fa-duotone fa-copy"></i>
-            `;
+            copyBtn.className = "copy-button bg-blue-500 text-white p-2 rounded-2xl hover:bg-blue-600 transition";
+            copyBtn.innerHTML = `<i class="fa-duotone fa-copy"></i>`;
             copyBtn.onclick = () => copyPrompt(escapedPrompt, copyBtn);
         
-            // Append the copy button to the card (at the bottom-right)
-            card.appendChild(copyBtn);
+            // Append the copy button to the container
+            promptContainer.appendChild(copyBtn);
+
+            // Append the prompt container to the card
+            card.appendChild(promptContainer);
 
             // Append the card to the container
             container.appendChild(card);
@@ -74,6 +82,5 @@ function copyPrompt(text, button) {
         }, 2000);
     }).catch(err => console.error("Copy failed:", err));
 }
-
 
 loadHistory();
