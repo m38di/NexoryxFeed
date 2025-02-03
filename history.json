@@ -138,5 +138,12 @@
         "prompt": "moz",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/03 16:26:49",
+        "image_url": "https://i.ibb.co/LdXXPyS9/039b9e33db41.jpg",
+        "prompt": "king",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
