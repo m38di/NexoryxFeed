@@ -236,5 +236,12 @@
         "prompt": "a car red supra and prade",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 00:59:48",
+        "image_url": "https://i.ibb.co/yF6qnPZr/936e8be8ba71.png",
+        "prompt": "messi and yamal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
