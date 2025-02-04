@@ -404,5 +404,12 @@
         "prompt": "pofeoz",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 12:40:31",
+        "image_url": "https://i.ibb.co/DP7rVV69/3fc37310776a.png",
+        "prompt": "a logo with name artin",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
