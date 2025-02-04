@@ -1,5 +1,3 @@
-// script.js
-
 async function loadHistory() {
     const container = document.getElementById("historyContainer");
     try {
@@ -12,16 +10,16 @@ async function loadHistory() {
             const card = document.createElement("div");
             card.className = "card p-4 relative flex flex-col";  // Flex container for card
 
-            // Add the image to the card
+            // Create the image element with lazy loading
             const img = document.createElement("img");
-            img.src = entry.image_url;
+            img.dataset.src = entry.image_url; // Store image URL in data-src
             img.alt = "Generated Image";
-            img.className = "w-full h-auto object-contain rounded-2xl";
+            img.className = "lazy w-full h-auto object-contain rounded-2xl"; // Lazy class for observer
             card.appendChild(img);
         
-            // Create a container for prompt text and details (Flex container for spacing)
+            // Create a container for prompt text and details
             const detailsDiv = document.createElement("div");
-            detailsDiv.className = "flex-1";  // Allow this section to take remaining space
+            detailsDiv.className = "flex-1";
             detailsDiv.innerHTML = `
                 <p class="text-sm text-gray-500 flex items-center mt-2">
                     <i class="fa-duotone fa-calendar-days mr-2"></i> ${entry.date}
@@ -38,8 +36,7 @@ async function loadHistory() {
             `;
             card.appendChild(detailsDiv);
 
-            // Define the escapedPrompt variable here before using it in the copyPrompt
-            const escapedPrompt = JSON.stringify(entry.prompt); // Escape newlines properly
+            const escapedPrompt = JSON.stringify(entry.prompt);
 
             // Copy Button Positioned at Bottom-Right
             const copyBtn = document.createElement("button");
@@ -47,16 +44,37 @@ async function loadHistory() {
             copyBtn.innerHTML = `<i class="fa-duotone fa-copy"></i>`;
             copyBtn.onclick = () => copyPrompt(escapedPrompt, copyBtn);
         
-            // Append the copy button to the card (absolute positioned)
+            // Append the copy button to the card
             card.appendChild(copyBtn);
 
             // Append the card to the container
             container.appendChild(card);
         });
+
+        // Initialize lazy loading after adding elements
+        lazyLoadImages();
+
     } catch (error) {
         container.innerHTML = "<p class='text-red-500 text-center col-span-full'>❌ Failed to load history.</p>";
         console.error(error);
     }
+}
+
+// Lazy Loading Function
+function lazyLoadImages() {
+    const images = document.querySelectorAll("img.lazy");
+    const observer = new IntersectionObserver((entries, obs) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const img = entry.target;
+                img.src = img.dataset.src; // Load image when visible
+                img.classList.remove("lazy");
+                obs.unobserve(img);
+            }
+        });
+    });
+
+    images.forEach(img => observer.observe(img));
 }
 
 function copyPrompt(text, button) {
@@ -72,5 +90,6 @@ function copyPrompt(text, button) {
         }, 2000);
     }).catch(err => console.error("Copy failed:", err));
 }
+
 
 loadHistory();
