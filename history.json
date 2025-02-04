@@ -390,5 +390,12 @@
         "prompt": "Hyper realistic studio image of a road, road is on top of the valley, a abandoned bicycle, bicycle fallen on the road, bicycle have red body, black accessories, horizon view, a big green plain, mountains after the plain, mountains is snowy, it's evening, orange sky, blue sky, side view of road, foggy air, dark. --ar 9:20",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/04 12:06:52",
+        "image_url": "https://i.ibb.co/XfgsrcV6/e3685e66ad17.png",
+        "prompt": "\"omid\" text in neon style that is under the ice, cinematic style and cinematic lighting",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
