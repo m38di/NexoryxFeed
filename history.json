@@ -460,5 +460,12 @@
         "prompt": "Design a Nike company logo that incorporates the texture of human bones and includes a few teeth in the design. The logo should be creative, visually striking, and capture the essence of the Nike brand while integrating these unique elements",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/04 22:19:37",
+        "image_url": "https://i.ibb.co/xpDympq/03dbb31c94e6.jpg",
+        "prompt": "Create a Nike company logo that integrates the texture and appearance of human bones, including several teeth embedded within the design. The logo should maintain Nike's iconic swoosh shape, but with a skeletal, bone-like structure that is both eerie and visually compelling. This unique style will add a distinctive and edgy character to the well-known Nike brand identity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
