@@ -1,62 +1,48 @@
 async function loadHistory() {
     const container = document.getElementById("historyContainer");
+    container.innerHTML = ""; // Clear loading text
+
     try {
         const response = await fetch("history.json");
         const history = await response.json();
         
-        container.innerHTML = ""; // Clear loading text
-        
         history.reverse().forEach(entry => {
             const card = document.createElement("div");
-            card.className = "card p-4 relative flex flex-col";  // Flex container for card
+            card.className = "card p-4 relative flex flex-col bg-white rounded-xl shadow-md";
 
-            // Create the image element with lazy loading
             const img = document.createElement("img");
-            img.dataset.src = entry.image_url; // Store image URL in data-src
+            img.src = entry.image_url;
             img.alt = "Generated Image";
-            img.className = "lazy w-full h-auto object-contain rounded-2xl"; // Lazy class for observer
+            img.className = "w-full h-auto object-contain rounded-2xl";
             card.appendChild(img);
-        
-            // Create a container for prompt text and details
+
             const detailsDiv = document.createElement("div");
-            detailsDiv.className = "flex-1";
+            detailsDiv.className = "mt-2";
             detailsDiv.innerHTML = `
-                <p class="text-sm text-gray-500 flex items-center mt-2">
-                    <i class="fa-duotone fa-calendar-days mr-2"></i> ${entry.date}
-                </p>
-                <p class="text-sm text-gray-500 flex items-center">
-                    <i class="fa-duotone fa-microchip-ai mr-2"></i> <span class="font-medium">${entry.model}</span>
-                </p>
-                <p class="text-sm text-gray-500 flex items-center">
-                    <i class="fa-duotone fa-up-right-and-down-left-from-center mr-2"></i> <span class="font-medium">${entry.aspect_ratio}</span>
+                <p class="text-sm text-gray-500">${entry.date}</p>
+                <p class="text-sm text-gray-500">${entry.model}</p>
+                <p class="text-sm text-gray-500">${entry.aspect_ratio}</p>
+                <p class="text-lg font-semibold text-gray-700 dark:text-gray-300">
+                    ${entry.prompt.replace(/\n/g, '<br>')}
                 </p>
             `;
-            detailsDiv.appendChild(createPromptElement(entry.prompt));
             card.appendChild(detailsDiv);
 
-            const escapedPrompt = JSON.stringify(entry.prompt);
-
-            // Copy Button Positioned at Bottom-Right
-            const copyBtn = document.createElement("button");
-            copyBtn.className = "copy-button absolute bottom-2 right-2 bg-blue-500 text-white p-2 rounded-2xl hover:bg-blue-600 transition";
-            copyBtn.innerHTML = `<i class="fa-duotone fa-copy"></i>`;
-            copyBtn.onclick = () => copyPrompt(escapedPrompt, copyBtn);
-        
-            // Append the copy button to the card
-            card.appendChild(copyBtn);
-
-            // Append the card to the container
             container.appendChild(card);
         });
 
-        // Initialize lazy loading after adding elements
-        lazyLoadImages();
+        // Apply Masonry Grid
+        container.style.display = "grid";
+        container.style.gridTemplateColumns = "repeat(auto-fit, minmax(300px, 1fr))";
+        container.style.gap = "16px";
+        container.style.gridAutoFlow = "dense";
 
     } catch (error) {
-        container.innerHTML = "<p class='text-red-500 text-center col-span-full'>❌ Failed to load history.</p>";
+        container.innerHTML = "<p class='text-red-500 text-center'>❌ Failed to load history.</p>";
         console.error(error);
     }
 }
+
 
 function createPromptElement(promptText) {
     const promptContainer = document.createElement("div");
