@@ -362,5 +362,12 @@
         "prompt": "Crumpled paper elephant on slate gray background, detailed texture emphasizing crumpled nature, contrasting backdrop accentuates form, depth-enhanced through lighting and shadow",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/04 08:20:40",
+        "image_url": "https://i.ibb.co/nqfjwL7g/427f25684966.png",
+        "prompt": "\u00abNEUROFLAC\u00bb presented in minimalist leaf vein art; each letter shaped by the intricate vein patterns of different leaves--maple oak, ginkgo, fern, birch, and eucalyptus--in delicate shades of green against a pristine white background. The veins subtly form the letters",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
