@@ -383,5 +383,12 @@
         "prompt": "Hyper realistic studio image of a road, road is on top of the valley, a abandoned bicycle, bicycle fallen on the road, bicycle have red body, black accessories, horizon view, a big green plain, mountains after the plain, mountains is snowy, it's evening, orange sky, blue sky, side view of road, foggy air, dark. --ar 9:20",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 08:58:06",
+        "image_url": "https://i.ibb.co/N6HGM6D7/df7a821d2acb.png",
+        "prompt": "Hyper realistic studio image of a road, road is on top of the valley, a abandoned bicycle, bicycle fallen on the road, bicycle have red body, black accessories, horizon view, a big green plain, mountains after the plain, mountains is snowy, it's evening, orange sky, blue sky, side view of road, foggy air, dark. --ar 9:20",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
