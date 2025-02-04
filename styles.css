@@ -33,10 +33,14 @@ h3 {
 
 /* Card Container */
 #historyContainer {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsive columns */
-    gap: 16px; /* Space between cards */
-    grid-auto-flow: dense; /* Fills empty gaps */
+    column-count: 3; /* Adjust column count as needed */
+    column-gap: 16px;
+}
+
+.card {
+    display: inline-block; /* Prevents column breaks */
+    width: 100%;
+    margin-bottom: 16px;
 }
 
 .card {
