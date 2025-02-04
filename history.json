@@ -481,5 +481,12 @@
         "prompt": "Create a Nike company logo that integrates the texture and appearance of human bones, including several teeth embedded within the design. The logo should maintain Nike's iconic swoosh shape, but with a skeletal, bone-like structure that is both eerie and visually compelling. This unique style will add a distinctive and edgy character to the well-known Nike brand identity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/04 22:26:51",
+        "image_url": "https://i.ibb.co/r2mMZRmr/8f48fe7caa7f.png",
+        "prompt": "Create an image featuring the Nike logo reimagined as a glass filled with blood. The design should maintain the recognizable shape and feel of the Nike swoosh while creatively transforming it into a glass containing a dark, crimson liquid. Focus on blending the iconic logo with the eerie yet striking visual of a blood-filled glass.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
