@@ -30,10 +30,8 @@ async function loadHistory() {
                 <p class="text-sm text-gray-500 flex items-center">
                     <i class="fa-duotone fa-up-right-and-down-left-from-center mr-2"></i> <span class="font-medium">${entry.aspect_ratio}</span>
                 </p>
-                <p class="custom-font text-lg font-semibold text-gray-700 dark:text-gray-300 mt-2">
-                    ${entry.prompt.replace(/\n/g, '<br>')}
-                </p>
             `;
+            detailsDiv.appendChild(createPromptElement(entry.prompt));
             card.appendChild(detailsDiv);
 
             const escapedPrompt = JSON.stringify(entry.prompt);
@@ -59,6 +57,28 @@ async function loadHistory() {
         console.error(error);
     }
 }
+
+function createPromptElement(promptText) {
+    const promptContainer = document.createElement("div");
+    promptContainer.className = "prompt-container custom-font text-lg font-semibold text-gray-700 dark:text-gray-300 mt-2";
+    promptContainer.innerHTML = promptText.replace(/\n/g, '<br>');
+
+    if (promptText.length > 200) { // If prompt is too long
+        const showMore = document.createElement("div");
+        showMore.className = "show-more";
+        showMore.innerText = "Show More";
+        
+        showMore.onclick = () => {
+            promptContainer.classList.toggle("expanded");
+            showMore.innerText = promptContainer.classList.contains("expanded") ? "Show Less" : "Show More";
+        };
+
+        promptContainer.appendChild(showMore);
+    }
+
+    return promptContainer;
+}
+
 
 // Lazy Loading Function
 function lazyLoadImages() {
