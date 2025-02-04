@@ -397,5 +397,12 @@
         "prompt": "\"omid\" text in neon style that is under the ice, cinematic style and cinematic lighting",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/04 12:33:19",
+        "image_url": "https://i.ibb.co/dZTwdvL/0b0c9af73d5d.jpg",
+        "prompt": "pofeoz",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
