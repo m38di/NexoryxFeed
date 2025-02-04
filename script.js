@@ -61,16 +61,36 @@ async function loadHistory() {
 function createPromptElement(promptText) {
     const promptContainer = document.createElement("div");
     promptContainer.className = "prompt-container custom-font text-lg font-semibold text-gray-700 dark:text-gray-300 mt-2";
+    promptContainer.style.maxHeight = "80px"; // Initial max height
+    promptContainer.style.overflow = "hidden";
+    promptContainer.style.position = "relative";
     promptContainer.innerHTML = promptText.replace(/\n/g, '<br>');
 
-    if (promptText.length > 200) { // If prompt is too long
+    if (promptText.length > 200) { // If the prompt is long
         const showMore = document.createElement("div");
         showMore.className = "show-more";
         showMore.innerText = "Show More";
-        
+        showMore.style.position = "absolute";
+        showMore.style.bottom = "0";
+        showMore.style.left = "0";
+        showMore.style.width = "100%";
+        showMore.style.textAlign = "center";
+        showMore.style.background = "linear-gradient(to bottom, rgba(255,255,255,0), white)";
+        showMore.style.cursor = "pointer";
+        showMore.style.fontSize = "12px";
+        showMore.style.padding = "5px";
+        showMore.style.color = "#007bff";
+
         showMore.onclick = () => {
-            promptContainer.classList.toggle("expanded");
-            showMore.innerText = promptContainer.classList.contains("expanded") ? "Show Less" : "Show More";
+            if (promptContainer.style.maxHeight === "80px") {
+                promptContainer.style.maxHeight = "none"; // Expand
+                promptContainer.style.overflow = "visible";
+                showMore.innerText = "Show Less";
+            } else {
+                promptContainer.style.maxHeight = "80px"; // Collapse
+                promptContainer.style.overflow = "hidden";
+                showMore.innerText = "Show More";
+            }
         };
 
         promptContainer.appendChild(showMore);
@@ -78,6 +98,7 @@ function createPromptElement(promptText) {
 
     return promptContainer;
 }
+
 
 
 // Lazy Loading Function
