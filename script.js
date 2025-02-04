@@ -14,6 +14,11 @@ async function loadHistory() {
             img.src = entry.image_url;
             img.alt = "Generated Image";
             img.className = "w-full h-auto object-contain rounded-2xl";
+
+            img.onload = () => {
+                container.appendChild(card); // Append only after image loads
+            };
+
             card.appendChild(img);
 
             const detailsDiv = document.createElement("div");
@@ -27,15 +32,7 @@ async function loadHistory() {
                 </p>
             `;
             card.appendChild(detailsDiv);
-
-            container.appendChild(card);
         });
-
-        // Apply Masonry Grid
-        container.style.display = "grid";
-        container.style.gridTemplateColumns = "repeat(auto-fit, minmax(300px, 1fr))";
-        container.style.gap = "16px";
-        container.style.gridAutoFlow = "dense";
 
     } catch (error) {
         container.innerHTML = "<p class='text-red-500 text-center'>❌ Failed to load history.</p>";
