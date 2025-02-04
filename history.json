@@ -348,5 +348,12 @@
         "prompt": "food photography, advertising, [cup] on a table, [coffee floating], a splash of [cup], photo manipulation, place for text, highly detailed photos with selective soft focus.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 08:11:42",
+        "image_url": "https://i.ibb.co/35xs2bWz/860923e994ed.png",
+        "prompt": "food photography, advertising, [cup] on a table, [coffee floating], a splash of [cup], photo manipulation, place for text, highly detailed photos with selective soft focus.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
