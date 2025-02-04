@@ -488,5 +488,12 @@
         "prompt": "Create an image featuring the Nike logo reimagined as a glass filled with blood. The design should maintain the recognizable shape and feel of the Nike swoosh while creatively transforming it into a glass containing a dark, crimson liquid. Focus on blending the iconic logo with the eerie yet striking visual of a blood-filled glass.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 00:11:01",
+        "image_url": "https://i.ibb.co/Lzvt1Y3K/21605d30c119.png",
+        "prompt": "A pink pussy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
