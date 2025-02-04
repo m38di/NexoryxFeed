@@ -341,5 +341,12 @@
         "prompt": "texte VIP on",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 08:10:01",
+        "image_url": "https://i.ibb.co/6GyzjGk/104a93b7f7ae.jpg",
+        "prompt": "food photography, advertising, [cup] on a table, [coffee floating], a splash of [cup], photo manipulation, place for text, highly detailed photos with selective soft focus.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
