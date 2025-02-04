@@ -369,5 +369,12 @@
         "prompt": "\u00abNEUROFLAC\u00bb presented in minimalist leaf vein art; each letter shaped by the intricate vein patterns of different leaves--maple oak, ginkgo, fern, birch, and eucalyptus--in delicate shades of green against a pristine white background. The veins subtly form the letters",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/04 08:46:01",
+        "image_url": "https://i.ibb.co/zvLXW7k/35b4544fd3fb.jpg",
+        "prompt": "Hyper realistic studio image of a road, road is on top of the valley, a abandoned bicycle, bicycle fallen on the road, bicycle have red body, black accessories, horizon view, a big green plain, mountains after the plain, mountains is snowy, it's evening, orange sky, blue sky, side view of road, foggy air, dark. --ar 9:20",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
