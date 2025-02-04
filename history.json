@@ -495,5 +495,12 @@
         "prompt": "A pink pussy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 00:11:26",
+        "image_url": "https://i.ibb.co/RTFsFtWM/62f307d324b9.png",
+        "prompt": "pinkpanther",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
