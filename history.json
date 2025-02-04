@@ -334,5 +334,12 @@
         "prompt": "VIP",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/04 06:45:52",
+        "image_url": "https://i.ibb.co/fc26sx5/9d20e7ac2a93.png",
+        "prompt": "texte VIP on",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
