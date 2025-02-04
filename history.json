@@ -425,5 +425,12 @@
         "prompt": "mountains blurred in the background, soft furs on the ground, waterpaint in the style of Cesc Farr\u00e9",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/04 22:05:30",
+        "image_url": "https://i.ibb.co/k69JsYrR/f8ccfc402770.jpg",
+        "prompt": "A futuristic city with flying cars at sunset.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
