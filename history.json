@@ -355,5 +355,12 @@
         "prompt": "food photography, advertising, [cup] on a table, [coffee floating], a splash of [cup], photo manipulation, place for text, highly detailed photos with selective soft focus.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/04 08:15:59",
+        "image_url": "https://i.ibb.co/R4DXS88g/d64d97c39168.png",
+        "prompt": "Crumpled paper elephant on slate gray background, detailed texture emphasizing crumpled nature, contrasting backdrop accentuates form, depth-enhanced through lighting and shadow",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
