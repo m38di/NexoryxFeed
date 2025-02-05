@@ -929,5 +929,12 @@
         "prompt": "Create a logo design for the Adidas company where the iconic logo is constructed entirely from human bones. The design should feature visible cracks on the bones, giving an aged and weathered appearance. The overall aesthetic should evoke an apocalyptic and violent theme, while maintaining an artistic and creative flair. The logo should be prominently set against a deep, pitch-black background for maximum contrast and intensity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 01:42:52",
+        "image_url": "https://i.ibb.co/KcyfHDJQ/3d655587244d.png",
+        "prompt": "Create a logo design for the Real Madrid fc where the iconic logo is constructed entirely from human bones. The design should feature visible cracks on the bones, giving an aged and weathered appearance. The overall aesthetic should evoke an apocalyptic and violent theme, while maintaining an artistic and creative flair. The logo should be prominently set against a deep, pitch-black background for maximum contrast and intensity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
