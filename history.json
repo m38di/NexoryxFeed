@@ -509,5 +509,12 @@
         "prompt": "peugeot 406",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/05 13:31:03",
+        "image_url": "https://i.ibb.co/0RM07KwW/cc7963f99ff8.png",
+        "prompt": "peugeot 206",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
