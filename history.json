@@ -936,5 +936,12 @@
         "prompt": "Create a logo design for the Real Madrid fc where the iconic logo is constructed entirely from human bones. The design should feature visible cracks on the bones, giving an aged and weathered appearance. The overall aesthetic should evoke an apocalyptic and violent theme, while maintaining an artistic and creative flair. The logo should be prominently set against a deep, pitch-black background for maximum contrast and intensity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 01:49:07",
+        "image_url": "https://i.ibb.co/xyjHnyP/29d193d0a359.png",
+        "prompt": "Design a modern and minimalistic football kit for Real Madrid FC, crafted by Adidas. The kit should incorporate sleek and innovative aesthetics while emphasizing clean lines and simplicity. Add a dark, creative background to enhance the overall appeal and sophistication of the design.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
