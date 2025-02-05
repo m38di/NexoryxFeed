@@ -586,5 +586,12 @@
         "prompt": "This image is a surreal and thought-provoking piece of digital art.  It depicts the Earth, not as a sphere, but as a cube, floating in the vast expanse of space.  The cube's faces are clearly textured with the familiar landmasses and oceans of our planet.  The contrast between the expected spherical shape of the Earth and its cubical representation in the image creates a sense of disorientation and wonder.  The background features a dark space speckled with stars and a nebula, emphasizing the immense scale of the cosmos and the small, yet significant, place of Earth within it.  The image evokes questions about perception, reality, and the possibilities beyond our current understanding.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 18:47:34",
+        "image_url": "https://i.ibb.co/vxD6Q7RC/5d08880136e8.jpg",
+        "prompt": "Create a digital artwork of the Peogeot company logo designed to look as if it's made entirely of translucent glass with realistic veins of blood flowing inside it. Place the logo against a pitch-black background to enhance the contrast and highlight the intricate details of the glass and blood textures. The lighting should emphasize the reflective nature of the glass and the vivid red tones of the blood, creating a dark, dramatic, and sophisticated atmosphere. Maintain sharp edges and a clean design while ensuring the blood flows naturally within the logo's structure.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
