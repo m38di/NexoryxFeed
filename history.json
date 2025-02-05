@@ -621,5 +621,12 @@
         "prompt": "cyrus the great & Dariush",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 19:28:01",
+        "image_url": "https://i.ibb.co/r2t935mH/1186a18af5f2.png",
+        "prompt": "A sleek Nike company logo made entirely of intricate, translucent glass, filled with swirling accents of deep red resembling blood. The logo is set against a pitch-black background, designed with a hyper-realistic and dramatic lighting effect. The glass surface has a glossy, polished finish, capturing subtle reflections and light refractions, making the blood visually stunning as it glimmers through the glass. The overall tone is bold, intense, and striking, perfect for creating a modern and edgy interpretation of the iconic logo.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
