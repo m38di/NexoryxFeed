@@ -789,5 +789,12 @@
         "prompt": "**SnoMountain Range:** Envision \"MABHOOT\" carved into a rugged stone surface on a snow-covered mountainside. The letters are dusted with fresh snow, and icicles hang from their edges. A soft, early morning light bathes the scene, with a gentle mist rising from the valley below. Pine trees laden with snow surround the area, and distant peaks are visible through the haze, highlighting the serene and chilly environment.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:55:56",
+        "image_url": "https://i.ibb.co/8ggxy39Y/2e3d5365c0ca.png",
+        "prompt": "**an Environment:** Picture \"MABHOOT\" as a massive neon sign atop a skyscraper in a bustling metropolis. The letters glow in a pulsating rhythm, casting colorful reflections on the surrounding glass buildings. Below, a sea of people moves along busy streets filled with honking cars, street vendors, and towering billboards. The night sky is illuminated by the city lights, creating a vibrant and energetic atmosphere.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
