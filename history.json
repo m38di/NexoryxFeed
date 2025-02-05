@@ -894,5 +894,12 @@
         "prompt": "The North Face logo stylized as an artistic piece made entirely of sport fabric. The logo should have a textured, dynamic 3D appearance resembling athletic wear material, with precise details of stitching and weave. The background features a dark, minimalist fabric surface, adding depth and contrast without overpowering the logo. Captured in high-quality, product photography style with soft, diffused lighting that highlights the textured details.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 00:14:42",
+        "image_url": "https://i.ibb.co/WNzMYDzB/80e7974e1828.png",
+        "prompt": "Create a product photography close-up of a blue \"The North Face\" company logo prominently displayed on the fabric of a jacket. The texture of the fabric should be clearly visible, highlighting the high-quality stitching of the logo. Use natural lighting to enhance the intricate details of the material, with a focus on a clean and minimalist presentation",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
