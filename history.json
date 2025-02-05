@@ -880,5 +880,12 @@
         "prompt": "The North Face logo designed with a shiny, crystalline ice texture. The letters and symbols are sleek, luminous, and reflect cold light. In the background, massive icebergs rise amidst a clear, frozen landscape. The overall vibe is minimalist but conveys a sense of adventure and the cold beauty of nature.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 00:05:10",
+        "image_url": "https://i.ibb.co/Ld92sHQC/32b07e818ff5.png",
+        "prompt": "The North Face logo stylized as an artistic piece made entirely of sport fabric. The logo should have a textured, dynamic 3D appearance resembling athletic wear material, with precise details of stitching and weave. The background features a dark, minimalist fabric surface, adding depth and contrast without overpowering the logo. Captured in high-quality, product photography style with soft, diffused lighting that highlights the textured details.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
