@@ -551,5 +551,12 @@
         "prompt": "csgo",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 17:19:28",
+        "image_url": "https://i.ibb.co/gMCr5xWf/0149761b59ce.jpg",
+        "prompt": "Bach",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
