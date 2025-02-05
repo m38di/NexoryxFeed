@@ -698,5 +698,12 @@
         "prompt": " A tall, muscular Iranian boy is behind the computer designing a logo for a car management company.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/05 21:23:21",
+        "image_url": "https://i.ibb.co/h1gc3hHg/4839b061f7c7.png",
+        "prompt": "A tall, muscular Iranian boy is behind the computer designing a logo for a car management company.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
