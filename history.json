@@ -607,5 +607,12 @@
         "prompt": "Bach",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 19:20:30",
+        "image_url": "https://i.ibb.co/99Rn7NPK/1527ee0e9cdd.png",
+        "prompt": "cyrus the great & Dariush",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
