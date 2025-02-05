@@ -663,5 +663,12 @@
         "prompt": "A radiant starlight elf with glowing golden horns, her intricate facial tattoos resembling constellations, glowing light in her face, soft and ethereal expression, her hair flowing like liquid gold, hyper realism, hyper detail, neon glow, detailed skin, cinematic lighting, Fujifilm Superia, full HD, taken using a Canon EOS R5 camera, 80mm lens, solid pink background --ar 9:16 --p 78qe8bg --v 6.1",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:04:37",
+        "image_url": "https://i.ibb.co/pjqDznsg/0b3e814d2ffd.png",
+        "prompt": "`Photorealistic rendering of a black 1970 Dodge Charger, showcasing its rear quarter panel and iconic taillights. The car is parked on a rain-slicked asphalt road within a dense autumnal forest. It's a misty, rainy day, with droplets falling and forming puddles that perfectly reflect the car and the surrounding fiery orange and red foliage. Bronze/golden deep-dish wheels are a striking contrast to the black body. Observe details like water droplets on the car's polished surface and reflections of the neon red taillights in the puddles. Falling autumn leaves and a few birds are caught mid-flight in the rain. In the distance, a faint silhouette of a passenger jet airplane crosses the cloudy sky, adding a touch of dynamism. A glimpse of a traditional Japanese wooden house can be subtly seen blurred in the background, further enhancing the atmospheric depth. Moody, cinematic lighting. 8k resolution, hyperdetailed, sharp focus.`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
