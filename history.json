@@ -761,5 +761,12 @@
         "prompt": "**Mysterious C:** Picture \"Mabhoot\" etcd into the ancient, rugged walls of a dimly lit cave. The letters are illuminated by the flickering light of nearby torches, revealing intricate carvings and moss-covered surfaces. Stalactites and stalagmites surround the area, and the distant sound of dripping water echoes through the cavern. The air is cool and damp, adding to the sense of mystery and antiquity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:46:11",
+        "image_url": "https://i.ibb.co/JWVkrVS4/874bb3ca39db.png",
+        "prompt": "The North Face logo designed with a shiny, crystalline ice texture. The letters and symbols are sleek, luminous, and reflect cold light. In the background, massive icebergs rise amidst a clear, frozen landscape. The overall vibe is minimalist but conveys a sense of adventure and the cold beauty of nature.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
