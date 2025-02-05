@@ -635,5 +635,12 @@
         "prompt": "niga",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 20:00:02",
+        "image_url": "https://i.ibb.co/sdQ3TNz1/c5cbcbfe7aaf.png",
+        "prompt": "\"An Iranian girl with distinct Persian features is captured strolling through the lively streets of Tehran, with the majestic Milad Tower visible in the background. She wears elegant modern attire accented with subtle traditional Iranian details. The scene is rendered in a highly realistic style, where natural daylight creates authentic shadows and highlights, emphasizing both her graceful presence and the intricate urban environment that reflects Tehran's unique cultural heritage.\"",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
