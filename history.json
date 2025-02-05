@@ -593,5 +593,12 @@
         "prompt": "Create a digital artwork of the Peogeot company logo designed to look as if it's made entirely of translucent glass with realistic veins of blood flowing inside it. Place the logo against a pitch-black background to enhance the contrast and highlight the intricate details of the glass and blood textures. The lighting should emphasize the reflective nature of the glass and the vivid red tones of the blood, creating a dark, dramatic, and sophisticated atmosphere. Maintain sharp edges and a clean design while ensuring the blood flows naturally within the logo's structure.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/05 18:49:42",
+        "image_url": "https://i.ibb.co/ycfZ8sJT/31b84d2ea55c.png",
+        "prompt": "Create a digital artwork of the Peogeot company logo designed to look as if it's made entirely of translucent glass with realistic veins of blood flowing inside it. Place the logo against a pitch-black background to enhance the contrast and highlight the intricate details of the glass and blood textures. The lighting should emphasize the reflective nature of the glass and the vivid red tones of the blood, creating a dark, dramatic, and sophisticated atmosphere. Maintain sharp edges and a clean design while ensuring the blood flows naturally within the logo's structure.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
