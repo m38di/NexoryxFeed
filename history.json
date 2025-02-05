@@ -817,5 +817,12 @@
         "prompt": "`In the secluded and mysterious deep mountains, a huge pale blue mushroom is scattering spores, as if communicating with the surrounding environment. This scene is presented in a long shot composition. The top of the mushroom emits soft light, and the stem part has fine textures. The picture adopts a surreal photography style, integrates fantasy art aesthetics, has studio lights, has the strange beauty of Chinese style, exquisite lines, is rendered by Unreal Engine, presenting 8K movie effects and real light and shadow effects --ar 9:16 --v 6.1`",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 22:51:27",
+        "image_url": "https://i.ibb.co/4g9ZLThw/85fb75b909d2.png",
+        "prompt": "\"WE\" logotype designed with a shiny, crystalline ice texture. The letters and symbols are sleek, luminous, and reflect cold light. In the background, massive icebergs rise amidst a clear, frozen landscape. The overall vibe is minimalist but conveys a sense of adventure and the cold beauty of nature.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
