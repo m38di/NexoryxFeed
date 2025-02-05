@@ -754,5 +754,12 @@
         "prompt": "**Sci-Fi Futuristic Sc:** Visualize \"Mabhoot\" as a hologphic projection hovering above a sleek, metallic platform in a futuristic cityscape. The letters emit a soft, pulsating glow, with streams of data flowing through them. Surrounding the word are towering skyscrapers with illuminated windows, flying vehicles zipping by, and distant planets visible in the sky. The atmosphere is filled with a hum of advanced technology, creating a sense of innovation and possibility.\nThese detailed prompts aim toode vivid imagery and context for the word \"Mabhoot\" in various settings.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:44:41",
+        "image_url": "https://i.ibb.co/1tZLjYVx/709d93754f8e.png",
+        "prompt": "**Mysterious C:** Picture \"Mabhoot\" etcd into the ancient, rugged walls of a dimly lit cave. The letters are illuminated by the flickering light of nearby torches, revealing intricate carvings and moss-covered surfaces. Stalactites and stalagmites surround the area, and the distant sound of dripping water echoes through the cavern. The air is cool and damp, adding to the sense of mystery and antiquity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
