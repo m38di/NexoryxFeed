@@ -614,5 +614,12 @@
         "prompt": "cyrus the great & Dariush",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 19:20:47",
+        "image_url": "https://i.ibb.co/d4CHrxDb/8c402690aed6.png",
+        "prompt": "cyrus the great & Dariush",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
