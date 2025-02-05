@@ -719,5 +719,12 @@
         "prompt": "A tall, muscular Iranian boy is behind the computer designing a logo for a car management company.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/05 21:26:35",
+        "image_url": "https://i.ibb.co/6JwhNc21/8bc3a37d45df.png",
+        "prompt": "@@Create an artistic visual representation of the BMW logo. Design the logo to appear as if it's made entirely of crystalline glass, with traces of vivid red liquid resembling blood flowing within its structure. The setting should feature a dark, moody road in the background, faintly illuminated by an eerie, dim light source. Emphasize the contrast between the pristine, yet slightly ominous logo and the shadowy environment.@@",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
