@@ -775,5 +775,12 @@
         "prompt": "**Tropical Beach:** Imagine \"mabhoot\" spelled o with an assortment of seashells, coral pieces, and smooth pebbles on pristine white sands. The turquoise waves gently lap at the edges of the letters, occasionally washing over them. Palm trees sway in the gentle breeze, casting shadows on the beach. Seagulls call overhead, and a distant sailboat drifts on the horizon, enhancing the idyllic, tropical setting.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:49:15",
+        "image_url": "https://i.ibb.co/hR8TRbgQ/dcc4c1063b39.png",
+        "prompt": "**Urban Paretting:** Visualize \"UPLOAD\" constructed from rustic wooden planks, situated in the center of a lush, green park. The letters are adorned with climbing ivy and blooming flowers, attracting butterflies and bees. Nearby, people are enjoying picnics, children are playing, and joggers pass by on winding paths. The sun filters through the canopy of mature trees, casting dappled shadows on the scene, creating a harmonious blend of nature and urban life.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
