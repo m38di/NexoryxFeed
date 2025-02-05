@@ -747,5 +747,12 @@
         "prompt": "cigarettes",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 21:42:08",
+        "image_url": "https://i.ibb.co/whPs3KWt/cb440f6c8510.png",
+        "prompt": "**Sci-Fi Futuristic Sc:** Visualize \"Mabhoot\" as a hologphic projection hovering above a sleek, metallic platform in a futuristic cityscape. The letters emit a soft, pulsating glow, with streams of data flowing through them. Surrounding the word are towering skyscrapers with illuminated windows, flying vehicles zipping by, and distant planets visible in the sky. The atmosphere is filled with a hum of advanced technology, creating a sense of innovation and possibility.\nThese detailed prompts aim toode vivid imagery and context for the word \"Mabhoot\" in various settings.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
