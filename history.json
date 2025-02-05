@@ -740,5 +740,12 @@
         "prompt": "Design the Nike company logo crafted entirely from luxurious wood, incorporating natural wooden textures with a polished and elegant finish. Add a vintage touch to the overall design with retro-style aesthetics \u2014 including muted color tones, subtle grainy overlays, and a nostalgic warm glow. Ensure the logo retains its iconic swoosh shape with intricate details that enhance the premium, retro-inspired wooden aesthetic.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 21:37:40",
+        "image_url": "https://i.ibb.co/G4krTsJq/2e697bad92e9.png",
+        "prompt": "cigarettes",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
