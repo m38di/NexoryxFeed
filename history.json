@@ -572,5 +572,12 @@
         "prompt": "A sleek Nike company logo made entirely of intricate, translucent glass, filled with swirling accents of deep red resembling blood. The logo is set against a pitch-black background, designed with a hyper-realistic and dramatic lighting effect. The glass surface has a glossy, polished finish, capturing subtle reflections and light refractions, making the blood visually stunning as it glimmers through the glass. The overall tone is bold, intense, and striking, perfect for creating a modern and edgy interpretation of the iconic logo.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 18:33:25",
+        "image_url": "https://i.ibb.co/s9yD3XNN/5ee7b6d48e4c.jpg",
+        "prompt": "This image is a surreal and thought-provoking piece of digital art.  It depicts the Earth, not as a sphere, but as a cube, floating in the vast expanse of space.  The cube's faces are clearly textured with the familiar landmasses and oceans of our planet.  The contrast between the expected spherical shape of the Earth and its cubical representation in the image creates a sense of disorientation and wonder.  The background features a dark space speckled with stars and a nebula, emphasizing the immense scale of the cosmos and the small, yet significant, place of Earth within it.  The image evokes questions about perception, reality, and the possibilities beyond our current understanding.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
