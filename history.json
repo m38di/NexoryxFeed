@@ -537,5 +537,12 @@
         "prompt": "Create a digital artwork of the Nike company logo designed to look as if it's made entirely of translucent glass with realistic veins of blood flowing inside it. Place the logo against a pitch-black background to enhance the contrast and highlight the intricate details of the glass and blood textures. The lighting should emphasize the reflective nature of the glass and the vivid red tones of the blood, creating a dark, dramatic, and sophisticated atmosphere. Maintain sharp edges and a clean design while ensuring the blood flows naturally within the logo's structure.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 17:13:36",
+        "image_url": "https://i.ibb.co/nsS1gXwj/5704dce6892b.png",
+        "prompt": "A dramatic portrait of a figure in medieval attire, wearing a highly detailed, engraved silver mask obscuring their face. The mask features intricate floral patterns and geometric designs. A chainmail hood frames the face.A dark, who has a face and bread of ancient roman philosophers regal figure shrouded in gold and black stands partially hidden amongst trees. The figure wears a dark, reflective mask and is draped in a heavily beaded golden fabric, evoking a sense of mystery and power. The background is a soft, natural green",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
