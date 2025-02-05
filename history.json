@@ -810,5 +810,12 @@
         "prompt": "\"A digital illustration of General Qasem Soleimani, a distinguished commander and national hero of Iran. The image depicts him with a resolute yet calm expression, wearing military attire. The background features the Iranian flag and a symbolic battlefield or plain, evoking a sense of patriotism and sacrifice. A soft golden light illuminates his face, highlighting an aura of courage and spirituality. The overall atmosphere should be inspiring, reminiscent of resilience and dedication.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 22:02:45",
+        "image_url": "https://i.ibb.co/fz9XNxk0/079bfbc1ce0f.png",
+        "prompt": "`In the secluded and mysterious deep mountains, a huge pale blue mushroom is scattering spores, as if communicating with the surrounding environment. This scene is presented in a long shot composition. The top of the mushroom emits soft light, and the stem part has fine textures. The picture adopts a surreal photography style, integrates fantasy art aesthetics, has studio lights, has the strange beauty of Chinese style, exquisite lines, is rendered by Unreal Engine, presenting 8K movie effects and real light and shadow effects --ar 9:16 --v 6.1`",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
