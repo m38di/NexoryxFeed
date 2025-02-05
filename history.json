@@ -579,5 +579,12 @@
         "prompt": "This image is a surreal and thought-provoking piece of digital art.  It depicts the Earth, not as a sphere, but as a cube, floating in the vast expanse of space.  The cube's faces are clearly textured with the familiar landmasses and oceans of our planet.  The contrast between the expected spherical shape of the Earth and its cubical representation in the image creates a sense of disorientation and wonder.  The background features a dark space speckled with stars and a nebula, emphasizing the immense scale of the cosmos and the small, yet significant, place of Earth within it.  The image evokes questions about perception, reality, and the possibilities beyond our current understanding.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/05 18:39:25",
+        "image_url": "https://i.ibb.co/Z6hwBvJk/78c3550b7455.png",
+        "prompt": "This image is a surreal and thought-provoking piece of digital art.  It depicts the Earth, not as a sphere, but as a cube, floating in the vast expanse of space.  The cube's faces are clearly textured with the familiar landmasses and oceans of our planet.  The contrast between the expected spherical shape of the Earth and its cubical representation in the image creates a sense of disorientation and wonder.  The background features a dark space speckled with stars and a nebula, emphasizing the immense scale of the cosmos and the small, yet significant, place of Earth within it.  The image evokes questions about perception, reality, and the possibilities beyond our current understanding.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
