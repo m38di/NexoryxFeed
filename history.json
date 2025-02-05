@@ -733,5 +733,12 @@
         "prompt": "Reimagine the iconic BMW logo as a captivating retro-style design. The logo should be crafted from luxurious and polished wood textures, showcasing intricate grain details. It must evoke a sense of timeless elegance while maintaining its classic circular layout and bold aesthetic. The final result should resonate with a vintage charm, blending tradition with sophistication.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 21:35:25",
+        "image_url": "https://i.ibb.co/kVdZt2bW/7fe9e74e8f3f.png",
+        "prompt": "Design the Nike company logo crafted entirely from luxurious wood, incorporating natural wooden textures with a polished and elegant finish. Add a vintage touch to the overall design with retro-style aesthetics \u2014 including muted color tones, subtle grainy overlays, and a nostalgic warm glow. Ensure the logo retains its iconic swoosh shape with intricate details that enhance the premium, retro-inspired wooden aesthetic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
