@@ -845,5 +845,12 @@
         "prompt": "A metallic, chrome-textured text logo displaying the word 'Sabr' in a sharp, aggressive, and edgy font style. The letters have a jagged, spiky appearance, resembling heavy metal or gothic typography. The surface is highly reflective, with realistic light reflections and highlights, giving it a three-dimensional look. The background is solid black to enhance contrast and make the metallic text stand out. The overall aesthetic is inspired by rock and heavy metal band logos, exuding a bold and powerful visual impact.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/05 23:39:33",
+        "image_url": "https://i.ibb.co/cSn52CpV/e0e453ab7742.png",
+        "prompt": "A metallic, chrome-textured text logo displaying the word 'Sabr' in a sharp, aggressive, and edgy font style. The letters have a jagged, spiky appearance, resembling heavy metal or gothic typography. The surface is highly reflective, with realistic light reflections and highlights, giving it a three-dimensional look. The background is solid black to enhance contrast and make the metallic text stand out. The overall aesthetic is inspired by rock and heavy metal band logos, exuding a bold and powerful visual impact.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
