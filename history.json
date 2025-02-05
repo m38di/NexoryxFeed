@@ -873,5 +873,12 @@
         "prompt": "Ultra-realistic 3D game-style render of the character Gojo Satoru from Jujutsu Kaisen, wearing his signature black outfit, 4K UHD resolution, full HD, with a blended background. The character should be highly detailed, showcasing his iconic blindfold, spiky white hair, and confident, dynamic pose. The black outfit should feature realistic fabric texture, subtle folds, and shading, with intricate details like the buttons and belt. The background should be a seamless blend of urban and supernatural elements, such as a cityscape with glowing cursed energy effects. Dynamic three-point lighting with soft volumetric shadows, glowing energy effects reflecting on the character, and AAA game-quality polish with Pixar-level realism. Ensure flawless geometry, 8K texture clarity, ambient occlusion, and a cinematic anime-inspired aesthetic. Style: Futuristic, highly detailed, and visually striking with a blend of realism and anime vibes. --ar 9:16",
         "aspect_ratio": "9:16",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 00:02:16",
+        "image_url": "https://i.ibb.co/WSZzpvJ/3834093f38b2.png",
+        "prompt": "The North Face logo designed with a shiny, crystalline ice texture. The letters and symbols are sleek, luminous, and reflect cold light. In the background, massive icebergs rise amidst a clear, frozen landscape. The overall vibe is minimalist but conveys a sense of adventure and the cold beauty of nature.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
