@@ -782,5 +782,12 @@
         "prompt": "**Urban Paretting:** Visualize \"UPLOAD\" constructed from rustic wooden planks, situated in the center of a lush, green park. The letters are adorned with climbing ivy and blooming flowers, attracting butterflies and bees. Nearby, people are enjoying picnics, children are playing, and joggers pass by on winding paths. The sun filters through the canopy of mature trees, casting dappled shadows on the scene, creating a harmonious blend of nature and urban life.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:49:23",
+        "image_url": "https://i.ibb.co/q3pdFFyK/6f8d4636e2fa.png",
+        "prompt": "Metal netted background, dark-blue fabric in the back of nets, letter \"X\" written on nets with purple neon light, purple neon. --ar 9:20",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
