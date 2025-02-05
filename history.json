@@ -691,5 +691,12 @@
         "prompt": "a president of Iran on middle of NY whit sexy girl on bitch sex whit them",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:22:31",
+        "image_url": "https://i.ibb.co/KQ59CF8/5482be74c2b1.png",
+        "prompt": " A tall, muscular Iranian boy is behind the computer designing a logo for a car management company.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
