@@ -796,5 +796,12 @@
         "prompt": "**an Environment:** Picture \"MABHOOT\" as a massive neon sign atop a skyscraper in a bustling metropolis. The letters glow in a pulsating rhythm, casting colorful reflections on the surrounding glass buildings. Below, a sea of people moves along busy streets filled with honking cars, street vendors, and towering billboards. The night sky is illuminated by the city lights, creating a vibrant and energetic atmosphere.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:57:26",
+        "image_url": "https://i.ibb.co/v4RQ32v8/cdb929d18cc3.png",
+        "prompt": "`Close up Photo: Hyperrealistic cinematic scene from the Discovery Channel's movie Pok\u00e9mon. In real-life photo of an original Pok\u00e9mon: Ivysaur (like a real one). Scene epic pose on. High-detail textures. Natural. Clear detailed elements. Professional lighting. Style: realistic pokemon real-life photo (Sony Alpha 7, ISO 1900, 4K) --niji 6 --ar 2:3 --style raw --s 500`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
