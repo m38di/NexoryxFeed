@@ -726,5 +726,12 @@
         "prompt": "@@Create an artistic visual representation of the BMW logo. Design the logo to appear as if it's made entirely of crystalline glass, with traces of vivid red liquid resembling blood flowing within its structure. The setting should feature a dark, moody road in the background, faintly illuminated by an eerie, dim light source. Emphasize the contrast between the pristine, yet slightly ominous logo and the shadowy environment.@@",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 21:28:49",
+        "image_url": "https://i.ibb.co/RkMktVkp/54a00b744afd.png",
+        "prompt": "Reimagine the iconic BMW logo as a captivating retro-style design. The logo should be crafted from luxurious and polished wood textures, showcasing intricate grain details. It must evoke a sense of timeless elegance while maintaining its classic circular layout and bold aesthetic. The final result should resonate with a vintage charm, blending tradition with sophistication.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
