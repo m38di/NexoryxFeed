@@ -516,5 +516,12 @@
         "prompt": "peugeot 206",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/05 13:59:55",
+        "image_url": "https://i.ibb.co/nMkJ4vkc/35a79a3161ae.png",
+        "prompt": "Kir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
