@@ -523,5 +523,12 @@
         "prompt": "Kir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 15:44:03",
+        "image_url": "https://i.ibb.co/LXVVQvKw/b1ec62b301ec.png",
+        "prompt": "pubg",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
