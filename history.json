@@ -901,5 +901,12 @@
         "prompt": "Create a product photography close-up of a blue \"The North Face\" company logo prominently displayed on the fabric of a jacket. The texture of the fabric should be clearly visible, highlighting the high-quality stitching of the logo. Use natural lighting to enhance the intricate details of the material, with a focus on a clean and minimalist presentation",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 00:39:21",
+        "image_url": "https://i.ibb.co/3yNyG6WQ/55e0b62b96f2.png",
+        "prompt": "Design a Nike company logo constructed entirely from realistic human bone material. Incorporate visible cracks and fractures along the surface of the bones to enhance texture. The overall aesthetic should feel apocalyptic, raw, and violently chaotic, pushing creative boundaries. Place the logo against a solid black background to emphasize contrast and evoke a dark, dramatic atmosphere",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
