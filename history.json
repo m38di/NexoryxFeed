@@ -782,5 +782,12 @@
         "prompt": "**TranquLakeside:** Imagine \"UPLOAD\" floating serenely on the mirror-like surface of a calm lake at dawn. The letters are made of driftwood, weathered and smooth, with small fish swimming around them. The rising sun casts a warm glow, and the surrounding forest is reflected perfectly in the water. A family of ducks glides past, creating gentle ripples that distort the reflection of the word, adding to the peaceful ambiance.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 21:53:14",
+        "image_url": "https://i.ibb.co/MxVqrVx3/0a68ccf885f4.png",
+        "prompt": "**SnoMountain Range:** Envision \"MABHOOT\" carved into a rugged stone surface on a snow-covered mountainside. The letters are dusted with fresh snow, and icicles hang from their edges. A soft, early morning light bathes the scene, with a gentle mist rising from the valley below. Pine trees laden with snow surround the area, and distant peaks are visible through the haze, highlighting the serene and chilly environment.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
