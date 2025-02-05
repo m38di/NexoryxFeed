@@ -502,5 +502,12 @@
         "prompt": "pinkpanther",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 13:30:41",
+        "image_url": "https://i.ibb.co/bgwJynz6/5e1db28e8fb2.png",
+        "prompt": "peugeot 406",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
