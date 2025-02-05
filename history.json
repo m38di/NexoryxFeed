@@ -803,5 +803,12 @@
         "prompt": "`Close up Photo: Hyperrealistic cinematic scene from the Discovery Channel's movie Pok\u00e9mon. In real-life photo of an original Pok\u00e9mon: Ivysaur (like a real one). Scene epic pose on. High-detail textures. Natural. Clear detailed elements. Professional lighting. Style: realistic pokemon real-life photo (Sony Alpha 7, ISO 1900, 4K) --niji 6 --ar 2:3 --style raw --s 500`",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 22:00:37",
+        "image_url": "https://i.ibb.co/vCJVPTyZ/773a1c076db4.png",
+        "prompt": "\"A digital illustration of General Qasem Soleimani, a distinguished commander and national hero of Iran. The image depicts him with a resolute yet calm expression, wearing military attire. The background features the Iranian flag and a symbolic battlefield or plain, evoking a sense of patriotism and sacrifice. A soft golden light illuminates his face, highlighting an aura of courage and spirituality. The overall atmosphere should be inspiring, reminiscent of resilience and dedication.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
