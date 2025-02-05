@@ -838,5 +838,12 @@
         "prompt": "Nike company logo designed with a shiny, crystalline ice texture. The letters and symbols are sleek, luminous, and reflect cold light. In the background, massive icebergs rise amidst a clear, frozen landscape. The overall vibe is minimalist but conveys a sense of adventure and the cold beauty of nature",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 23:34:52",
+        "image_url": "https://i.ibb.co/yBBbXG6H/720a0c321fc2.jpg",
+        "prompt": "A metallic, chrome-textured text logo displaying the word 'Sabr' in a sharp, aggressive, and edgy font style. The letters have a jagged, spiky appearance, resembling heavy metal or gothic typography. The surface is highly reflective, with realistic light reflections and highlights, giving it a three-dimensional look. The background is solid black to enhance contrast and make the metallic text stand out. The overall aesthetic is inspired by rock and heavy metal band logos, exuding a bold and powerful visual impact.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
