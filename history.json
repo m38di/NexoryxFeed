@@ -789,5 +789,12 @@
         "prompt": "Metal netted background, dark-blue fabric in the back of nets, letter \"X\" written on nets with purple neon light, purple neon. --ar 9:20",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/05 21:50:56",
+        "image_url": "https://i.ibb.co/VYVQ8fsy/001563cfb92d.png",
+        "prompt": "**TranquLakeside:** Imagine \"UPLOAD\" floating serenely on the mirror-like surface of a calm lake at dawn. The letters are made of driftwood, weathered and smooth, with small fish swimming around them. The rising sun casts a warm glow, and the surrounding forest is reflected perfectly in the water. A family of ducks glides past, creating gentle ripples that distort the reflection of the word, adding to the peaceful ambiance.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
