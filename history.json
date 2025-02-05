@@ -915,5 +915,12 @@
         "prompt": "Create a high-resolution artistic effect or style for a logo. Design the Nike company logo as if it is crafted entirely from human bones, with intricate cracks visible throughout the structure. The design should be highly detailed, realistic, and carry a creative touch. Use a black background to enhance contrast and make the logo the focal point. Maintain a balance of eerie aesthetics and artistic sophistication.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 00:52:40",
+        "image_url": "https://i.ibb.co/YBk1cpbF/590d70cf8448.png",
+        "prompt": "Design a Adidas company logo constructed entirely from realistic human bone material. Incorporate visible cracks and fractures along the surface of the bones to enhance texture. The overall aesthetic should feel apocalyptic, raw, and violently chaotic, pushing creative boundaries. Place the logo against a solid black background to emphasize contrast and evoke a dark, dramatic atmosphere",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
