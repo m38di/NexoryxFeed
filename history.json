@@ -656,5 +656,12 @@
         "prompt": "A detailed 3D text \"Mabhoot\" seamlessly blended into a serene mountainous landscape during sunset. The scene includes rugged mountain peaks, lush green meadows, vibrant wildflowers, and scattered stones. The background showcases towering cliffs and distant forested hills under a calm blue sky with warm, golden lighting. The text appears as part of the environment, with textures resembling natural elements like moss or stone, creating harmony with the rugged terrain.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/05 20:59:14",
+        "image_url": "https://i.ibb.co/NM2yhrp/e08041e19d81.png",
+        "prompt": "A radiant starlight elf with glowing golden horns, her intricate facial tattoos resembling constellations, glowing light in her face, soft and ethereal expression, her hair flowing like liquid gold, hyper realism, hyper detail, neon glow, detailed skin, cinematic lighting, Fujifilm Superia, full HD, taken using a Canon EOS R5 camera, 80mm lens, solid pink background --ar 9:16 --p 78qe8bg --v 6.1",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
