@@ -544,5 +544,12 @@
         "prompt": "A dramatic portrait of a figure in medieval attire, wearing a highly detailed, engraved silver mask obscuring their face. The mask features intricate floral patterns and geometric designs. A chainmail hood frames the face.A dark, who has a face and bread of ancient roman philosophers regal figure shrouded in gold and black stands partially hidden amongst trees. The figure wears a dark, reflective mask and is draped in a heavily beaded golden fabric, evoking a sense of mystery and power. The background is a soft, natural green",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 17:16:56",
+        "image_url": "https://i.ibb.co/bgSKH8rq/8170de1e2db1.png",
+        "prompt": "csgo",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
