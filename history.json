@@ -859,5 +859,12 @@
         "prompt": "Ultra-realistic 3D game-style render of a male engineer wearing a sleek black shirt, holding an A3-sized white paper in one hand, 4K UHD resolution, full HD, no background (transparent/alpha channel). The man should have a professional and confident pose, with detailed facial features, smooth skin texture, and natural hand positioning. The A3 paper should appear crisp and clean, with subtle folds or creases for realism, held at a natural angle to emphasize its size. The black shirt should feature realistic fabric texture, subtle folds, and shading. Dynamic three-point lighting with soft volumetric shadows, subtle reflections on the paper, and AAA game-quality polish with Pixar-level realism. Ensure flawless geometry, 8K texture clarity, ambient occlusion, and a cinematic sci-fi/modern aesthetic. Style: Futuristic, professional, and highly detailed with a clean, modern vibe",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/05 23:57:12",
+        "image_url": "https://i.ibb.co/DPJvQ4M9/0f953ea5a25a.png",
+        "prompt": "Ultra-realistic 3D game-style render of the character Gojo Satoru from Jujutsu Kaisen, wearing his signature black outfit, 4K UHD resolution, full HD, with a blended background. The character should be highly detailed, showcasing his iconic blindfold, spiky white hair, and confident, dynamic pose. The black outfit should feature realistic fabric texture, subtle folds, and shading, with intricate details like the buttons and belt. The background should be a seamless blend of urban and supernatural elements, such as a cityscape with glowing cursed energy effects. Dynamic three-point lighting with soft volumetric shadows, glowing energy effects reflecting on the character, and AAA game-quality polish with Pixar-level realism. Ensure flawless geometry, 8K texture clarity, ambient occlusion, and a cinematic anime-inspired aesthetic. Style: Futuristic, highly detailed, and visually striking with a blend of realism and anime vibes. --ar 9:16",
+        "aspect_ratio": "9:16",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
