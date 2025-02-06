@@ -1020,5 +1020,12 @@
         "prompt": "fuck",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 08:59:18",
+        "image_url": "https://i.ibb.co/nqTNZwHQ/a643c2de9378.jpg",
+        "prompt": "I want a piece of charcoal texture, almost white charcoal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
