@@ -1027,5 +1027,12 @@
         "prompt": "I want a piece of charcoal texture, almost white charcoal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 09:00:09",
+        "image_url": "https://i.ibb.co/KxybQRjY/90ab4994f573.jpg",
+        "prompt": "I want a piece of charcoal texture",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
