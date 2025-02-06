@@ -1209,5 +1209,12 @@
         "prompt": "lubgh",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 14:00:39",
+        "image_url": "https://i.ibb.co/pj1QywW0/904c18a71a5f.png",
+        "prompt": "ronaldo",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
