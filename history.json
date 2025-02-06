@@ -1272,5 +1272,12 @@
         "prompt": "`In a captivating scene, a vibrant vector-style anime character Naruto , gently hugs a realistic human figure\u00a0 Masoud Pezeshkian . The character wears a dynamic outfit, showcasing swirling\u00a0 while the human figure Masoud Pezeshkian , dressed in black Suit, reflects a serene expression. Set in a bustling city street during the golden hour, warm sunlight bathes the scene, casting soft shadows. The background features realistic buildings and greenery, contrasting with the character's flat, two-dimensional appearance, creating a harmonious blend of styles. This juxtaposition evokes a sense of wonder and warmth.`",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 15:27:14",
+        "image_url": "https://i.ibb.co/bgHS4TCv/0e5d8846602c.png",
+        "prompt": "`Donald Trump with little Smile stand behind a minimal table red colored with [ sliced watermelons] while holding a book of Hafez poetry with text \" Hafez \" on it minimal table , cinematic close up photo of Donald Trump, in a crisp white shirt and sharp red suit, 45-degree corner angle view, bright and cheerful, rich red dark colored background , Rendered in a style reminiscent of high-quality films, with an emphasis on depth of field and cinematic lighting , close up hyperdetailed, masterpiece, 108mp, hyperintricate subtle details, extreme contrast`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
