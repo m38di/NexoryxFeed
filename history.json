@@ -1146,5 +1146,12 @@
         "prompt": "Red man hug it blue man",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 12:04:39",
+        "image_url": "https://i.ibb.co/V1PpCQP/b1472b86e839.png",
+        "prompt": "a sealed letter pocket, Samsung logo on the Vax seal, smoke coming out from the edges of pocket, red Stamp, cinematic. --ar 9:20",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
