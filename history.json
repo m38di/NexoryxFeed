@@ -1090,5 +1090,12 @@
         "prompt": "hungry black man",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 10:01:15",
+        "image_url": "https://i.ibb.co/fzZPXCsQ/f9cd28ac7556.png",
+        "prompt": "10 black people crying",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
