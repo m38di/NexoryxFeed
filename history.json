@@ -1167,5 +1167,12 @@
         "prompt": "Pablo Escobar",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 13:54:06",
+        "image_url": "https://i.ibb.co/n85kZpWL/ed6ebb18a0f2.png",
+        "prompt": "donkey devil",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
