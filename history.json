@@ -1328,5 +1328,12 @@
         "prompt": "A warrior in a long black and pink dress, half covered in blood, with her head down, only her eyes slightly visible, and a blue sword in her hand that glows a little, is standing on a high rock.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 19:19:08",
+        "image_url": "https://i.ibb.co/PG36XvgH/560b8c03e2ca.png",
+        "prompt": "`Two beautiful fashion models full body wide shot, wearing glasses, dressed in oversize inflatable suit, posing in funny but confident positions for the camera, standing on snow with a blue sky and pink and yellow flashy colors, an iPhone photograph, a full-body shot, hyper-realistic in the style of a photorealistic painting, fashion photoshoot --ar 9:16 --v 6.1`",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
