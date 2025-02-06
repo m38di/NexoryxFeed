@@ -1048,5 +1048,12 @@
         "prompt": "Dog",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 09:39:41",
+        "image_url": "https://i.ibb.co/KxJjhb4S/bb9029c18015.jpg",
+        "prompt": "Sad Dog",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
