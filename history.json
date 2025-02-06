@@ -950,5 +950,12 @@
         "prompt": "Design a modern and creative Sony company logo, inspired by the effect of radiant radio waves. Incorporate sleek, futuristic patterns that convey innovation and technology. The logo should visually symbolize the concept of communication and sound waves traveling through space. Use a dark background to highlight the glowing, dynamic wave elements, giving it a luminous and cutting-edge aesthetic.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 03:10:41",
+        "image_url": "https://i.ibb.co/ynp5dSCX/31b3c683418b.png",
+        "prompt": "Create a modern and creative design of the Sony company logo made of dynamic and flowing radio waves. Use a dark background to enhance the visual contrast and emphasize the glowing effect of the waves. Ensure the design feels professional, contemporary, and visually striking.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
