@@ -1363,5 +1363,12 @@
         "prompt": "A futuristic city with flying cars at sunset.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/06 20:05:27",
+        "image_url": "https://i.ibb.co/gZvncHcf/3869874070f5.png",
+        "prompt": "A name board as malayalam",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
