@@ -1307,5 +1307,12 @@
         "prompt": "A striking 3D render of the \"KHANZADE\" logo, featuring bold, RED stylized text in a futuristic, edgy, and cyberpunk design. Theblocky, angular font has sharp edges and a slightly aggressive appearance, with letters arranged in a compact and interlocking manner, creating a cohesive and dynamic shape. The text is arranged in a way that it forms an energy-filled, interconnected pattern. The background is a deep yellow, enhancing the contrast and visual impact of the logo. The design successfully combines modern aesthetics with a hint of retro gaming elements, providing an eye-catching and exciting appearance suitable for a tech or gaming brand., typography, 3d render, conceptual art , on Tropical rocks forest background , very",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 15:50:50",
+        "image_url": "https://i.ibb.co/tMJvCtqv/aace898a39cf.jpg",
+        "prompt": "A 3D rendered artwork of the $ logo, featuring the words \"Graphist\" in a beautiful, broken font. The distinctive letters flow like fire in green, showcasing an attractive glow that flows in varying shades of neon green and black. The dynamic effect is enhanced by the presence of the \"$\" symbol in various sizes, scattered around the logo, adding a refreshing and eye-catching dimension. The background is covered with a poster of dollar bills and is reflective, showcasing the neon green and black colors, adding excitement to the design",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
