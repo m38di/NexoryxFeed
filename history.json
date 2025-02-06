@@ -1216,5 +1216,12 @@
         "prompt": "ronaldo",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 14:09:56",
+        "image_url": "https://i.ibb.co/39fWdWLQ/f8d1f6464366.jpg",
+        "prompt": "Ronaldinho",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
