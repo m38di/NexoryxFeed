@@ -1286,5 +1286,12 @@
         "prompt": "A knight riding a pink cat in a dark forest, head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 15:43:15",
+        "image_url": "https://i.ibb.co/LDkhZYNV/a6a1b0363bcf.jpg",
+        "prompt": "a hello kitty dressed in a suit and sitting in an office with a laptop on",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
