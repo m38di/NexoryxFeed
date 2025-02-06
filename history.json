@@ -1125,5 +1125,12 @@
         "prompt": "a very angry black man",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 11:58:35",
+        "image_url": "https://i.ibb.co/Txhg92zG/edfeb5dfecbb.png",
+        "prompt": "Paddy Square",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
