@@ -1398,5 +1398,12 @@
         "prompt": "A stunning album cover featuring the face of an attractive female cyborg with closed eyes and open mouth, wearing futuristic makeup in shades off blue against dark background. The style is hyper-realistic sci-fi, with vibrant neon lighting creating striking contrasts between light and shadow. This visually captivating composition captures attention and brings to life cybernetic beauty through the artistry of digital photography.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/06 21:23:43",
+        "image_url": "https://i.ibb.co/CpY3FYj1/42e5cbf03db8.png",
+        "prompt": "Create a highly detailed and realistic 3D game-style render focusing solely on a human hand holding a blank A3 white sheet of paper. The hand belongs to a middle-aged male engineer, showcasing professional and precise details: clean, well-groomed nails, natural skin texture with subtle veins and wrinkles, and a calm, steady grip on the paper. The blank A3 sheet is smooth, with sharp edges, slight reflections, and a pristine white surface that draws attention.\n\nThe rendering should be flawless, in 4K resolution and Full HD quality, emphasizing ultra-realistic textures and lighting effects on both the hand and the paper. The background is completely transparent or removed, ensuring all focus remains on the hand and the paper. The style aligns with modern 3D gaming aesthetics, combining photorealism with artistic precision to create a visually striking and lifelike result. Ensure there are no imperfections or distractions, maintaining absolute clarity and detail",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
