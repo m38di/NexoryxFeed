@@ -1419,5 +1419,12 @@
         "prompt": "\u06cc\u06a9 \u0639\u06a9\u0633 \u0628\u0633\u0627\u0632 \u0627\u0632 \u0645\u062d\u06cc\u0637\u06cc \u0628\u0631\u0627\u06cc \u06cc\u06a9 \u0645\u0639\u0627\u0634\u0642\u0647 \u0628\u0647 \u0645\u0645\u062c",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 01:41:13",
+        "image_url": "https://i.ibb.co/MT3gJvN/7bfffc8c3e5e.png",
+        "prompt": "Create a romantic scene in a picturesque park during sunset, where two close friends, one with fair skin and the other with dark skin, are sitting together on a bench. The atmosphere is warm and inviting, with cherry blossom trees in bloom around them. On the pocket of the fair-skinned man\u2019s jacket, there\u2019s a subtle message embroidered that reads '\u0645\u0645\u062c' in an elegant font. The scene should convey a strong bond of friendship and affection between them, with smiles and laughter shared as they enjoy each other's company",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
