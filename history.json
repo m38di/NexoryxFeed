@@ -1314,5 +1314,12 @@
         "prompt": "A 3D rendered artwork of the $ logo, featuring the words \"Graphist\" in a beautiful, broken font. The distinctive letters flow like fire in green, showcasing an attractive glow that flows in varying shades of neon green and black. The dynamic effect is enhanced by the presence of the \"$\" symbol in various sizes, scattered around the logo, adding a refreshing and eye-catching dimension. The background is covered with a poster of dollar bills and is reflective, showcasing the neon green and black colors, adding excitement to the design",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 16:12:28",
+        "image_url": "https://i.ibb.co/Swj4rnJS/cb26eba0b828.jpg",
+        "prompt": "A warrior in a long black and pink dress, half covered in blood, with her head down, only her eyes slightly visible, and a blue sword in her hand that glows a little, is standing on a high rock.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
