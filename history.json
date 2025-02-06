@@ -1251,5 +1251,12 @@
         "prompt": "The text {ZRVAN} is ok, the color should be orange and black, an attractive stone text effect, add some Achaemenid graphic elements and a collage background of Iranian historical photos, give it a kind of cartoon style.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 14:43:15",
+        "image_url": "https://i.ibb.co/XxS71C6m/8ab69680a79e.jpg",
+        "prompt": "God",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
