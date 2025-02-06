@@ -1069,5 +1069,12 @@
         "prompt": "black man",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 09:57:34",
+        "image_url": "https://i.ibb.co/dstrGCmb/00514113a8f5.png",
+        "prompt": "angry black man",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
