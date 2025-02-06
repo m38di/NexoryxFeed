@@ -1097,5 +1097,12 @@
         "prompt": "10 black people crying",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 10:02:29",
+        "image_url": "https://i.ibb.co/TqYx9KF7/6218a0e3ed9e.png",
+        "prompt": "black people cry",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
