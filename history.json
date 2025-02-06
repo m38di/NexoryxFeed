@@ -1153,5 +1153,12 @@
         "prompt": "a sealed letter pocket, Samsung logo on the Vax seal, smoke coming out from the edges of pocket, red Stamp, cinematic. --ar 9:20",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 12:04:42",
+        "image_url": "https://i.ibb.co/sv31Rktn/36540311f793.png",
+        "prompt": "carton Red Character hug carton blue Character",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
