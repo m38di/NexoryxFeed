@@ -992,5 +992,12 @@
         "prompt": "Create a sleek and modern design for the Sony company logo. The logo should appear as if it is crafted from polished metal, reflecting a cool metallic sheen. Surround it with glowing, dynamic blue radio waves emanating in a dark, futuristic background. Maintain a creative yet professional aesthetic, emphasizing innovation and technology.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 03:54:00",
+        "image_url": "https://i.ibb.co/BHtJmZhr/2d43691aa334.png",
+        "prompt": "Create a sleek and modern design for the bose company logo. The logo should appear as if it is crafted from polished metal, reflecting a cool metallic sheen. Surround it with glowing, dynamic blue radio waves emanating in a dark, futuristic background. Maintain a creative yet professional aesthetic, emphasizing innovation and technology.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
