@@ -1223,5 +1223,12 @@
         "prompt": "Ronaldinho",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 14:15:08",
+        "image_url": "https://i.ibb.co/7NXWFpsJ/b6e5292d002e.png",
+        "prompt": " Abol logo or name",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
