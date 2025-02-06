@@ -1258,5 +1258,12 @@
         "prompt": "God",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 15:23:09",
+        "image_url": "https://i.ibb.co/NgjWsJP5/f8df74ca4d4a.png",
+        "prompt": "In a snowy park, a fiery snowman stands melting under the warm glow of fire. The snowman is intricately crafted, with coal for eyes, a carrot nose, and a scarf that flutters in the slight breeze. Its body shows vibrant patches of orange and red from the heat, contrasting against the surrounding pure white snow. Above the snowman, large icy letters spell \"KHANZADE\" suspended in the chilly air. The park features layered snow drifts, distant trees bent under heavy snow, and soft shadows playing across the ground. The warm lighting from the snowman's fire creates a cozy, surreal atmosphere, evoking both warmth and sadness from the melting figure.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
