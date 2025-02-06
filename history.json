@@ -1111,5 +1111,12 @@
         "prompt": "a sweet potato and chips with it",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 10:04:47",
+        "image_url": "https://i.ibb.co/YTTVGtJP/a6802575b1b7.png",
+        "prompt": "Minecraft purple aesthetic skin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
