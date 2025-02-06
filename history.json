@@ -1377,5 +1377,12 @@
         "prompt": "A cactus made of black plastic bags, simple background, minimalist art collage, surreal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 21:04:18",
+        "image_url": "https://i.ibb.co/XfWBWv0x/6a4de0482fec.jpg",
+        "prompt": "Ultra-realistic 3D game-style render of a hand holding an A3-sized white paper, 4K UHD resolution, full HD, no background (transparent/alpha channel). The hand should be highly detailed, showing smooth skin texture, subtle veins, and natural positioning. The A3 paper should appear crisp and clean, with subtle folds or creases for realism, held at a natural angle to emphasize its size. Dynamic three-point lighting with soft volumetric shadows, subtle reflections on the paper, and AAA game-quality polish with Pixar-level realism. Ensure flawless geometry, 8K texture clarity, ambient occlusion, and a cinematic sci-fi/modern aesthetic. Style: Futuristic, professional, and highly detailed with a clean, modern vibe \u2014ar 3:4",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
