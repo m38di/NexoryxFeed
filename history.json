@@ -1356,5 +1356,12 @@
         "prompt": "Design a luxurious and elegant text-based logo featuring the letters 'WE'. The logo should exude sophistication with a minimalist yet modern look. Incorporate a harmonious blend of gold and silver tones, with smooth gradients and subtle reflective effects. The typography should be bold and clean, with a slightly futuristic aesthetic. Add an artistic flair, such as intricate patterns or glowing edges, but keep the logo uncluttered. The background should remain dark (black or deep gray) to emphasize the metallic text, with a soft spotlight or slight shadowing to create depth. Ensure the overall design feels professional, powerful, and timeless.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 20:03:36",
+        "image_url": "https://i.ibb.co/Z6Z0qRGH/c32c827d984a.png",
+        "prompt": "A futuristic city with flying cars at sunset.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
