@@ -943,5 +943,12 @@
         "prompt": "Design a modern and minimalistic football kit for Real Madrid FC, crafted by Adidas. The kit should incorporate sleek and innovative aesthetics while emphasizing clean lines and simplicity. Add a dark, creative background to enhance the overall appeal and sophistication of the design.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 03:05:51",
+        "image_url": "https://i.ibb.co/wNmMzwzD/7fde8333b436.png",
+        "prompt": "Design a modern and creative Sony company logo, inspired by the effect of radiant radio waves. Incorporate sleek, futuristic patterns that convey innovation and technology. The logo should visually symbolize the concept of communication and sound waves traveling through space. Use a dark background to highlight the glowing, dynamic wave elements, giving it a luminous and cutting-edge aesthetic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
