@@ -1174,5 +1174,12 @@
         "prompt": "donkey devil",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/06 13:54:07",
+        "image_url": "https://i.ibb.co/Q3F5v2rX/cb1dffceebb1.png",
+        "prompt": " Eagle Forest",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
