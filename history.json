@@ -1265,5 +1265,12 @@
         "prompt": "In a snowy park, a fiery snowman stands melting under the warm glow of fire. The snowman is intricately crafted, with coal for eyes, a carrot nose, and a scarf that flutters in the slight breeze. Its body shows vibrant patches of orange and red from the heat, contrasting against the surrounding pure white snow. Above the snowman, large icy letters spell \"KHANZADE\" suspended in the chilly air. The park features layered snow drifts, distant trees bent under heavy snow, and soft shadows playing across the ground. The warm lighting from the snowman's fire creates a cozy, surreal atmosphere, evoking both warmth and sadness from the melting figure.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 15:26:36",
+        "image_url": "https://i.ibb.co/cXbv4MRb/e3ae0f9e23f9.png",
+        "prompt": "`In a captivating scene, a vibrant vector-style anime character Naruto , gently hugs a realistic human figure\u00a0 Masoud Pezeshkian . The character wears a dynamic outfit, showcasing swirling\u00a0 while the human figure Masoud Pezeshkian , dressed in black Suit, reflects a serene expression. Set in a bustling city street during the golden hour, warm sunlight bathes the scene, casting soft shadows. The background features realistic buildings and greenery, contrasting with the character's flat, two-dimensional appearance, creating a harmonious blend of styles. This juxtaposition evokes a sense of wonder and warmth.`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
