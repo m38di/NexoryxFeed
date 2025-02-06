@@ -1426,5 +1426,12 @@
         "prompt": "Create a romantic scene in a picturesque park during sunset, where two close friends, one with fair skin and the other with dark skin, are sitting together on a bench. The atmosphere is warm and inviting, with cherry blossom trees in bloom around them. On the pocket of the fair-skinned man\u2019s jacket, there\u2019s a subtle message embroidered that reads '\u0645\u0645\u062c' in an elegant font. The scene should convey a strong bond of friendship and affection between them, with smiles and laughter shared as they enjoy each other's company",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 01:43:37",
+        "image_url": "https://i.ibb.co/qYLj8KVx/2d9594e2dce0.png",
+        "prompt": "Create a romantic scene in a picturesque park during sunset, where two close friends, one with fair skin and the other with dark skin, are sitting together on a bench. The atmosphere is warm and inviting, with cherry blossom trees in bloom around them. On the pocket of the fair-skinned man\u2019s jacket, there\u2019s a subtle message embroidered that reads '\u0645\u0645\u062c' in an elegant font. The scene should convey a strong bond of friendship and affection between them, with smiles and laughter shared as they enjoy each other's company",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
