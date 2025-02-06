@@ -1321,5 +1321,12 @@
         "prompt": "A warrior in a long black and pink dress, half covered in blood, with her head down, only her eyes slightly visible, and a blue sword in her hand that glows a little, is standing on a high rock.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 16:13:04",
+        "image_url": "https://i.ibb.co/ycN4p6CB/a86a72762dda.jpg",
+        "prompt": "A warrior in a long black and pink dress, half covered in blood, with her head down, only her eyes slightly visible, and a blue sword in her hand that glows a little, is standing on a high rock.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
