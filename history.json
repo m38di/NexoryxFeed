@@ -1083,5 +1083,12 @@
         "prompt": "black man with ice cream in his hands",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 09:59:19",
+        "image_url": "https://i.ibb.co/PzFmHqD5/473a0583920d.png",
+        "prompt": "hungry black man",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
