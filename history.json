@@ -1041,5 +1041,12 @@
         "prompt": "emam zaman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 09:12:42",
+        "image_url": "https://i.ibb.co/3mqGPPnC/8074a5999903.png",
+        "prompt": "Dog",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
