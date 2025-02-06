@@ -1230,5 +1230,12 @@
         "prompt": " Abol logo or name",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/06 14:22:05",
+        "image_url": "https://i.ibb.co/zWbPyhnv/e36a6fd4e4c5.png",
+        "prompt": "MX Logo For Gap",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
