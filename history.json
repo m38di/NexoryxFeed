@@ -1349,5 +1349,12 @@
         "prompt": "`Product design: The bottle shape is cylindrical with a handle at the top of the water cup, intended for outdoor use. The color gradient transitions from black to pink in the middle. The brand name is \"HAERS\", and the logo is located on the bottom part of the coffee pot body. The product photography features a simple background and studio lighting, showcasing the best quality --ar 28:39 --s 250`",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 19:24:20",
+        "image_url": "https://i.ibb.co/v60nK24p/67ca35b18c49.png",
+        "prompt": "Design a luxurious and elegant text-based logo featuring the letters 'WE'. The logo should exude sophistication with a minimalist yet modern look. Incorporate a harmonious blend of gold and silver tones, with smooth gradients and subtle reflective effects. The typography should be bold and clean, with a slightly futuristic aesthetic. Add an artistic flair, such as intricate patterns or glowing edges, but keep the logo uncluttered. The background should remain dark (black or deep gray) to emphasize the metallic text, with a soft spotlight or slight shadowing to create depth. Ensure the overall design feels professional, powerful, and timeless.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
