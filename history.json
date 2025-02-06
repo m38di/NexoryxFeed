@@ -1055,5 +1055,12 @@
         "prompt": "Sad Dog",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 09:40:48",
+        "image_url": "https://i.ibb.co/S4y0yk7B/09a4bbe356ca.jpg",
+        "prompt": "God",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
