@@ -1412,5 +1412,12 @@
         "prompt": "The photo of two lesbian girls in a bra and shorts with black lacquer, while one of them is showing her middle finger in the picture, with black hair and red lipstick, high heels, diamond rings, gold chains around both necks, and around them full of dollars, and the other girl is tearing the picture of her ex-boyfriend.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 01:34:58",
+        "image_url": "https://i.ibb.co/GfV8D9y1/3df04b4ef1f1.png",
+        "prompt": "\u06cc\u06a9 \u0639\u06a9\u0633 \u0628\u0633\u0627\u0632 \u0627\u0632 \u0645\u062d\u06cc\u0637\u06cc \u0628\u0631\u0627\u06cc \u06cc\u06a9 \u0645\u0639\u0627\u0634\u0642\u0647 \u0628\u0647 \u0645\u0645\u062c",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
