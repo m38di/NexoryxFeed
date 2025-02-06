@@ -1244,5 +1244,12 @@
         "prompt": "The profile of the channel named \"Iran Filmi\" is ready!  The design includes a dark cinematic background, a golden film reel, a classic video camera, and a beautiful channel name text in Farsi script.  If you have any changes in mind, tell me to edit!",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 14:42:00",
+        "image_url": "https://i.ibb.co/3y7cj0Mr/834dac8d3019.jpg",
+        "prompt": "The text {ZRVAN} is ok, the color should be orange and black, an attractive stone text effect, add some Achaemenid graphic elements and a collage background of Iranian historical photos, give it a kind of cartoon style.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
