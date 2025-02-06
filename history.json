@@ -1335,5 +1335,12 @@
         "prompt": "`Two beautiful fashion models full body wide shot, wearing glasses, dressed in oversize inflatable suit, posing in funny but confident positions for the camera, standing on snow with a blue sky and pink and yellow flashy colors, an iPhone photograph, a full-body shot, hyper-realistic in the style of a photorealistic painting, fashion photoshoot --ar 9:16 --v 6.1`",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 19:20:04",
+        "image_url": "https://i.ibb.co/LDGHcp3k/4ba94c10b034.jpg",
+        "prompt": "Design a luxurious and elegant text-based logo featuring the letters 'WE'. The logo should exude sophistication with a minimalist yet modern look. Incorporate a harmonious blend of gold and silver tones, with smooth gradients and subtle reflective effects. The typography should be bold and clean, with a slightly futuristic aesthetic. Add an artistic flair, such as intricate patterns or glowing edges, but keep the logo uncluttered. The background should remain dark (black or deep gray) to emphasize the metallic text, with a soft spotlight or slight shadowing to create depth. Ensure the overall design feels professional, powerful, and timeless.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
