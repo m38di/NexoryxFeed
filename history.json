@@ -1188,5 +1188,12 @@
         "prompt": " Eagle",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/06 13:55:14",
+        "image_url": "https://i.ibb.co/SWPWJj7/cac98a1289ea.png",
+        "prompt": " Eagle",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
