@@ -1279,5 +1279,12 @@
         "prompt": "`Donald Trump with little Smile stand behind a minimal table red colored with [ sliced watermelons] while holding a book of Hafez poetry with text \" Hafez \" on it minimal table , cinematic close up photo of Donald Trump, in a crisp white shirt and sharp red suit, 45-degree corner angle view, bright and cheerful, rich red dark colored background , Rendered in a style reminiscent of high-quality films, with an emphasis on depth of field and cinematic lighting , close up hyperdetailed, masterpiece, 108mp, hyperintricate subtle details, extreme contrast`",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 15:40:05",
+        "image_url": "https://i.ibb.co/5hWHsBF3/b6c2778e28c9.jpg",
+        "prompt": "A knight riding a pink cat in a dark forest, head and shoulders portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed Splash art trending on Artstation triadic colors Unreal Engine 5 volumetric lighting",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
