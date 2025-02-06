@@ -1160,5 +1160,12 @@
         "prompt": "carton Red Character hug carton blue Character",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 12:09:30",
+        "image_url": "https://i.ibb.co/2YZQK3pH/d0bfcb326240.png",
+        "prompt": "Pablo Escobar",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
