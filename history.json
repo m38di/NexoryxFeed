@@ -1391,5 +1391,12 @@
         "prompt": "Ultra-realistic 3D game-style render of a hand holding an A3-sized white paper, 4K UHD resolution, full HD, no background (transparent/alpha channel). The hand should be highly detailed, showing smooth skin texture, subtle veins, and natural positioning. The A3 paper should appear crisp and clean, with subtle folds or creases for realism, held at a natural angle to emphasize its size. Dynamic three-point lighting with soft volumetric shadows, subtle reflections on the paper, and AAA game-quality polish with Pixar-level realism. Ensure flawless geometry, 8K texture clarity, ambient occlusion, and a cinematic sci-fi/modern aesthetic. Style: Futuristic, professional, and highly detailed with a clean, modern vibe \u2014ar 3:4",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/06 21:05:01",
+        "image_url": "https://i.ibb.co/1tjCrK5k/4c3bb768f66e.png",
+        "prompt": "A stunning album cover featuring the face of an attractive female cyborg with closed eyes and open mouth, wearing futuristic makeup in shades off blue against dark background. The style is hyper-realistic sci-fi, with vibrant neon lighting creating striking contrasts between light and shadow. This visually captivating composition captures attention and brings to life cybernetic beauty through the artistry of digital photography.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
