@@ -1076,5 +1076,12 @@
         "prompt": "angry black man",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 09:58:21",
+        "image_url": "https://i.ibb.co/zTwmWP2h/fd504558f748.png",
+        "prompt": "black man with ice cream in his hands",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
