@@ -1181,5 +1181,12 @@
         "prompt": " Eagle Forest",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 13:54:37",
+        "image_url": "https://i.ibb.co/5ggG628J/0fe42e6c7c40.png",
+        "prompt": " Eagle",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
