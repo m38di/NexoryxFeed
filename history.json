@@ -1062,5 +1062,12 @@
         "prompt": "God",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 09:57:01",
+        "image_url": "https://i.ibb.co/TBzkLb6x/cbb962d22f9d.png",
+        "prompt": "black man",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
