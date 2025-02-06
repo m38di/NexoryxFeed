@@ -1118,5 +1118,12 @@
         "prompt": "Minecraft purple aesthetic skin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 10:08:33",
+        "image_url": "https://i.ibb.co/QFfYz9mz/4b950d85d63e.png",
+        "prompt": "a very angry black man",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
