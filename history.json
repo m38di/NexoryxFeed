@@ -1237,5 +1237,12 @@
         "prompt": "MX Logo For Gap",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 14:39:36",
+        "image_url": "https://i.ibb.co/5gWdLdnz/f7267567551d.jpg",
+        "prompt": "The profile of the channel named \"Iran Filmi\" is ready!  The design includes a dark cinematic background, a golden film reel, a classic video camera, and a beautiful channel name text in Farsi script.  If you have any changes in mind, tell me to edit!",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
