@@ -957,5 +957,12 @@
         "prompt": "Create a modern and creative design of the Sony company logo made of dynamic and flowing radio waves. Use a dark background to enhance the visual contrast and emphasize the glowing effect of the waves. Ensure the design feels professional, contemporary, and visually striking.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/06 03:16:28",
+        "image_url": "https://i.ibb.co/h1W7yQF5/88cebbf52078.png",
+        "prompt": "Create a sleek and modern design for the Sony company logo. The logo should appear as if it is crafted from polished metal, reflecting a cool metallic sheen. Surround it with glowing, dynamic blue radio waves emanating in a dark, futuristic background. Maintain a creative yet professional aesthetic, emphasizing innovation and technology.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
