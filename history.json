@@ -1034,5 +1034,12 @@
         "prompt": "I want a piece of charcoal texture",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/06 09:00:42",
+        "image_url": "https://i.ibb.co/Kzfq3g45/7f5ee4731695.jpg",
+        "prompt": "emam zaman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
