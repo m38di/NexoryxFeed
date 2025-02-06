@@ -1370,5 +1370,12 @@
         "prompt": "A name board as malayalam",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/06 20:14:19",
+        "image_url": "https://i.ibb.co/7JKwpMxH/0274db17fea2.png",
+        "prompt": "A cactus made of black plastic bags, simple background, minimalist art collage, surreal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
