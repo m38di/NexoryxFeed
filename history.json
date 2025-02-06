@@ -1104,5 +1104,12 @@
         "prompt": "black people cry",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/06 10:03:48",
+        "image_url": "https://i.ibb.co/jkVW4NCX/42553cde60d5.png",
+        "prompt": "a sweet potato and chips with it",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
