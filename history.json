@@ -1202,5 +1202,12 @@
         "prompt": " Eagle",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/06 14:00:16",
+        "image_url": "https://i.ibb.co/JRQzYMRQ/7907b597a047.png",
+        "prompt": "lubgh",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
