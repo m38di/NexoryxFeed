@@ -1405,5 +1405,12 @@
         "prompt": "Create a highly detailed and realistic 3D game-style render focusing solely on a human hand holding a blank A3 white sheet of paper. The hand belongs to a middle-aged male engineer, showcasing professional and precise details: clean, well-groomed nails, natural skin texture with subtle veins and wrinkles, and a calm, steady grip on the paper. The blank A3 sheet is smooth, with sharp edges, slight reflections, and a pristine white surface that draws attention.\n\nThe rendering should be flawless, in 4K resolution and Full HD quality, emphasizing ultra-realistic textures and lighting effects on both the hand and the paper. The background is completely transparent or removed, ensuring all focus remains on the hand and the paper. The style aligns with modern 3D gaming aesthetics, combining photorealism with artistic precision to create a visually striking and lifelike result. Ensure there are no imperfections or distractions, maintaining absolute clarity and detail",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/07 01:07:03",
+        "image_url": "https://i.ibb.co/kZ6FzvT/ae3dd9837942.png",
+        "prompt": "The photo of two lesbian girls in a bra and shorts with black lacquer, while one of them is showing her middle finger in the picture, with black hair and red lipstick, high heels, diamond rings, gold chains around both necks, and around them full of dollars, and the other girl is tearing the picture of her ex-boyfriend.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
