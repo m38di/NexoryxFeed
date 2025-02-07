@@ -3183,5 +3183,12 @@
         "prompt": "A cool and detailed logo with the name MORTAL",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 21:45:24",
+        "image_url": "https://i.ibb.co/0p4F5x0q/43d112aedd7a.jpg",
+        "prompt": "A cool and detailed logo with the name AMIR",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
