@@ -1734,5 +1734,12 @@
         "prompt": "What if Mohammad Reza Golzar Played on Walter White role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:11:14",
+        "image_url": "https://i.ibb.co/G4YR5gn0/99364f0ba35f.png",
+        "prompt": "Mohamad reza pahlavi do french  kiss with  khomeini",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
