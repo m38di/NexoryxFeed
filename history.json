@@ -2343,5 +2343,12 @@
         "prompt": "What if Miles Morales and Peter Parker sleep together?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 14:05:21",
+        "image_url": "https://i.ibb.co/YBjYBGdj/63f41f92ac42.png",
+        "prompt": "batman with pink clothes",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
