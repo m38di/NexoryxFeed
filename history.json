@@ -4163,5 +4163,12 @@
         "prompt": "Creating a cryptor profile with the name of Luca",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:31:59",
+        "image_url": "https://i.ibb.co/TML1PVw6/ccef2d54b937.jpg",
+        "prompt": "Creating a cryptor profile with the name of Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
