@@ -2588,5 +2588,12 @@
         "prompt": "What if Georgia O\u2019Keeffe was a movie designer and design movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:03:43",
+        "image_url": "https://i.ibb.co/wqVbVMm/bc1eec2fe024.png",
+        "prompt": "\u0639\u06a9\u0633 \u06a9\u0635 \u0645\u0645\u0646\u06af \u067e\u0648\u0631\u06cc\u0627",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
