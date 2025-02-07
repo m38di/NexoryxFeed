@@ -4100,5 +4100,12 @@
         "prompt": "Creating a Skansi logo that is written in Radin's method",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:57:38",
+        "image_url": "https://i.ibb.co/bMnJRY82/1fa97d99c049.jpg",
+        "prompt": "Creating a Skansi logo that is written in Name Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
