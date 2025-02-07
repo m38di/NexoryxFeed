@@ -3442,5 +3442,12 @@
         "prompt": "A cool and detailed logo with the name sigma boy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 23:54:19",
+        "image_url": "https://i.ibb.co/ymsD3tzV/44052e086f71.png",
+        "prompt": "A cool and detailed logo with the name sigma boy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
