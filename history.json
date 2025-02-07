@@ -4093,5 +4093,12 @@
         "prompt": "Making a logo of a car made of gold, written by Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:57:00",
+        "image_url": "https://i.ibb.co/DgzMwjNb/5f3f7946da52.jpg",
+        "prompt": "Creating a Skansi logo that is written in Radin's method",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
