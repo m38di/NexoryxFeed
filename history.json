@@ -5136,5 +5136,12 @@
         "prompt": "You know, take a photo with the text TYLER, and it should be with lightning and the word TYLER should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 02:51:54",
+        "image_url": "https://i.ibb.co/4gMPCyLD/c37496857cac.png",
+        "prompt": "/img Put a photo with the text Neatleyzz Legendery next to it and put the text Family under this word. Now take a photo and take it up and give it a red medicine. It is a sample for the GTA Online server. Add a red style to the text",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
