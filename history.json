@@ -3526,5 +3526,12 @@
         "prompt": "Create a gaming logo with the name Elideriezz",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:15:17",
+        "image_url": "https://i.ibb.co/jksN255d/3a054d0565c8.jpg",
+        "prompt": "A cool and detailed logo with the name ironman\nShop",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
