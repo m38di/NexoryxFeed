@@ -1783,5 +1783,12 @@
         "prompt": "Create a bold, modern logo for 'WE' using a thick sans-serif font. Add jagged cracks or a distressed texture to give it a rugged and powerful look, paired with a fiery red-orange gradient against a dark concrete-textured background.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:13:34",
+        "image_url": "https://i.ibb.co/XkyKMK18/998432340ad0.jpg",
+        "prompt": "What if Tom Holland played Odyssey role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
