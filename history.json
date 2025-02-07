@@ -1769,5 +1769,12 @@
         "prompt": "What if Mohammad Reza Golzar Played on Walter White role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 13:13:00",
+        "image_url": "https://i.ibb.co/Hpf17fts/8b5eb47397f7.png",
+        "prompt": "what if Tom Holand plays on Odyssey The movie directed by Christopher Nolan?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
