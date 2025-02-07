@@ -2546,5 +2546,12 @@
         "prompt": "What if Michelangelo was a movie designer and design movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:55:13",
+        "image_url": "https://i.ibb.co/fzWFSS1t/05c3eabeb6bd.jpg",
+        "prompt": "What if Van Gogh was a movie designer and design movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
