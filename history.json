@@ -4849,5 +4849,12 @@
         "prompt": "\n\nCreate a cool joker profile with the name Amir",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 02:39:26",
+        "image_url": "https://i.ibb.co/h1TWrTBV/43c06068b2ca.jpg",
+        "prompt": "Gaming logo with AMIR text with icy weather. The style of the text should be cool\n\nRemove the gaming text, try to make it 3D, the text and snowy background should be of better quality",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
