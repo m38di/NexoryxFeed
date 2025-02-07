@@ -2728,5 +2728,12 @@
         "prompt": "give me an iconic picture of Batman and Spider-Man by Van Gogh",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 18:45:17",
+        "image_url": "https://i.ibb.co/JjJYyCtZ/5c0f40643ce9.png",
+        "prompt": "\u0633\u0627\u062e\u062a \u0644\u06af\u0648 \u0628\u0631\u0627\u06cc \u0627\u0646\u0644\u0627\u06cc\u0646 \u0634\u0627\u067e \u0628\u0627 \u0627\u0633\u0645 Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
