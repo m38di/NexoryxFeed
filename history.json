@@ -4226,5 +4226,12 @@
         "prompt": "Creating a cryptor profile with the name  Luca",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:34:23",
+        "image_url": "https://i.ibb.co/bgsv6sTz/ec07c04bb054.jpg",
+        "prompt": "Creating a gangester profile with the name  Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
