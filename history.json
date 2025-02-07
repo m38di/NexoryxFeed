@@ -2028,5 +2028,12 @@
         "prompt": "sherek in Pakistan",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:34:45",
+        "image_url": "https://i.ibb.co/Fqx5Njqq/8f02b14459cc.jpg",
+        "prompt": "What if Masoud Pezeshkian met J Robert Oppenheimer?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
