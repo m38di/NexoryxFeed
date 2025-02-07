@@ -1482,5 +1482,12 @@
         "prompt": "Ronaldo kiss Messi",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 11:27:27",
+        "image_url": "https://i.ibb.co/Jwcj17dJ/fb6209da5069.png",
+        "prompt": "Ronaldo kiss Messi",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
