@@ -3561,5 +3561,12 @@
         "prompt": "A cool and detailed logo with the name sigma boy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:17:15",
+        "image_url": "https://i.ibb.co/Ndp2nx10/efa64b1bfef0.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
