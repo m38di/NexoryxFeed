@@ -1993,5 +1993,12 @@
         "prompt": "Shrek in breaking Bad series",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:31:50",
+        "image_url": "https://i.ibb.co/bRvsKyr0/077685dcc830.jpg",
+        "prompt": "Shrek in Iran",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
