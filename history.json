@@ -3372,5 +3372,12 @@
         "prompt": "a lot dollars falling down like rain",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 23:39:15",
+        "image_url": "https://i.ibb.co/MyggPMgR/add978addbed.png",
+        "prompt": "A cool and detailed logo with the name sigma boy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
