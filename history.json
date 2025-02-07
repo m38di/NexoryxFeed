@@ -3834,5 +3834,12 @@
         "prompt": "Create a gaming logo with the name Infernal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:41:09",
+        "image_url": "https://i.ibb.co/zTZrQcQ0/3022f1b02a85.png",
+        "prompt": "\nCreate a profile with a Batman design with the name Elideriezz",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
