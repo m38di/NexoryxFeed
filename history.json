@@ -2938,5 +2938,12 @@
         "prompt": "Creating a currency profile of Tuncoin with the name of Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:18:20",
+        "image_url": "https://i.ibb.co/wrPnXSws/6ea854664d5d.jpg",
+        "prompt": "Creating a currency profile of Toncoin with the name of Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
