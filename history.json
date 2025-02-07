@@ -3337,5 +3337,12 @@
         "prompt": "A cool and detailed logo with the name RAL\u4e36MORTAL",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 22:07:28",
+        "image_url": "https://i.ibb.co/bj8Jr1XM/39879e3a50fd.jpg",
+        "prompt": "A cool and detailed logo with the name MORTAL",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
