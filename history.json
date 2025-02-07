@@ -2077,5 +2077,12 @@
         "prompt": "ana d armas wear bikini",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:39:00",
+        "image_url": "https://i.ibb.co/hJHhYmC1/949d41619719.jpg",
+        "prompt": "What if Sydney Sweeney play catwoman role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
