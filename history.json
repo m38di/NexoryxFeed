@@ -4072,5 +4072,12 @@
         "prompt": "Create a Mafia logo with the name Off_lines",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:55:01",
+        "image_url": "https://i.ibb.co/nMzh4dhd/ed9dd19f3592.jpg",
+        "prompt": "Making a logo of a car made of gold, written by Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
