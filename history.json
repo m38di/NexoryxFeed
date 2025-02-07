@@ -4933,5 +4933,12 @@
         "prompt": "You can take a picture with the text AMIR and it should be with lightning and the word AMIR should be 3D and the lightning should be in it, and the background should be of excellent quality.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 02:43:01",
+        "image_url": "https://i.ibb.co/mF4v3PDk/0647fdcc7ead.jpg",
+        "prompt": "You can take a picture with the text AMIR and it should be with lightning and the word AMIR should be 3D and the lightning should be in it, and the background should be of excellent quality.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
