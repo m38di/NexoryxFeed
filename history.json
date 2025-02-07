@@ -2469,5 +2469,12 @@
         "prompt": "What if Van Gogh designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:43:34",
+        "image_url": "https://i.ibb.co/V0S9JhBh/6523683ff540.jpg",
+        "prompt": "What if Van Gogh designed Superman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
