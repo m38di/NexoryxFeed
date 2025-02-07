@@ -2021,5 +2021,12 @@
         "prompt": "Shrek in ghazvin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:33:53",
+        "image_url": "https://i.ibb.co/1Y3jyNQR/baf69be1c714.png",
+        "prompt": "sherek in Pakistan",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
