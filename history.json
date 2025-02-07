@@ -3736,5 +3736,12 @@
         "prompt": "Create a gaming logo that says black nigger",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:32:52",
+        "image_url": "https://i.ibb.co/7JjWHS0V/de9672c596a3.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
