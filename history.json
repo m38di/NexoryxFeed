@@ -2826,5 +2826,12 @@
         "prompt": "Pablo Escobar",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 19:06:40",
+        "image_url": "https://i.ibb.co/q3T39tnR/53837bd4e760.jpg",
+        "prompt": "Create a gaming logo with the name JXGRAPHICS",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
