@@ -1804,5 +1804,12 @@
         "prompt": "tom holland doing a french kiss with christopher nolan",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:15:00",
+        "image_url": "https://i.ibb.co/q36kyr3D/3b36472ede31.png",
+        "prompt": "what if Tom Holand plays on Odyssey The movie directed by Christopher Nolan?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
