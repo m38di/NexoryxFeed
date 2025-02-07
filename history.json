@@ -2364,5 +2364,12 @@
         "prompt": "What if Van Gogh and Trump slept together?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 14:08:27",
+        "image_url": "https://i.ibb.co/Qv0M7Npw/45239b0e870f.png",
+        "prompt": "What if Van Gogh and Trump slept together?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
