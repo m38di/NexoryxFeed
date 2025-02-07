@@ -2119,5 +2119,12 @@
         "prompt": "give me Sydney Sweeney catwoman kissing Cillian Murphy batman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:44:06",
+        "image_url": "https://i.ibb.co/ycbyhsbK/d066662ea42b.jpg",
+        "prompt": "give me Ana de Armas catwoman kissing Cillian Murphy batman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
