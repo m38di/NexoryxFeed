@@ -3610,5 +3610,12 @@
         "prompt": "Creating a cryptor profile with the name of Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:18:37",
+        "image_url": "https://i.ibb.co/1fmN31L1/7a387805b84b.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
