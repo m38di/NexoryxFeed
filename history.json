@@ -4254,5 +4254,12 @@
         "prompt": "Making a cool gaming lego named Luca",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:36:00",
+        "image_url": "https://i.ibb.co/s9V0gz8t/31dc83ee9e4d.jpg",
+        "prompt": "Making a cool gaming lego named Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
