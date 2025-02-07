@@ -2476,5 +2476,12 @@
         "prompt": "What if Van Gogh designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:43:56",
+        "image_url": "https://i.ibb.co/JFBKGstH/04ca85a51221.png",
+        "prompt": "Craft a clean and minimalist text logo for 'Jammallo' in a sharp, geometric font. Use pure white letters on a matte black background, with subtle line breaks and perfect symmetry to emphasize simplicity and elegance.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
