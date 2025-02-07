@@ -3008,5 +3008,12 @@
         "prompt": "\nCreate a profile with a Batman design with the name Amir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:23:17",
+        "image_url": "https://i.ibb.co/d0SyfYvf/6b029dcc51eb.png",
+        "prompt": "\nCreate a profile with a Batman design with the name Amir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
