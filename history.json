@@ -2063,5 +2063,12 @@
         "prompt": "ana d armas wear bikini",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:38:05",
+        "image_url": "https://i.ibb.co/B56Dk8Bg/fb7022ea0b0d.jpg",
+        "prompt": "What if Mahmoud Hessabi met Albert Einstein?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
