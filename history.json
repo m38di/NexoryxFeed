@@ -3897,5 +3897,12 @@
         "prompt": "Create a gaming GtaIv logo with the name Dezzpunk",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:44:48",
+        "image_url": "https://i.ibb.co/hJxvRC1j/78a38eede460.jpg",
+        "prompt": "Create a gaming Gtasa logo with the name Dezzpunk",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
