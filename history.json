@@ -4044,5 +4044,12 @@
         "prompt": "Create a  Mafia Gang logo with the name Dezzpunk",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:51:46",
+        "image_url": "https://i.ibb.co/xKHqx5dD/4ea411a5e086.png",
+        "prompt": "The nature in which General Edith is engraved",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
