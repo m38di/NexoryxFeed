@@ -3589,5 +3589,12 @@
         "prompt": "Create a gaming logo with the name Infernal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:18:05",
+        "image_url": "https://i.ibb.co/nM46HFrL/e78769dbef18.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
