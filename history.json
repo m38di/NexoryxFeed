@@ -3785,5 +3785,12 @@
         "prompt": "Create a gaming logo with the name HOSSEIN",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:36:49",
+        "image_url": "https://i.ibb.co/ynHkccH1/36648a4f5e85.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
