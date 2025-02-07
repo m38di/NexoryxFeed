@@ -3036,5 +3036,12 @@
         "prompt": "The collision of the Milky Way and the Andromeda galaxy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:26:07",
+        "image_url": "https://i.ibb.co/84DTJqRg/33423b7b355b.jpg",
+        "prompt": "Big Bang explosion",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
