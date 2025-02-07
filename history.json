@@ -3379,5 +3379,12 @@
         "prompt": "A cool and detailed logo with the name sigma boy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 23:40:21",
+        "image_url": "https://i.ibb.co/RT4PdJr6/d29c49751770.png",
+        "prompt": "A cool and detailed logo with the name MORTAL",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
