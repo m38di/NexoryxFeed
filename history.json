@@ -5059,5 +5059,12 @@
         "prompt": "Create a HD quality gaming profile that uses lightning and is beautiful with the name of Amir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 02:48:38",
+        "image_url": "https://i.ibb.co/5X36YJG5/546bb2a1cbd4.png",
+        "prompt": "Put a photo with the text Neatleyzz Legendery next to it and put the text Family under this word. Now take a photo and take it up and give it a red medicine",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
