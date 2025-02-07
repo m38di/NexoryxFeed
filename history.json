@@ -2910,5 +2910,12 @@
         "prompt": "Create a gaming logo with the name TAIGA",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:16:41",
+        "image_url": "https://i.ibb.co/FbG12R2T/15ed8a901c83.jpg",
+        "prompt": "Create a gaming logo with the name TAIGA",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
