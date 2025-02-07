@@ -2483,5 +2483,12 @@
         "prompt": "Craft a clean and minimalist text logo for 'Jammallo' in a sharp, geometric font. Use pure white letters on a matte black background, with subtle line breaks and perfect symmetry to emphasize simplicity and elegance.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 14:44:24",
+        "image_url": "https://i.ibb.co/Pz5BfGVF/3f5c59dda403.jpg",
+        "prompt": "What if Salvador Dali designed Superman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
