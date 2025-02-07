@@ -2805,5 +2805,12 @@
         "prompt": "Create a gaming logo GOD with the name AMIR",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:01:07",
+        "image_url": "https://i.ibb.co/BKNzZbsF/313862da7441.jpg",
+        "prompt": "Create a gaming logo GOD with the name AMIR",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
