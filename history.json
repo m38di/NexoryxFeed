@@ -2217,5 +2217,12 @@
         "prompt": "What if Count Dracula met Batman and start fight eachother?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:53:00",
+        "image_url": "https://i.ibb.co/pB23YBmt/28e719798f73.jpg",
+        "prompt": "What if Count Dracula was a fascist?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
