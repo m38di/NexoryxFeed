@@ -2497,5 +2497,12 @@
         "prompt": "What if Leonardo Da Vinci designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:45:38",
+        "image_url": "https://i.ibb.co/67szKHCV/aa9b75c8538b.png",
+        "prompt": "Craft a clean and minimalist text logo for 'jamallo' in a sharp, geometric font. Use pure white letters on a matte black background, with subtle line breaks and perfect symmetry to emphasize simplicity and elegance.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
