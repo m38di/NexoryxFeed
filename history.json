@@ -4870,5 +4870,12 @@
         "prompt": "make a skull logo that says kir mikham",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 02:40:01",
+        "image_url": "https://i.ibb.co/gMHmTXNm/d4d84dff4f39.png",
+        "prompt": "You can take a picture with the text NYXON and it should be with lightning and the word NYXON should be 3D and the lightning should be in it, and the background should be of excellent quality.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
