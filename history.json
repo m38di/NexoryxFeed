@@ -3624,5 +3624,12 @@
         "prompt": "Creating a cryptor profile with the name of Radi",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:19:37",
+        "image_url": "https://i.ibb.co/gBHdf9Y/c77618951e6b.jpg",
+        "prompt": "Create a gaming logo with the name General",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
