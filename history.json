@@ -3085,5 +3085,12 @@
         "prompt": "Create a channel wallpaper with the name MORTAL with detail",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:29:57",
+        "image_url": "https://i.ibb.co/3mQGMtb7/13977c53640d.jpg",
+        "prompt": "Create a gaming logo with the name Mr. Graph",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
