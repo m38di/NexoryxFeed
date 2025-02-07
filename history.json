@@ -1909,5 +1909,12 @@
         "prompt": "john wick in the shining movies world",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:24:14",
+        "image_url": "https://i.ibb.co/1YntJrVM/42a2319e6ce7.jpg",
+        "prompt": "What if Nicolas Tesla met isaac newton?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
