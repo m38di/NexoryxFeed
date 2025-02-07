@@ -3498,5 +3498,12 @@
         "prompt": "Create a gaming logo with the name Mr. Graph",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:14:18",
+        "image_url": "https://i.ibb.co/4nDG5WJD/3436ec2180d8.jpg",
+        "prompt": "A cool and detailed logo with the name sigma boy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
