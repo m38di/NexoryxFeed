@@ -4247,5 +4247,12 @@
         "prompt": "Creating a gangester profile with the name\u00a0 Luca",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:35:37",
+        "image_url": "https://i.ibb.co/9k4vT1rY/2f61e0408ee4.jpg",
+        "prompt": "Making a cool gaming lego named Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
