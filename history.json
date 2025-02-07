@@ -1706,5 +1706,12 @@
         "prompt": "what if Arian plays Spider-Man role in MCU?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 13:08:20",
+        "image_url": "https://i.ibb.co/jkQ8zLsD/855a6fb3fca4.png",
+        "prompt": "Design a dramatic and cinematic-looking 'WE' logo with a metallic, reflective chrome texture. Place the letters on a stormy, cloudy background with bright lightning illuminating the edges and casting realistic shadows.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
