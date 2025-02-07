@@ -2280,5 +2280,12 @@
         "prompt": "christian bale kissin' megan fox",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:57:46",
+        "image_url": "https://i.ibb.co/wNZvRhKN/ce76c79028b9.png",
+        "prompt": "batman dress up like Russia people",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
