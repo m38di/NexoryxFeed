@@ -4051,5 +4051,12 @@
         "prompt": "The nature in which General Edith is engraved",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/08 00:52:34",
+        "image_url": "https://i.ibb.co/qMFMNhTM/14ddc7457173.jpg",
+        "prompt": "Create a Mafia logo with the name Off_lines",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
