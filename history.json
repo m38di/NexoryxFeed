@@ -3288,5 +3288,12 @@
         "prompt": "A cool and detailed logo with the name AMIR",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 21:49:49",
+        "image_url": "https://i.ibb.co/nMrn8S0R/136a2bc2f0a3.jpg",
+        "prompt": "A cool and detailed logo with the name AMIR",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
