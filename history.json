@@ -2609,5 +2609,12 @@
         "prompt": "\u0645\u0639\u0635\u0648\u0645\u0647",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:04:53",
+        "image_url": "https://i.ibb.co/nqc3Hw33/0ee6347512b9.jpg",
+        "prompt": "What if Salvador dali designed disney Animations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
