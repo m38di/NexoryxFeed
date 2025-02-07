@@ -2392,5 +2392,12 @@
         "prompt": "What if Van Gogh designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:23:04",
+        "image_url": "https://i.ibb.co/nsQvdBq5/e99d8a0f1380.jpg",
+        "prompt": "give me an iconic picture of Moon knight",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
