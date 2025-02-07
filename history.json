@@ -2665,5 +2665,12 @@
         "prompt": "kasra version sexy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 15:09:42",
+        "image_url": "https://i.ibb.co/7dspv9gB/35954b89e056.jpg",
+        "prompt": "What if Michelangelo designed disney Animations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
