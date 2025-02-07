@@ -3519,5 +3519,12 @@
         "prompt": "Create a gaming logo with the name Elideriezz",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:15:01",
+        "image_url": "https://i.ibb.co/gZk1L1vK/590aae71a133.jpg",
+        "prompt": "Create a gaming logo with the name Elideriezz",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
