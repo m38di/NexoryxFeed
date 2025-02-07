@@ -1601,5 +1601,12 @@
         "prompt": "Ben 10 with a shotgun",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 12:58:39",
+        "image_url": "https://i.ibb.co/v6XRP327/414d57207db2.jpg",
+        "prompt": "Batman do a french kiss with superman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
