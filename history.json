@@ -1846,5 +1846,12 @@
         "prompt": "john wick in the shining world",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:17:52",
+        "image_url": "https://i.ibb.co/pvgzdmRh/996dc5d4cf73.png",
+        "prompt": "kratos do French kiss with rostam",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
