@@ -2602,5 +2602,12 @@
         "prompt": "What if Van Gogh designed disney animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:04:19",
+        "image_url": "https://i.ibb.co/HTjWPzMf/8fecadc85aec.jpg",
+        "prompt": "\u0645\u0639\u0635\u0648\u0645\u0647",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
