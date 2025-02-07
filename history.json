@@ -2126,5 +2126,12 @@
         "prompt": "give me Ana de Armas catwoman kissing Cillian Murphy batman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:44:35",
+        "image_url": "https://i.ibb.co/zWpXKhx0/6b6c7a8733a5.jpg",
+        "prompt": "give me Mogan Fox catwoman kissing Cillian Murphy batman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
