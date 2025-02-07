@@ -4023,5 +4023,12 @@
         "prompt": "Create a gaming Mafia logo with the name Dezzpunk Gusty Men",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:50:50",
+        "image_url": "https://i.ibb.co/wZbPn5Zg/a780f17e2bfd.jpg",
+        "prompt": "Create a gaming Mafia logo with the name Dezzpunk Gusty Men",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
