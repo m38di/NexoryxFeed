@@ -2854,5 +2854,12 @@
         "prompt": "Create a gaming logo with the name R Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:12:33",
+        "image_url": "https://i.ibb.co/DDCHkTsx/25491fde1ca0.png",
+        "prompt": "Create a gaming logo with the name R Radin",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
