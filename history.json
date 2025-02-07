@@ -2490,5 +2490,12 @@
         "prompt": "What if Salvador Dali designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:45:20",
+        "image_url": "https://i.ibb.co/R4d12q6Y/96ce9922af87.jpg",
+        "prompt": "What if Leonardo Da Vinci designed Superman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
