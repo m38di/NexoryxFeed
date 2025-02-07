@@ -2420,5 +2420,12 @@
         "prompt": "What if Leonardo Da Vinci designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:31:24",
+        "image_url": "https://i.ibb.co/Y4yPZw9X/eac360897a5b.jpg",
+        "prompt": "What if Pablo Picasso designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
