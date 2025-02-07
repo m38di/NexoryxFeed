@@ -1664,5 +1664,12 @@
         "prompt": "Create a fun, bubbly logo for 'WE' using rounded cartoonish letters. Add bright, cheerful colors like pastel blue and pink, and include playful elements like doodles, stars, or confetti around the text to make it pop.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:05:23",
+        "image_url": "https://i.ibb.co/WvDmPSkP/8cab4144f868.png",
+        "prompt": "What if reza golzar won oscars",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
