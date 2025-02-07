@@ -3351,5 +3351,12 @@
         "prompt": "rain of dollars",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 22:08:22",
+        "image_url": "https://i.ibb.co/HfVsvp3S/9bdbf1cb66ca.jpg",
+        "prompt": "bottom",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
