@@ -1538,5 +1538,12 @@
         "prompt": "Create a gaming logo with the name Strom",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:40:23",
+        "image_url": "https://i.ibb.co/whXg1XmH/2cb197342523.png",
+        "prompt": "/img Make a cool gaming logo that is very cool and the quality should be 4k name may iq",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
