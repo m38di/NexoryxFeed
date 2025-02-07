@@ -2623,5 +2623,12 @@
         "prompt": "What if Salvador dali designed disney Animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:06:19",
+        "image_url": "https://i.ibb.co/ktWfYMj/9fcba6b7dc6f.jpg",
+        "prompt": "What if Leonardo Da Vinci designed disney Animations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
