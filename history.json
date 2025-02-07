@@ -2357,5 +2357,12 @@
         "prompt": "A cowboy Playing guitar next to his love across the beach watercolor style",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 14:07:32",
+        "image_url": "https://i.ibb.co/zhsXZ695/021bc28f187a.png",
+        "prompt": "What if Van Gogh and Trump slept together?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
