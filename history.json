@@ -1636,5 +1636,12 @@
         "prompt": "what happened if Cartoon Network create a new animation series that continues Ultimate Alien series?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 13:03:33",
+        "image_url": "https://i.ibb.co/rYF306D/c3c521c19069.png",
+        "prompt": "Design a cosmic-themed logo for 'WE,' where the letters appear as constellations of stars. Add a shiny galactic gradient (purples, blues, and blacks) with a nebula swirl in the background\u2014make it feel vast and awe-inspiring.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
