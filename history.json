@@ -2266,5 +2266,12 @@
         "prompt": "what if christian bale was gay",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:56:04",
+        "image_url": "https://i.ibb.co/xS9Rh0G8/c1ef8273fdac.jpg",
+        "prompt": "what if Batman was a communist?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
