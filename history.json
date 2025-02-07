@@ -2889,5 +2889,12 @@
         "prompt": "Create a Digital logo with the name Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:14:41",
+        "image_url": "https://i.ibb.co/DHz8GXrF/b8ab90885d9c.jpg",
+        "prompt": "Create a Digital logo with the name Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
