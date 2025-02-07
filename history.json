@@ -3659,5 +3659,12 @@
         "prompt": "Creating a cryptor profile with the name of HOSSEIN",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:22:48",
+        "image_url": "https://i.ibb.co/sLHCc0p/072f919192ee.png",
+        "prompt": "Create a gaming logo with the name HOSSEIN",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
