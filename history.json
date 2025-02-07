@@ -4359,5 +4359,12 @@
         "prompt": "Making a cool gaming modern logo name Amin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 01:42:19",
+        "image_url": "https://i.ibb.co/Dft9kLgC/9f0c9dac1aec.png",
+        "prompt": "Making a cool gaming logo name iran",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
