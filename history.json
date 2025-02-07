@@ -2973,5 +2973,12 @@
         "prompt": "Creating a currency profile of coin with the name of Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:20:31",
+        "image_url": "https://i.ibb.co/TM2JGC6Y/4acfe0984e06.jpg",
+        "prompt": "Creating a profile of a coin that is written in Radin's method",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
