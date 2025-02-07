@@ -4065,5 +4065,12 @@
         "prompt": "Create a Mafia logo with the name Off_lines",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:53:25",
+        "image_url": "https://i.ibb.co/Swy8B2hH/6c1746d895fe.jpg",
+        "prompt": "Create a Mafia logo with the name Off_lines",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
