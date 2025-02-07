@@ -2707,5 +2707,12 @@
         "prompt": "Ramon rezaean",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 18:21:53",
+        "image_url": "https://i.ibb.co/9k19GC0h/1089c5247245.jpg",
+        "prompt": "give me an iconic picture of Batman by Van Gogh",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
