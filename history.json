@@ -3428,5 +3428,12 @@
         "prompt": "A cool and detailed logo with the name sigma boy",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/07 23:50:48",
+        "image_url": "https://i.ibb.co/tM5xj5by/ab1e58dbafff.png",
+        "prompt": "A cool and detailed logo with the name sigma boy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
