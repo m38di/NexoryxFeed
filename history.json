@@ -1496,5 +1496,12 @@
         "prompt": "donkey devil",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 12:30:18",
+        "image_url": "https://i.ibb.co/rRwLSmfN/cd6785a49a93.png",
+        "prompt": "A logo with the name STROM, which is very cool",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
