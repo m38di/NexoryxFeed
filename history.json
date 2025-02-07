@@ -2042,5 +2042,12 @@
         "prompt": "Create a gaming logo with the name STROM",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:36:18",
+        "image_url": "https://i.ibb.co/8gQMSQvK/f4e623e3ed77.png",
+        "prompt": "Create a gaming logo with the name SHADOW",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
