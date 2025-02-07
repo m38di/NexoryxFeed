@@ -5010,5 +5010,12 @@
         "prompt": "You know, take a photo with the text NYXON, and it should be with lightning and the word NYXON should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 02:46:30",
+        "image_url": "https://i.ibb.co/gFf8Mnkm/76117425d028.jpg",
+        "prompt": "You know, take a photo with the text NYXON, and it should be with lightning and the word NYXON should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
