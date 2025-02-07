@@ -1510,5 +1510,12 @@
         "prompt": "A typography logo with the name STROM, which is very, very cool",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:33:43",
+        "image_url": "https://i.ibb.co/tT02WbVS/73adfbe877c2.png",
+        "prompt": "/img A typography logo with the name STROM, which is very, very cool",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
