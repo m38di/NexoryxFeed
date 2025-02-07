@@ -1559,5 +1559,12 @@
         "prompt": "bojack horseman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 12:50:19",
+        "image_url": "https://i.ibb.co/4DS3R7G/b3cc7f0ac297.png",
+        "prompt": "bojack horseman with suit",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
