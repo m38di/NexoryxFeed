@@ -1888,5 +1888,12 @@
         "prompt": "ana de armas in the pool",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:20:49",
+        "image_url": "https://i.ibb.co/yBkk0R2t/a31b02c5364d.png",
+        "prompt": "Create a sleek and futuristic logo with the letters 'WE,' glowing in neon blue and violet. Use a cyberpunk aesthetic with subtle shadowing and luminous edges, set on a dark, high-tech background with glowing grid lines.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
