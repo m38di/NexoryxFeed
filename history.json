@@ -2105,5 +2105,12 @@
         "prompt": "What if Sydney Sweeney and Ana de Armas was in relationship?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:43:08",
+        "image_url": "https://i.ibb.co/N6J8QL53/90c9a3c66d56.jpg",
+        "prompt": "give me Sydney Sweeney catwoman kissing Cillian Murphy batman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
