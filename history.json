@@ -2721,5 +2721,12 @@
         "prompt": "give me an iconic picture of Batman by Van Gogh",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 18:22:30",
+        "image_url": "https://i.ibb.co/JjpQrPTZ/9edeeee921e9.jpg",
+        "prompt": "give me an iconic picture of Batman and Spider-Man by Van Gogh",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
