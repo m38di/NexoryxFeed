@@ -3946,5 +3946,12 @@
         "prompt": "Create a gaming Gtasa logo with the name Dezzpunk",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:46:45",
+        "image_url": "https://i.ibb.co/WpDN7CG1/4168a5b90ee4.jpg",
+        "prompt": "Create a gaming Samp logo with the name Dezzpunk",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
