@@ -2287,5 +2287,12 @@
         "prompt": "batman dress up like Russia people",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:57:59",
+        "image_url": "https://i.ibb.co/BH3VMM6z/6ec7a9f5acc8.jpg",
+        "prompt": "what if fascist Count Dracula fight with communist batman?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
