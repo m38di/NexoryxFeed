@@ -5262,5 +5262,12 @@
         "prompt": "Make a logo with the Amir text in the background, use the Deagle weapon, and make the space close to black and white",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 02:58:14",
+        "image_url": "https://i.ibb.co/JWSG7h0z/39b89ab9bcc0.jpg",
+        "prompt": "Make a logo with the Amir text in the background, use the Deagle weapon, and make the space close to black and white",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
