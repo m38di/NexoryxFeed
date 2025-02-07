@@ -1979,5 +1979,12 @@
         "prompt": "Homlander in Arcane world",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:30:18",
+        "image_url": "https://i.ibb.co/W4QZxQbb/acc0c8c6b74e.png",
+        "prompt": "megan fox played cat woman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
