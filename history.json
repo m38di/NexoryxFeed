@@ -3022,5 +3022,12 @@
         "prompt": "The collision of the Milky Way and the Andromeda galaxy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:23:54",
+        "image_url": "https://i.ibb.co/xq7vtPzM/10e84b86c460.jpg",
+        "prompt": "Create a gaming logo with the name amir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
