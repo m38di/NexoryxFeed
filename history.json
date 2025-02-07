@@ -2644,5 +2644,12 @@
         "prompt": "What if Pablo Picasso designed disney Animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:08:28",
+        "image_url": "https://i.ibb.co/4Zqs3yTB/8d4fa9135a8b.jpg",
+        "prompt": "What if Frida Kahlo designed disney Animations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
