@@ -3414,5 +3414,12 @@
         "prompt": "img of the rusie edit",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 23:45:33",
+        "image_url": "https://i.ibb.co/6RrR5p1d/2503884bedbb.png",
+        "prompt": "A cool and detailed logo with the name sigma boy",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
