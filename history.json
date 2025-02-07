@@ -2651,5 +2651,12 @@
         "prompt": "What if Frida Kahlo designed disney Animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:09:00",
+        "image_url": "https://i.ibb.co/C50RJmMC/46073cd5c90b.jpg",
+        "prompt": "What if Michelangelo designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
