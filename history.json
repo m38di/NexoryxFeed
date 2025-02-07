@@ -2693,5 +2693,12 @@
         "prompt": "What if Georgia O\u2019Keeffe designed Disney Animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 16:06:31",
+        "image_url": "https://i.ibb.co/WpvmCfhb/de704c33e9a5.png",
+        "prompt": "a robot with human",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
