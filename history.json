@@ -2322,5 +2322,12 @@
         "prompt": "what if batman was racist",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 14:04:01",
+        "image_url": "https://i.ibb.co/q34vkZRx/254a8b0d0012.jpg",
+        "prompt": "give me an iconic picture of batman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
