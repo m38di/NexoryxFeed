@@ -1608,5 +1608,12 @@
         "prompt": "Batman do a french kiss with superman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:00:19",
+        "image_url": "https://i.ibb.co/DDGMf5x7/be99e7bb2f83.jpg",
+        "prompt": "What if Jensen Ackles played Batman role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
