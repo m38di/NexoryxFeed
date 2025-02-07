@@ -2196,5 +2196,12 @@
         "prompt": "tom haland with big boobs",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:49:29",
+        "image_url": "https://i.ibb.co/W4gVr9t0/5f8ac42bc1e0.png",
+        "prompt": "Make a photomontage or end time theme",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
