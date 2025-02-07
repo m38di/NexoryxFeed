@@ -2791,5 +2791,12 @@
         "prompt": "Create a gaming logo with the name JX GRAPHICS",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:00:16",
+        "image_url": "https://i.ibb.co/7tG615x0/ac4e594ca889.jpg",
+        "prompt": "Create a gaming logo GOD with the name AMIR",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
