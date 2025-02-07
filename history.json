@@ -2658,5 +2658,12 @@
         "prompt": "What if Michelangelo designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:09:19",
+        "image_url": "https://i.ibb.co/nNdqVST8/166a5188873e.png",
+        "prompt": "kasra version sexy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
