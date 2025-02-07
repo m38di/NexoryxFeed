@@ -3015,5 +3015,12 @@
         "prompt": "\nCreate a profile with a Batman design with the name Amir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:23:52",
+        "image_url": "https://i.ibb.co/4ZG4mcbD/7f84a4626294.png",
+        "prompt": "The collision of the Milky Way and the Andromeda galaxy",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
