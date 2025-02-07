@@ -1671,5 +1671,12 @@
         "prompt": "What if reza golzar won oscars",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 13:05:28",
+        "image_url": "https://i.ibb.co/rfts70hc/4a364b5b4dbb.jpg",
+        "prompt": "What if Christian bale played Oppenheimer role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
