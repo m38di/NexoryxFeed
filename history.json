@@ -2175,5 +2175,12 @@
         "prompt": "What if Cillian Murphy plays Count Dracula role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:48:24",
+        "image_url": "https://i.ibb.co/Q38BR3bh/0cf98bf74f4c.jpg",
+        "prompt": "What if Albert Einstein plays Count Dracula role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
