@@ -3687,5 +3687,12 @@
         "prompt": "Create a gaming logo with the name \u06a9\u06cc\u0631\u06cc \u0633\u062a\u0627\u0644",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:24:37",
+        "image_url": "https://i.ibb.co/prBd7hGp/a0ce0d51ee3b.jpg",
+        "prompt": "Making a cool gaming lego named Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
