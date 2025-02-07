@@ -3533,5 +3533,12 @@
         "prompt": "A cool and detailed logo with the name ironman\nShop",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:16:11",
+        "image_url": "https://i.ibb.co/jPxRG2TK/c88b79044140.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
