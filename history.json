@@ -2014,5 +2014,12 @@
         "prompt": "Shrek in Iran",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:33:15",
+        "image_url": "https://i.ibb.co/b5R0H8rq/983ad11bc7f7.jpg",
+        "prompt": "Shrek in ghazvin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
