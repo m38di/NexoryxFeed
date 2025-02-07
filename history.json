@@ -2777,5 +2777,12 @@
         "prompt": "Create a gaming logo with the name JX GRAPHICS",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 18:56:10",
+        "image_url": "https://i.ibb.co/9912Bxvv/8e2ff879a118.png",
+        "prompt": "Create a gaming logo with the name JXGRAPHICS",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
