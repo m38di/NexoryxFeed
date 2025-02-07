@@ -4912,5 +4912,12 @@
         "prompt": "Create a profile of Khafn Goost with the name of Amir",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 02:42:04",
+        "image_url": "https://i.ibb.co/G3sDXqqT/96f49092ca76.png",
+        "prompt": "Do you want to take a photo with the text NYXON, and it should be with lightning, and the word NYXON should be three-dimensional, and the lightning should be in it, the background should be of excellent quality, and the texts should be yellow and red with lightning style to make the text more beautiful and thicker.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
