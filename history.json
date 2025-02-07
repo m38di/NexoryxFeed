@@ -4352,5 +4352,12 @@
         "prompt": "Making a cool gaming logo name Pou",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:41:14",
+        "image_url": "https://i.ibb.co/MkWNb44B/37cb273c4e51.png",
+        "prompt": "Making a cool gaming modern logo name Amin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
