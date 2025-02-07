@@ -2406,5 +2406,12 @@
         "prompt": "What if Salvador dali designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:26:47",
+        "image_url": "https://i.ibb.co/zW7qXqY1/6b4e8ab0f48a.jpg",
+        "prompt": "What if Leonardo Da Vinci designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
