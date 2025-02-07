@@ -4009,5 +4009,12 @@
         "prompt": "Create a gaming moon logo with the name Dezzpunk Gusty Men",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:49:12",
+        "image_url": "https://i.ibb.co/PzVxrsXx/3be9db277d3b.jpg",
+        "prompt": "Create a gaming Mafia logo with the name Dezzpunk Gusty Men",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
