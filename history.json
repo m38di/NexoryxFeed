@@ -1566,5 +1566,12 @@
         "prompt": "bojack horseman with suit",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:51:16",
+        "image_url": "https://i.ibb.co/93qVWYh5/490b068c3557.png",
+        "prompt": "bojack horseman with suit cartoon sytle",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
