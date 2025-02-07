@@ -2840,5 +2840,12 @@
         "prompt": "Create a gaming logo with the name X MAX PRO",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:11:01",
+        "image_url": "https://i.ibb.co/xcpG0fN/96d8524a760f.jpg",
+        "prompt": "Create a gaming logo with the name R Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
