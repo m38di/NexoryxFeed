@@ -1762,5 +1762,12 @@
         "prompt": "Design an abstract logo for 'WE' with each letter bleeding into the other using flowing, colorful gradients (pink, blue, and yellow). The style should feel artistic and bold, like vibrant paintbrush strokes on a clean white background.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:12:49",
+        "image_url": "https://i.ibb.co/2YY6TTkh/ba91a83255fd.png",
+        "prompt": "What if Mohammad Reza Golzar Played on Walter White role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
