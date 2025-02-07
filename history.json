@@ -2000,5 +2000,12 @@
         "prompt": "Shrek in Iran",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:32:09",
+        "image_url": "https://i.ibb.co/3mzQKZft/3c1a743f6cb6.png",
+        "prompt": "Shrek in Iran",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
