@@ -1797,5 +1797,12 @@
         "prompt": "Design a nature-inspired 'WE' logo using earthy tones like greens and browns. Make the letters look like they are made from plants or tree roots, with small flowers or vines wrapping around them. A light wooden texture for added depth.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:14:31",
+        "image_url": "https://i.ibb.co/dJ1brfWs/7b11b204f061.png",
+        "prompt": "tom holland doing a french kiss with christopher nolan",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
