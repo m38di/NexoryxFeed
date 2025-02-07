@@ -5031,5 +5031,12 @@
         "prompt": "Create a HD quality gaming profile that uses lightning and is beautiful with the name of Amir",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 02:47:41",
+        "image_url": "https://i.ibb.co/KjwnVs5q/1e45372b6781.jpg",
+        "prompt": "Create a HD quality gaming profile that uses lightning and is beautiful with the name of Amir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
