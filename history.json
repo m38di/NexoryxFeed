@@ -2833,5 +2833,12 @@
         "prompt": "Create a gaming logo with the name JXGRAPHICS",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:10:35",
+        "image_url": "https://i.ibb.co/1ffT8XkM/f9137930f793.jpg",
+        "prompt": "Create a gaming logo with the name X MAX PRO",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
