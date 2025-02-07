@@ -2525,5 +2525,12 @@
         "prompt": "What if Michelangelo designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:51:03",
+        "image_url": "https://i.ibb.co/0V1svbv5/353436fda9c3.jpg",
+        "prompt": "What if Georgia O\u2019Keeffe designed Superman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
