@@ -3848,5 +3848,12 @@
         "prompt": "Create a gaming Gta logo with the name Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:42:33",
+        "image_url": "https://i.ibb.co/VW9c6NwX/06fefd204fe4.jpg",
+        "prompt": "Create a gaming Gta logo with the name Dezzpunk",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
