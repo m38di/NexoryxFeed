@@ -1678,5 +1678,12 @@
         "prompt": "What if Christian bale played Oppenheimer role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:06:32",
+        "image_url": "https://i.ibb.co/hwdsp9w/5f2c1e3789b5.jpg",
+        "prompt": "What if Mohammad Reza Pahlavi played Oppenheimer role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
