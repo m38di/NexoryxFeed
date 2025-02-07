@@ -2980,5 +2980,12 @@
         "prompt": "Creating a profile of a coin that is written in Radin's method",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:20:59",
+        "image_url": "https://i.ibb.co/JFQY1gc6/ceb6a73256f4.jpg",
+        "prompt": "Creating a profile of a coin that is written in Radin method",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
