@@ -1531,5 +1531,12 @@
         "prompt": "Create a gaming logo with the name Mr. Graph",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 12:38:10",
+        "image_url": "https://i.ibb.co/2YL2qWkH/613644da8f4c.png",
+        "prompt": "Create a gaming logo with the name Strom",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
