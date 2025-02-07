@@ -2273,5 +2273,12 @@
         "prompt": "what if Batman was a communist?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:57:36",
+        "image_url": "https://i.ibb.co/FbLbFrQs/fff4c1a241b8.png",
+        "prompt": "christian bale kissin' megan fox",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
