@@ -1895,5 +1895,12 @@
         "prompt": "Create a sleek and futuristic logo with the letters 'WE,' glowing in neon blue and violet. Use a cyberpunk aesthetic with subtle shadowing and luminous edges, set on a dark, high-tech background with glowing grid lines.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:21:50",
+        "image_url": "https://i.ibb.co/4nYnGzMT/9e64d21f89d9.png",
+        "prompt": "what happen if Tom Holand plays Mark Grayson role in Invincible live action",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
