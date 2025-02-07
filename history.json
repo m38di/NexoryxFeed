@@ -4233,5 +4233,12 @@
         "prompt": "Creating a gangester profile with the name  Luca",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:34:43",
+        "image_url": "https://i.ibb.co/tTNMdfTY/8faa92debece.jpg",
+        "prompt": "Creating a gangester profile with the name Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
