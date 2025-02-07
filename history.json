@@ -2035,5 +2035,12 @@
         "prompt": "What if Masoud Pezeshkian met J Robert Oppenheimer?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:35:29",
+        "image_url": "https://i.ibb.co/67CyhfCy/07d4c1d13259.png",
+        "prompt": "Create a gaming logo with the name STROM",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
