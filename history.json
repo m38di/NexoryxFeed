@@ -3988,5 +3988,12 @@
         "prompt": "Create a gaming Samp logo with the name Dezzpunk Gusty Men",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:48:13",
+        "image_url": "https://i.ibb.co/21TtkGH7/741641dd85f4.jpg",
+        "prompt": "Create a gaming Samp logo with the name Dezzpunk Gusty Men",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
