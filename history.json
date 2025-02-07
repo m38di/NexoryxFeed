@@ -3806,5 +3806,12 @@
         "prompt": "a hole that is repeated In itself exactly 57 times",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:39:42",
+        "image_url": "https://i.ibb.co/ynXP4jbf/1f50cd0bc6bf.jpg",
+        "prompt": "Create a gaming Gta logo with the name Elideriezz",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
