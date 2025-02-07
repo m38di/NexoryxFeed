@@ -2350,5 +2350,12 @@
         "prompt": "batman with pink clothes",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 14:05:50",
+        "image_url": "https://i.ibb.co/6cxkRNfD/e61cd00e8758.png",
+        "prompt": "A cowboy Playing guitar next to his love across the beach watercolor style",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
