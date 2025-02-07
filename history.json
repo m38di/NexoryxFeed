@@ -2182,5 +2182,12 @@
         "prompt": "What if Albert Einstein plays Count Dracula role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:49:13",
+        "image_url": "https://i.ibb.co/0pPTc1zv/4c28c9eb0943.png",
+        "prompt": "tom haland with bid boobs",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
