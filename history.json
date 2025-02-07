@@ -3365,5 +3365,12 @@
         "prompt": "bottom of a women",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 22:10:08",
+        "image_url": "https://i.ibb.co/wFVgKGQ0/9f7aad8d998d.jpg",
+        "prompt": "a lot dollars falling down like rain",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
