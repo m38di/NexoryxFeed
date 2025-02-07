@@ -2672,5 +2672,12 @@
         "prompt": "What if Michelangelo designed disney Animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:10:29",
+        "image_url": "https://i.ibb.co/RGK3Y4jN/cf05430845ea.jpg",
+        "prompt": "What if Michelangelo designed disney Animations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
