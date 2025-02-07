@@ -2441,5 +2441,12 @@
         "prompt": "What if Michelangelo designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:36:34",
+        "image_url": "https://i.ibb.co/F4MX7sbL/fec81bb7e4a6.jpg",
+        "prompt": "What if Michelangelo designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
