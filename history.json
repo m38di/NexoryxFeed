@@ -1517,5 +1517,12 @@
         "prompt": "/img A typography logo with the name STROM, which is very, very cool",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:34:45",
+        "image_url": "https://i.ibb.co/4ZzFjg8J/38209a32c5d7.png",
+        "prompt": "Make a cool gaming logo that is very cool and the quality should be 4k",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
