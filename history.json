@@ -2224,5 +2224,12 @@
         "prompt": "What if Count Dracula was a fascist?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:53:23",
+        "image_url": "https://i.ibb.co/Kxp3RJGV/a7c38b1f5070.png",
+        "prompt": "tony stark leading a glorious soccer world cup",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
