@@ -2742,5 +2742,12 @@
         "prompt": "Create a gaming logo with the name AMIR",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 18:50:48",
+        "image_url": "https://i.ibb.co/BVtKPYcV/e1c4fae51151.jpg",
+        "prompt": "Create a gaming logo with the name AMIR",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
