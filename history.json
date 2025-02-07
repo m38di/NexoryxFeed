@@ -4919,5 +4919,12 @@
         "prompt": "Do you want to take a photo with the text NYXON, and it should be with lightning, and the word NYXON should be three-dimensional, and the lightning should be in it, the background should be of excellent quality, and the texts should be yellow and red with lightning style to make the text more beautiful and thicker.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 02:42:23",
+        "image_url": "https://i.ibb.co/2YYH09hD/c4fa4197c241.jpg",
+        "prompt": "You can take a picture with the text AMIR and it should be with lightning and the word AMIR should be 3D and the lightning should be in it, and the background should be of excellent quality.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
