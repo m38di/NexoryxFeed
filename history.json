@@ -1839,5 +1839,12 @@
         "prompt": "sorena and crassos",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 13:17:27",
+        "image_url": "https://i.ibb.co/7NRB9BB0/ed5688c4839c.png",
+        "prompt": "john wick in the shining world",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
