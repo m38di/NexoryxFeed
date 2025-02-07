@@ -1867,5 +1867,12 @@
         "prompt": "what if Christopher Nolan direct a movie that based on God Of War?",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 13:19:13",
+        "image_url": "https://i.ibb.co/chmpvMCK/d2fb3a713ed0.jpg",
+        "prompt": "What if Oppenheimer met isaac newton?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
