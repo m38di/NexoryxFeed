@@ -1657,5 +1657,12 @@
         "prompt": "What if Christian bale played Odyssey role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:04:29",
+        "image_url": "https://i.ibb.co/6JyT0mp1/e3a84178971a.png",
+        "prompt": "Create a fun, bubbly logo for 'WE' using rounded cartoonish letters. Add bright, cheerful colors like pastel blue and pink, and include playful elements like doodles, stars, or confetti around the text to make it pop.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
