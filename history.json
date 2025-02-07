@@ -2434,5 +2434,12 @@
         "prompt": "What if Frida Kahlo designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:35:10",
+        "image_url": "https://i.ibb.co/j9jcLfhT/3d06f3334f5f.jpg",
+        "prompt": "What if Michelangelo designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
