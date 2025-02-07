@@ -1923,5 +1923,12 @@
         "prompt": "christian bale in arcane series",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 13:24:52",
+        "image_url": "https://i.ibb.co/n8QsDGCk/3ab1a4356d63.jpg",
+        "prompt": "What if Nicolas Tesla met Oppenheimer?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
