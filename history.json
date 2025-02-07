@@ -1958,5 +1958,12 @@
         "prompt": "Christian Bale in Arcane series",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:27:28",
+        "image_url": "https://i.ibb.co/nNW4VQ37/72f3a85c37f1.png",
+        "prompt": "Waht if sydney sweeny played catwoman role",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
