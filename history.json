@@ -2511,5 +2511,12 @@
         "prompt": "What if Pablo Picasso designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:47:29",
+        "image_url": "https://i.ibb.co/TML57X42/4385d92059ed.jpg",
+        "prompt": "What if Frida Kahlo designed Superman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
