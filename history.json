@@ -4135,5 +4135,12 @@
         "prompt": "Create a gaming Samp logo with the name Dezzpunk Gusty Men",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:30:56",
+        "image_url": "https://i.ibb.co/sdYDnJs5/7d874da9a365.jpg",
+        "prompt": "Creating a cryptor profile with the name of Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
