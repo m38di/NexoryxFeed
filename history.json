@@ -2203,5 +2203,12 @@
         "prompt": "Make a photomontage or end time theme",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/07 13:49:33",
+        "image_url": "https://i.ibb.co/Tx2pszL6/2cefbd1bd28d.jpg",
+        "prompt": "What if Ana de Armas plays Count Dracula role?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
