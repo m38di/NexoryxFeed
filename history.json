@@ -3750,5 +3750,12 @@
         "prompt": "The collision of the Milky Way and the Andromeda galaxy",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:33:55",
+        "image_url": "https://i.ibb.co/WNVPZchx/f2840cded8ad.jpg",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
