@@ -3841,5 +3841,12 @@
         "prompt": "\nCreate a profile with a Batman design with the name Elideriezz",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:41:42",
+        "image_url": "https://i.ibb.co/zWmf4y0P/fb3749378e64.jpg",
+        "prompt": "Create a gaming Gta logo with the name Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
