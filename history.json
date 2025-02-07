@@ -5248,5 +5248,12 @@
         "prompt": "Make a logo with the Amir text in the background, use the Deagle weapon, and make the space close to black and white",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 02:57:47",
+        "image_url": "https://i.ibb.co/QvMfWfsZ/d15bf9c7566e.png",
+        "prompt": "The logo with NYXON text should be a blue crystal theme. The text itself should be of blue crystal style and the photo should be completely graphic",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
