@@ -1965,5 +1965,12 @@
         "prompt": "Waht if sydney sweeny played catwoman role",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:28:31",
+        "image_url": "https://i.ibb.co/Lhqn5nh9/f691424e234b.png",
+        "prompt": "ana d armas played cat woman role",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
