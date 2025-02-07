@@ -3568,5 +3568,12 @@
         "prompt": "Create a gaming logo with the name Infernal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:17:34",
+        "image_url": "https://i.ibb.co/6JN1gzhD/fb790f39cdbf.png",
+        "prompt": "A cool and detailed logo with the name mortal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
