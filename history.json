@@ -1902,5 +1902,12 @@
         "prompt": "what happen if Tom Holand plays Mark Grayson role in Invincible live action",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 13:22:35",
+        "image_url": "https://i.ibb.co/Y92k7bP/2d548f84e08f.png",
+        "prompt": "john wick in the shining movies world",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
