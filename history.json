@@ -1825,5 +1825,12 @@
         "prompt": "the shining movie in the modern world",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:16:28",
+        "image_url": "https://i.ibb.co/B5xby0nq/66c526e39c0b.png",
+        "prompt": "Design a luxurious text logo featuring 'WE' in an elegant serif font, embossed with a combination of gold and silver metallic textures. Surround the letters with subtle floral and crown embellishments, symbolizing royalty and sophistication.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
