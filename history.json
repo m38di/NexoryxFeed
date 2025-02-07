@@ -2329,5 +2329,12 @@
         "prompt": "give me an iconic picture of batman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:04:50",
+        "image_url": "https://i.ibb.co/fVjTZKTt/a457836be532.png",
+        "prompt": "What if Miles Morales and Peter Parker sleep together?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
