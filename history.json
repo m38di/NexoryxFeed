@@ -1713,5 +1713,12 @@
         "prompt": "Design a dramatic and cinematic-looking 'WE' logo with a metallic, reflective chrome texture. Place the letters on a stormy, cloudy background with bright lightning illuminating the edges and casting realistic shadows.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:09:01",
+        "image_url": "https://i.ibb.co/vxKbGGCb/aacd6042aecf.jpg",
+        "prompt": "What if Oppenheimer and Odyssey live in one age of history?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
