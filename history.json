@@ -2315,5 +2315,12 @@
         "prompt": "what if Stalin was a fascist?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:01:12",
+        "image_url": "https://i.ibb.co/7xtx9C05/5c51a044cb11.png",
+        "prompt": "what if batman was racist",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
