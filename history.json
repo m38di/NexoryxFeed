@@ -3092,5 +3092,12 @@
         "prompt": "Create a gaming logo with the name Mr. Graph",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:30:10",
+        "image_url": "https://i.ibb.co/fYS1kSxn/3d43ca7e6f1b.jpg",
+        "prompt": "Creating a cryptor profile with the name of Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
