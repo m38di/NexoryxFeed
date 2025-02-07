@@ -2917,5 +2917,12 @@
         "prompt": "Create a gaming logo with the name TAIGA",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:16:51",
+        "image_url": "https://i.ibb.co/HpV7VdbP/8d836671502b.jpg",
+        "prompt": "Creating a digital currency profile with the name of Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
