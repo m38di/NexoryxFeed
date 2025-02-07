@@ -2231,5 +2231,12 @@
         "prompt": "tony stark leading a glorious soccer world cup",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:53:30",
+        "image_url": "https://i.ibb.co/YFX6LR5Z/06865c4bf20a.png",
+        "prompt": "seyed ali do French kiss with teramp",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
