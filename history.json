@@ -2756,5 +2756,12 @@
         "prompt": "Create a gaming logo with the name X MAX PRO",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 18:51:54",
+        "image_url": "https://i.ibb.co/B5YmqNn9/2934a10b31a1.jpg",
+        "prompt": "Create a gaming logo with the name X MAX PRO",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
