@@ -5024,5 +5024,12 @@
         "prompt": "You know, take a photo with the text NYXON, and it should be with lightning and the word NYXON should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 02:47:20",
+        "image_url": "https://i.ibb.co/vCXJ2vvh/6d4d5e935078.png",
+        "prompt": "Create a HD quality gaming profile that uses lightning and is beautiful with the name of Amir",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
