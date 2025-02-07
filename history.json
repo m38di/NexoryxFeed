@@ -1552,5 +1552,12 @@
         "prompt": "Create a gaming logo with the name STROM",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:46:00",
+        "image_url": "https://i.ibb.co/NbMSmfn/a949bbe5b40a.png",
+        "prompt": "bojack horseman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
