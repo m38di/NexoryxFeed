@@ -3057,5 +3057,12 @@
         "prompt": "Create a gaming logo with the name MORTAL with detail",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:28:56",
+        "image_url": "https://i.ibb.co/99kPH0yy/3f9eb34c183d.jpg",
+        "prompt": "Create a gaming logo with the name Mr. Graph",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
