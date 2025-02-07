@@ -1545,5 +1545,12 @@
         "prompt": "/img Make a cool gaming logo that is very cool and the quality should be 4k name may iq",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:41:22",
+        "image_url": "https://i.ibb.co/YBM2c1Sx/cddb13778892.png",
+        "prompt": "Create a gaming logo with the name STROM",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
