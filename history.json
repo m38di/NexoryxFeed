@@ -2308,5 +2308,12 @@
         "prompt": "What if Hitler was a communist?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:00:15",
+        "image_url": "https://i.ibb.co/4nVgsnKg/a55dd17c0cac.jpg",
+        "prompt": "what if Stalin was a fascist?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
