@@ -1986,5 +1986,12 @@
         "prompt": "megan fox played cat woman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:31:08",
+        "image_url": "https://i.ibb.co/tTwj9nMg/c287c9d4bcd5.png",
+        "prompt": "Shrek in breaking Bad series",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
