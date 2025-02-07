@@ -3680,5 +3680,12 @@
         "prompt": "Create a gaming logo with the name General",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/08 00:24:20",
+        "image_url": "https://i.ibb.co/Lz6V21yj/807418568a57.png",
+        "prompt": "Create a gaming logo with the name \u06a9\u06cc\u0631\u06cc \u0633\u062a\u0627\u0644",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
