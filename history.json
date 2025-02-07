@@ -4107,5 +4107,12 @@
         "prompt": "Creating a Skansi logo that is written in Name Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:58:16",
+        "image_url": "https://i.ibb.co/n8BNQJ9k/889fc84f906b.jpg",
+        "prompt": "a car bmw m5",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
