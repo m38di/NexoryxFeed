@@ -1643,5 +1643,12 @@
         "prompt": "Design a cosmic-themed logo for 'WE,' where the letters appear as constellations of stars. Add a shiny galactic gradient (purples, blues, and blacks) with a nebula swirl in the background\u2014make it feel vast and awe-inspiring.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:04:16",
+        "image_url": "https://i.ibb.co/rR3bCRM7/75e4f40435d8.png",
+        "prompt": "Arthur Morgan among three young sisters",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
