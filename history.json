@@ -2567,5 +2567,12 @@
         "prompt": "What if Leonardo Da Vinci was a movie designer and design movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:58:43",
+        "image_url": "https://i.ibb.co/JFHStDhP/560ccddeaba9.jpg",
+        "prompt": "What if Pablo Picasso was a movie designer and design movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
