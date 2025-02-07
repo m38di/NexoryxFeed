@@ -3652,5 +3652,12 @@
         "prompt": "Create a gaming logo with the name General",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:20:42",
+        "image_url": "https://i.ibb.co/4BQ4v79/c4a712631d5e.png",
+        "prompt": "Creating a cryptor profile with the name of HOSSEIN",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
