@@ -3155,5 +3155,12 @@
         "prompt": "Create a gaming logo with the name MORTAL",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 19:32:20",
+        "image_url": "https://i.ibb.co/qFmzr0dX/951f29e1b758.jpg",
+        "prompt": "Creating a cryptor profile with the name of Off_Lines",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
