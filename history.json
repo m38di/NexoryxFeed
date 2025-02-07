@@ -1573,5 +1573,12 @@
         "prompt": "bojack horseman with suit cartoon sytle",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/07 12:55:00",
+        "image_url": "https://i.ibb.co/Mk6cPXgK/a50b9ea049ee.png",
+        "prompt": "Ben 10 with a shotgun",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
