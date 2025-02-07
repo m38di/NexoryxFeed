@@ -2539,5 +2539,12 @@
         "prompt": "What if Michelangelo designed Superman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:52:57",
+        "image_url": "https://i.ibb.co/jPJXsm9G/e4140f912d40.jpg",
+        "prompt": "What if Michelangelo was a movie designer and design movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
