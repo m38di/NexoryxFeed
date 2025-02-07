@@ -1475,5 +1475,12 @@
         "prompt": "Trump in Messi's arms",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 11:25:33",
+        "image_url": "https://i.ibb.co/gLFdqZbn/3af25e77287a.png",
+        "prompt": "Ronaldo kiss Messi",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
