@@ -3967,5 +3967,12 @@
         "prompt": "Create a gaming Samp logo with the name Dezzpunk",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 00:47:19",
+        "image_url": "https://i.ibb.co/ccZc4jgS/b95dc45a737c.jpg",
+        "prompt": "Create a gaming Samp logo with the name Dezzpunk",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
