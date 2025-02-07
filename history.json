@@ -3001,5 +3001,12 @@
         "prompt": "Making a profile last time with the name Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:22:24",
+        "image_url": "https://i.ibb.co/35tVPt9b/0cee592c2aca.png",
+        "prompt": "\nCreate a profile with a Batman design with the name Amir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
