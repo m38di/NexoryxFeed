@@ -1748,5 +1748,12 @@
         "prompt": "Iran in next 50 years",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:12:15",
+        "image_url": "https://i.ibb.co/VYd99xSv/d27dd9817623.png",
+        "prompt": "world war 3 in iran",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
