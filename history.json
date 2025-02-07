@@ -1881,5 +1881,12 @@
         "prompt": "Craft a clean and minimalist text logo for 'WE' in a sharp, geometric font. Use pure white letters on a matte black background, with subtle line breaks and perfect symmetry to emphasize simplicity and elegance.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/07 13:20:46",
+        "image_url": "https://i.ibb.co/0ymHTgjn/abe917c9aedf.png",
+        "prompt": "ana de armas in the pool",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
