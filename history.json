@@ -2462,5 +2462,12 @@
         "prompt": "What if Georgia O\u2019Keeffe designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:40:25",
+        "image_url": "https://i.ibb.co/Ngv2H25p/f1fa38e2402a.jpg",
+        "prompt": "What if Van Gogh designed Superman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
