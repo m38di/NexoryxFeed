@@ -1972,5 +1972,12 @@
         "prompt": "ana d armas played cat woman role",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:29:37",
+        "image_url": "https://i.ibb.co/Cp0WFgSW/910219a8225c.png",
+        "prompt": "Homlander in Arcane world",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
