@@ -1937,5 +1937,12 @@
         "prompt": "what if megan fox played cat woman role",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:25:25",
+        "image_url": "https://i.ibb.co/cX3xKg3L/035c3f2111df.jpg",
+        "prompt": "What if Nicolas Tesla met Albert Einstein?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
