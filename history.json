@@ -2896,5 +2896,12 @@
         "prompt": "Create a Digital logo with the name Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:16:12",
+        "image_url": "https://i.ibb.co/ch6D21v6/93f8472d46e8.jpg",
+        "prompt": "Creating a digital currency profile with the name of Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
