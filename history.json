@@ -2455,5 +2455,12 @@
         "prompt": "What if Jackson Pollock designed batman movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:38:19",
+        "image_url": "https://i.ibb.co/tTPwFZPv/9f8f2762c42d.jpg",
+        "prompt": "What if Georgia O\u2019Keeffe designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
