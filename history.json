@@ -2574,5 +2574,12 @@
         "prompt": "What if Pablo Picasso was a movie designer and design movies locations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:00:08",
+        "image_url": "https://i.ibb.co/pv9hjYCP/68a9f295e18d.jpg",
+        "prompt": "What if Frida Kahlo was a movie designer and design movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
