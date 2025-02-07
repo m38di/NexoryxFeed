@@ -4282,5 +4282,12 @@
         "prompt": "Making a cool gaming logo name Luca",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 01:36:59",
+        "image_url": "https://i.ibb.co/jv8BvrxK/8c8943c54b73.jpg",
+        "prompt": "Making a cool gaming logo name Luca",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
