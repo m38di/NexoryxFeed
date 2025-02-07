@@ -1790,5 +1790,12 @@
         "prompt": "What if Tom Holland played Odyssey role?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:13:56",
+        "image_url": "https://i.ibb.co/VY33LNND/9c68f19a4407.png",
+        "prompt": "Design a nature-inspired 'WE' logo using earthy tones like greens and browns. Make the letters look like they are made from plants or tree roots, with small flowers or vines wrapping around them. A light wooden texture for added depth.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
