@@ -3708,5 +3708,12 @@
         "prompt": "Creating a cryptor profile with the name of HOSSEIN",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/08 00:25:38",
+        "image_url": "https://i.ibb.co/Mx0YYKL8/1adf4a3d39eb.png",
+        "prompt": "Create a gaming logo with the name \u06a9\u06cc\u0631\u06cc \u0633\u062a\u0627\u0644",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
