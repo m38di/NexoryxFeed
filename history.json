@@ -2147,5 +2147,12 @@
         "prompt": "give me Megan Fox catwoman kissing Cillian Murphy batman",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 13:45:53",
+        "image_url": "https://i.ibb.co/Q7Y2Xd08/36d14e0646f7.jpg",
+        "prompt": "give me Megan Fox catwoman sleeping with Cillian Murphy batman",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
