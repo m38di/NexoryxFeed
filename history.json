@@ -4842,5 +4842,12 @@
         "prompt": "Gaming logo with NYXON text with icy weather. The style of the text should be cool\n\nRemove the gaming text, try to make it 3D, the text and snowy background should be of better quality",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 02:37:45",
+        "image_url": "https://i.ibb.co/6c9z7cXy/2d83dfd2b925.png",
+        "prompt": "\n\nCreate a cool joker profile with the name Amir",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
