@@ -3827,5 +3827,12 @@
         "prompt": "a hole that is repeated In itself exactly 57 times",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:40:30",
+        "image_url": "https://i.ibb.co/Y7TMbMLK/fa1c727c1a7f.png",
+        "prompt": "Create a gaming logo with the name Infernal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
