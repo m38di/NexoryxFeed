@@ -5045,5 +5045,12 @@
         "prompt": "You know, take a photo with the text Elideriezz, and it should be with lightning and the word Elideriezz should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 02:47:56",
+        "image_url": "https://i.ibb.co/MDdJhZGf/2a2490d89b06.png",
+        "prompt": "You know, take a photo with the text NYXON, and it should be with lightning and the word NYXON should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
