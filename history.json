@@ -2812,5 +2812,12 @@
         "prompt": "Create a gaming logo GOD with the name AMIR",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:02:24",
+        "image_url": "https://i.ibb.co/xSYJN5CZ/ce48d014aba9.jpg",
+        "prompt": "Create a gaming logo with the name JXGRAPHICS",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
