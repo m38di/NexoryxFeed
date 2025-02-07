@@ -5143,5 +5143,12 @@
         "prompt": "/img Put a photo with the text Neatleyzz Legendery next to it and put the text Family under this word. Now take a photo and take it up and give it a red medicine. It is a sample for the GTA Online server. Add a red style to the text",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 02:52:11",
+        "image_url": "https://i.ibb.co/LDqsDrJc/602b42b9150b.jpg",
+        "prompt": "Put a photo with the text Neatleyzz Legendery next to it and put the text Family under this word. Now take a photo and take it up and give it a red medicine. It is a sample for the GTA Online server. Add a red style to the text",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
