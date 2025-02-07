@@ -1853,5 +1853,12 @@
         "prompt": "kratos do French kiss with rostam",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/07 13:18:41",
+        "image_url": "https://i.ibb.co/8LB0BWmv/a41dc68130bf.jpg",
+        "prompt": "What if Oppenheimer met isaac newton?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
