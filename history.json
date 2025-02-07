@@ -2637,5 +2637,12 @@
         "prompt": "What if Leonardo Da Vinci designed disney Animations?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 15:07:39",
+        "image_url": "https://i.ibb.co/LDSRQLwJ/22c7666a5c69.jpg",
+        "prompt": "What if Pablo Picasso designed disney Animations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
