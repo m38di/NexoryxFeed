@@ -3456,5 +3456,12 @@
         "prompt": "iran",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 00:09:21",
+        "image_url": "https://i.ibb.co/hFR6r7jD/ca2c68af4c24.jpg",
+        "prompt": "Creating a cryptor profile with the name of Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
