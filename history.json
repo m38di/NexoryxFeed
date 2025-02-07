@@ -2882,5 +2882,12 @@
         "prompt": "Create a gaming logo with the name TAIGA",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 19:14:24",
+        "image_url": "https://i.ibb.co/fzZdmgKc/30570882613d.jpg",
+        "prompt": "Create a Digital logo with the name Radin",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
