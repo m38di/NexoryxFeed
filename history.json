@@ -2399,5 +2399,12 @@
         "prompt": "give me an iconic picture of Moon knight",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/07 14:24:34",
+        "image_url": "https://i.ibb.co/svD6YS9f/08dc8afbf8c5.jpg",
+        "prompt": "What if Salvador dali designed batman movies locations?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
