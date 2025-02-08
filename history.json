@@ -8510,5 +8510,12 @@
         "prompt": "Generate an image of a dark, smoky, grunge background.  The central area should be a dark gray, almost black, with a rough, textured appearance, like a worn chalkboard or stone wall.  Scattered throughout the image, especially along the edges, are streaks and splashes of deep red, resembling embers or blood spatter.  The overall feel should be dark, ominous, and slightly chaotic. Include small, glowing red particles, like sparks, floating throughout the scene. The resolution should be high.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 18:22:46",
+        "image_url": "https://i.ibb.co/nqJxbW4g/0b9f783d6079.jpg",
+        "prompt": "Design a logo for a company called \"Bob.Store.ir\" that sells premium Telegram accounts, virtual numbers, DNS, and VPN services.  The logo should be modern, clean, and incorporate elements representing technology and connectivity (like a wifi signal or network nodes). The color scheme should be predominantly red and black, similar to the provided example.  Consider different font styles to ensure the name is easily readable and memorable.  Provide variations with and without a tagline (e.g., \"Premium Telegram Services\").",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
