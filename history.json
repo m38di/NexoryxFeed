@@ -8146,5 +8146,12 @@
         "prompt": "REPAIRROYAL name is written in some gears",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:19:22",
+        "image_url": "https://i.ibb.co/CsPhk5nH/398acab25f9f.png",
+        "prompt": "Make a gaming 3D Logo wite word MAX \n\nThe ''AMIR'' color is silver \n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
