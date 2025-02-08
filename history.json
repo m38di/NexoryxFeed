@@ -5346,5 +5346,12 @@
         "prompt": "Make a logo with the AMIR text in the background, use the AMIR weapon, and make the space close to black and white",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 03:04:50",
+        "image_url": "https://i.ibb.co/p6PBdwN6/a62e5c4510ec.png",
+        "prompt": "make a logo for me in the style Call of mobile case with the name TYLER and with excellent quality",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
