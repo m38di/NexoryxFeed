@@ -8769,5 +8769,12 @@
         "prompt": "Logo for cosmetics brand named \"SETAYESH\"",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 19:20:11",
+        "image_url": "https://i.ibb.co/cKDTryyv/d5e82a6f32f0.png",
+        "prompt": "Logo for cosmetics brand named \"SETAYESH\"",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
