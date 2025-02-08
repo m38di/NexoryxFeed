@@ -6865,5 +6865,12 @@
         "prompt": "Generate an image in the style of a heavy metal album cover. The text \"DIXON\" should be the central focus, rendered in a 3D, chrome-like, gothic, and sharp style with intricate details. The background should be dark, possibly with a grunge or abstract texture, incorporating hints of blue and black.  The overall mood should be dark, aggressive, and visually striking.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:48:48",
+        "image_url": "https://i.ibb.co/V03d6T3D/48d467834a05.jpg",
+        "prompt": "Generate an image in the style of a heavy metal album cover. The text \"DIXON\" should be the central focus, rendered in a 3D, chrome-like, gothic, and sharp style with intricate details. The background should be dark, possibly with a grunge or abstract texture, incorporating hints of blue and black.  The overall mood should be dark, aggressive, and visually striking.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
