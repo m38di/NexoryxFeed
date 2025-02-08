@@ -6599,5 +6599,12 @@
         "prompt": "A logo for the field of graphics and names max Graphics",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 13:14:07",
+        "image_url": "https://i.ibb.co/R4DRV1nS/3072e8a97da9.jpg",
+        "prompt": "A cool and detailed logo with the name MORTAL",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
