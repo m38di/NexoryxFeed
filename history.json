@@ -7152,5 +7152,12 @@
         "prompt": "A logo for a channel covering 5th generation rappers with the name Rap Five and a microphone vector with shiny, silver style text on a black and lead stone background.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 14:20:41",
+        "image_url": "https://i.ibb.co/WjvvHJv/80fdd7a71f63.jpg",
+        "prompt": "a logo with the name DESIGN ART with black background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
