@@ -5731,5 +5731,12 @@
         "prompt": "make a logo with MAX name",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 08:11:54",
+        "image_url": "https://i.ibb.co/M5tHygvr/681a1decfc58.png",
+        "prompt": "make a 3D logo with name MAX",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
