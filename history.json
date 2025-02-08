@@ -7726,5 +7726,12 @@
         "prompt": "image is a vibrant digital graphic design, likely for a video game or online community.\u00a0\n\n\nHere's a breakdown of the details:\n\n* Central Element: The words \"ENDIR KING\" are prominently displayed in large, three-dimensional, stylized lettering. The letters are a glossy, dark pink/magenta with a black outline, giving them a bold, almost neon-like appearance.  The lettering has a slightly reflective quality.\n\n* Curved Element: A dark purple, curved line, resembling a rollercoaster track or a stylized arc, sweeps through the words, passing over the \"R\" in \"ENDIR\" and under the \"K\" in \"KING\".\n\n* Character: A small, pixelated figure, reminiscent of a character from the video game Minecraft (specifically an Enderman), is perched atop the curved line near the word \"ENDIR\".\n\n* Cloud: A light blue, simple cloud graphic sits on the curved line near the top of the \"R\".\n\n* Background: The background is a light pink/magenta with radiating lines emanating from a central point, creating a sunburst or starburst effect. There are also concentric circles in lighter shades behind the text, providing depth.\n\n* Watermark:  In the upper left corner is a small watermark that appears to be a username or logo \"@top_edit\".\n\nThe overall style is playful, dynamic, and eye-catching, suggesting a gaming-related context. The color scheme, font choices, and the inclusion of the Enderman character all point towards a connection to the Minecraft universe or a similar aesthetic.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 15:39:52",
+        "image_url": "https://i.ibb.co/4gs9g0mg/d629d2acd4f6.jpg",
+        "prompt": "\u06cc\u0647 \u0646\u0648\u0634\u062a\u0647 \u0628\u0627 \u0641\u0648\u0646\u062a \u06cc\u0648\u062a\u0648\u0628\u0631\u06cc Artin \u0628\u0627 \u0628\u06a9 \u06af\u0631\u0627\u0646\u062f \u0631\u0646\u062f\u0648\u0645",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
