@@ -8538,5 +8538,12 @@
         "prompt": "Create a dark, grunge art piece.  The main color is dark gray/black with red embers and sparks.  The texture should be rough and smoky, evoking a sense of chaos and darkness.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 18:24:58",
+        "image_url": "https://i.ibb.co/HfvBW08K/cbc9b8db1eef.jpg",
+        "prompt": "Generate an image in the style of dark fantasy or gothic art. The scene is a dark, smoky void with red accents that suggest fire or blood. Use a grunge texture and incorporate glowing red particles for a chaotic and ominous effect.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
