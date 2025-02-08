@@ -8909,5 +8909,12 @@
         "prompt": "A photo of Batman with a black background and lighting called Design Art",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 20:11:17",
+        "image_url": "https://i.ibb.co/fdp8bvFK/06b2b4dda3cd.jpg",
+        "prompt": "A photo of Batman with a black background and lighting called Design Art",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
