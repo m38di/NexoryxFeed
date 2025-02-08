@@ -9336,5 +9336,12 @@
         "prompt": "\"A distant view of a house interior with a framed picture perfectly centered on the wall. Below the frame, there is a table with an ashtray and a bottle of alcohol placed on it.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 00:06:22",
+        "image_url": "https://i.ibb.co/FLbhJ55d/f722ba15079e.png",
+        "prompt": "\"A distant view of a house interior with a square-shaped framed picture perfectly centered on the wall. Below the frame, there is a table with an ashtray and a bottle of alcohol placed on it.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
