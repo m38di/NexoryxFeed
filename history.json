@@ -6606,5 +6606,12 @@
         "prompt": "A cool and detailed logo with the name MORTAL",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:14:36",
+        "image_url": "https://i.ibb.co/84LHS4D9/5e42d5137ff6.jpg",
+        "prompt": "A cool and detailed logo with the name MORTAL",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
