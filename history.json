@@ -6753,5 +6753,12 @@
         "prompt": "Generate an image of the name \"Dixon\" in a dark, fantasy font.\u00a0 The style should be gothic or medieval, with a 3D, embossed look. The letters should appear to be carved from dark grey stone or metal with a cracked texture.\u00a0 The background should be dark and smoky, with streaks of red and orange fire or embers, suggesting a fiery or hellish environment.\u00a0 The overall mood should be dark, dramatic, and powerful.\u00a0 The resolution should be high, suitable for printing.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:43:27",
+        "image_url": "https://i.ibb.co/qLLXzbzb/0f337ce6724e.jpg",
+        "prompt": "Generate an image of the name \"Dixon\" in a dark, fantasy font.  The style should be gothic or medieval, with a 3D, embossed look. The letters should appear to be carved from dark grey stone or metal with a cracked texture.  The background should be dark and smoky, with streaks of red and orange fire or embers, suggesting a fiery or hellish environment.  The overall mood should be dark, dramatic, and powerful.  The resolution should be high, suitable for printing.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
