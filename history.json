@@ -6585,5 +6585,12 @@
         "prompt": "Craft a clean and minimalist text logo for 'WE' in a sharp, geometric font. Use pure white letters on a matte black background, with subtle line breaks and perfect symmetry to emphasize simplicity and elegance.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 13:08:40",
+        "image_url": "https://i.ibb.co/SDZ9vsSS/508276c289ae.png",
+        "prompt": "(4k photo, detailed portrait)\nRed purple yellow\nWoman, sitting, holding the phone, interested/sad, head tilt, looking at the phone\n dark room, studio lights",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
