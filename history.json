@@ -9217,5 +9217,12 @@
         "prompt": "''DEROGER\" in a futuristic, metallic 3D font.  Dark space background with shooting stars.  Retro-futuristic style.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 23:00:17",
+        "image_url": "https://i.ibb.co/zWTDVPHp/37dc21811910.jpg",
+        "prompt": " `A little girl with a very weak and thin body, wearing a blue scarf and with red hair, is sitting on the sofa, and the age of the little girl is about 10 years old.`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
