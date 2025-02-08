@@ -8608,5 +8608,12 @@
         "prompt": "Make a gaming 3D Logo wite word AMIR\n\nThe ''AMIR'' color is silver \n\n* Background:It should be full of green bushes, trees and flowers. There should be a landscape like the world of Minecraft, and there should be a number of living creatures like pigs and cows in the Minecraft world. Also, there should be a bee on the word \"AMIR\" on the letter 'R'.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 18:46:35",
+        "image_url": "https://i.ibb.co/7tX9ggHr/fad8cfbcf0fc.png",
+        "prompt": "Make a gaming 3D Logo wite word AMIR\n\nThe ''AMIR'' color is silver \n\n* Background:It should be full of green bushes, trees and flowers. There should be a landscape like the world of Minecraft, and there should be a number of living creatures like pigs and cows in the Minecraft world. Also, there should be a bee on the word \"AMIR\" on the letter 'R'.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
