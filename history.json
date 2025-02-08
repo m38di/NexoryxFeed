@@ -6263,5 +6263,12 @@
         "prompt": "Make a gaming 3D logo with name MAX and Dark background with maximum quality",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 09:29:32",
+        "image_url": "https://i.ibb.co/KcxGM0zw/f0b071ea1a87.png",
+        "prompt": "Make a random gaming  logo with name ARTIN",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
