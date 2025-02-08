@@ -5864,5 +5864,12 @@
         "prompt": "The logo should be about the profession of lawyer and the material of the logo should be made of gold and should be three-dimensional and have an attractive and modern design and under the logo should be written \"HOSSEINI\" and the name hoseini should be made of red diamonds and the background of the logo should be white.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/08 08:53:57",
+        "image_url": "https://i.ibb.co/KcXMnDHM/ea8ac2d981f2.png",
+        "prompt": "Make a gaming 3D Logo wite word MAX \n\nThe ''MAX'' color is silver \n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
