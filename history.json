@@ -6830,5 +6830,12 @@
         "prompt": "Create a digital painting of the word \"Dixon\" in a dark fantasy style.  Use art styles reminiscent of album covers for metal bands,  Greg Rutkowski, or Zdzis\u0142aw Beksi\u0144ski.  The text should be 3D and textured, perhaps made of stone or metal. The background should include fire, smoke, and dark ominous tones.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:47:00",
+        "image_url": "https://i.ibb.co/VctFK5fL/f69d2f14658a.jpg",
+        "prompt": "Generate an image in the style of a heavy metal album cover. The text \"DEAD\" should be the central focus, rendered in a 3D, chrome-like, gothic, and sharp style with intricate details. The background should be dark, possibly with a grunge or abstract texture, incorporating hints of blue and black.  The overall mood should be dark, aggressive, and visually striking.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
