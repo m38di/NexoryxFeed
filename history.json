@@ -5521,5 +5521,12 @@
         "prompt": "The image showcases a 3D text effect design of the word \"amin\".  The letters are rendered in a bold, cartoonish style.  They are predominantly bright, yellowish-orange, with a slightly darker, reddish-orange outline creating a bevel effect that gives them a three-dimensional appearance and a glossy shine.  The letters are slightly irregular and bubbly in shape, adding to their playful and informal aesthetic.  The background is a muted, dusky rose or mauve.  The bottom of the image contains small text in a thin, sans-serif font providing details about the design, including that it's a PSD text effect, uses a free font, is 100% editable, is easy to use, and is a smart object with organized layers.  The overall style is vibrant and cheerful, suitable for applications that require a fun and energetic feel.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 04:04:30",
+        "image_url": "https://i.ibb.co/mV3J1MS1/ed916141db81.jpg",
+        "prompt": "image displays a 3D text effect of the word \"VIBES\".  The letters are stylized in a playful, cartoonish manner. Each letter is a bold, slightly rounded shape, filled with a bright, almost neon yellow-orange color.  There's a subtle, darker orange outlining each letter, giving a sense of depth and three-dimensionality.  The letters appear glossy, almost as if they're made of polished plastic or candy.\n\nThe background is a muted, neutral brownish-pink or dusty rose color, which provides a strong contrast to the vibrant lettering. This color palette helps the word \"VIBES\" stand out prominently.\n\nAt the top of the image, small, unobtrusive text reads \"PSD TEXT EFFECT\". At the bottom are further details regarding the font, its editability, and the layer organization, indicating this is likely a digital design element, perhaps a template or resource for graphic designers.  The text mentions \"free font,\" \"100% editable,\" \"text effect,\" \"easy to use,\" \"smart object,\" and \"layer organized.\"\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
