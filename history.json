@@ -5500,5 +5500,12 @@
         "prompt": "image shows a stylized logo featuring the letter \"M\" twice, forming a larger, more complex \"M\".  This double \"M\" is prominently displayed within a square frame. The frame itself is ornate, with a decorative top element resembling a crown or crest.  The \"M\" is rendered in a metallic style, appearing three-dimensional and textured, with a subtle sheen.\u00a0\n\n\nA rainbow-like effect, or possibly a subtle chromatic aberration, is visible within the metallic \"M\", adding a colorful accent to the otherwise grayscale design.\n\n\nThe background is a blurred, motion-blurred grayscale image of people in motion, creating a sense of movement and dynamism that contrasts with the sharp, detailed logo. The blur suggests an outdoor, possibly public setting with a crowd of people.\u00a0\n\n\nIn the bottom of the image, \"AMIN GRAPHIC\" is visible in a small, sans-serif font, suggesting the creator or designer of the logo. The overall aesthetic is a blend of modern and vintage design elements, with the sharp logo standing out against the purposefully blurry and grayscale background.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 04:02:16",
+        "image_url": "https://i.ibb.co/Hp46v4jP/88ced84b9ce5.jpg",
+        "prompt": "image shows Cristiano Ronaldo, a young adult with short, dark brown hair styled upward. His facial expression is serious, almost stern, with a slightly furrowed brow. He's wearing a long-sleeved, mustard-yellow training top with maroon accents along the shoulders and down the sleeves.  The shirt displays the Manchester United crest on the chest, along with the number \"10\" and the Vodafone logo prominently displayed.  The Nike logo is subtly visible above the Manchester United crest. The background is blurred but suggests an outdoor sports field, giving the context of a training session or practice. The overall color palette is muted, dominated by the yellowish-brown tones of the jersey and the background.  The image has a slightly vintage or nostalgic feel, possibly due to the color grading and the slightly grainy texture.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
