@@ -9210,5 +9210,12 @@
         "prompt": "Generate an image of the word \"ZX\u00b9 ITACHI\" rendered in a futuristic, 3D, metallic style. The letters should appear as if they are sculpted from a polished, chrome-like material with subtle, embossed details.\u00a0 The background should be a dark, space-like scene with shooting stars and a faint nebula.\u00a0 The overall style should evoke a sense of retro-futurism and cyberpunk aesthetics.\u00a0 Include a thin, glowing wire or cable subtly wrapping around the letters",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 22:58:55",
+        "image_url": "https://i.ibb.co/s9RT6FBr/03361a931703.jpg",
+        "prompt": "''DEROGER\" in a futuristic, metallic 3D font.  Dark space background with shooting stars.  Retro-futuristic style.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
