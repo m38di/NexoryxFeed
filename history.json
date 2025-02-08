@@ -6781,5 +6781,12 @@
         "prompt": "Animation blue man hug a Animation Red man",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 13:44:25",
+        "image_url": "https://i.ibb.co/Zp85dBNJ/660a96df9f59.jpg",
+        "prompt": "Dixon\" in a dark, 3D, gothic font. Cracked stone texture. Fiery, smoky background.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
