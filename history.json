@@ -8090,5 +8090,12 @@
         "prompt": "The background should be black, and the name Fiedny should be written in gold.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:14:30",
+        "image_url": "https://i.ibb.co/mVrdpfbv/375afe5d670c.jpg",
+        "prompt": "REPAIRROYAL name is written in some gears",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
