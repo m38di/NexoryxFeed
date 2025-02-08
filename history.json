@@ -8706,5 +8706,12 @@
         "prompt": " A logo with blue text and ash background with the name Design Art with graphic font",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 19:05:02",
+        "image_url": "https://i.ibb.co/mCp7PBj0/cbaca0c675dc.png",
+        "prompt": "The word \"setaysh\" in 3D mode and with its thin and delicate font in golden and yellow color to show its brightness and tenderness. \n\nBackground: It should be depressed and shaded in gray and black",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
