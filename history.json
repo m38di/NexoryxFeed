@@ -7075,5 +7075,12 @@
         "prompt": "A picture of Captain America with blue lighting and a gray background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:12:30",
+        "image_url": "https://i.ibb.co/cXLCpRg3/7518711a4edd.jpg",
+        "prompt": "A photo of Batman with a black background and lighting called Design Art",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
