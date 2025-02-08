@@ -9287,5 +9287,12 @@
         "prompt": "\"A complete image showing a framed picture perfectly centered on a wall. Below it, there is a table with an ashtray and a bottle of alcohol placed on top.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 23:51:18",
+        "image_url": "https://i.ibb.co/4ggsDPkr/e7ac270047fb.png",
+        "prompt": "\"A complete image showing a framed picture perfectly centered on a wall. Below it, there is a table with an ashtray and a bottle of alcohol placed on top.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
