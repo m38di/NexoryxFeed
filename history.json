@@ -7068,5 +7068,12 @@
         "prompt": "A picture of Captain America with blue lighting and a gray background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:12:11",
+        "image_url": "https://i.ibb.co/xqg0Rqmx/498ce57155a1.jpg",
+        "prompt": "A picture of Captain America with blue lighting and a gray background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
