@@ -6592,5 +6592,12 @@
         "prompt": "(4k photo, detailed portrait)\nRed purple yellow\nWoman, sitting, holding the phone, interested/sad, head tilt, looking at the phone\n dark room, studio lights",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 13:13:13",
+        "image_url": "https://i.ibb.co/bj5QB7Y3/736685cdfbdc.png",
+        "prompt": "A logo for the field of graphics and names max Graphics",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
