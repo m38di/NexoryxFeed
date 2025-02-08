@@ -8923,5 +8923,12 @@
         "prompt": "A photo of Batman with a black background and lighting called",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 20:21:26",
+        "image_url": "https://i.ibb.co/cSx6HgKN/b299ae74aac5.png",
+        "prompt": "make a 3D Logo digital with name AMIR and silver and Dark color",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
