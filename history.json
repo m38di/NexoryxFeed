@@ -7096,5 +7096,12 @@
         "prompt": "A logo with the name Design Art with a gray background and white lighting",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:15:14",
+        "image_url": "https://i.ibb.co/SXn3sKW8/03c71779caf5.jpg",
+        "prompt": "A logo with the name Design Art with a gray background and white lighting and heavy graphic font and text style.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
