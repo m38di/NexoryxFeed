@@ -8083,5 +8083,12 @@
         "prompt": "ROYALPHONE name is written in some gears",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:13:11",
+        "image_url": "https://i.ibb.co/7J0zVSLX/7a587de07450.jpg",
+        "prompt": "The background should be black, and the name Fiedny should be written in gold.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
