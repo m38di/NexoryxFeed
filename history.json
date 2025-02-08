@@ -5787,5 +5787,12 @@
         "prompt": "A cool profile with the name Amir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 08:42:08",
+        "image_url": "https://i.ibb.co/ycST114b/de4d84fe46ff.jpg",
+        "prompt": "The logo should be about the profession of lawyer and the material of the logo should be gold and it should be three-dimensional and have an attractive and modern design and the text \"HOSSEINI\" should be written under the logo with a red diamond shape and the background of the logo should be white.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
