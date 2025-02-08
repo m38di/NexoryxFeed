@@ -9056,5 +9056,12 @@
         "prompt": "\"A person standing in a side profile view, the image captured from their waist up. They are holding a cigarette in one hand, and their hair is partially grayed.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 21:51:57",
+        "image_url": "https://i.ibb.co/93Wf4MtW/0fdf32fdbe2f.png",
+        "prompt": "\"A person standing in a side profile view, the image captured from their waist up. They are holding a cigarette in one hand, and their hair is partially grayed.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
