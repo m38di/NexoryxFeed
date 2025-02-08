@@ -8391,5 +8391,12 @@
         "prompt": "A black background, with FIEDNY written on it with lightning bolts.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:44:14",
+        "image_url": "https://i.ibb.co/wF1nKQhL/d9cf71229d8c.jpg",
+        "prompt": "A black background, with FIEDNY written on it with lightning bolts.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
