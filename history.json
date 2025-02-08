@@ -5514,5 +5514,12 @@
         "prompt": "Design a visually appealing mockup featuring the Nike logo elegantly placed on a high-quality envelope. Utilize a creative and luxurious color palette to emphasize sophistication and brand presence. Arrange the envelope on a premium luxury table, ensuring the lighting and composition enhance the overall elegance and exclusivity of the scene.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 04:03:31",
+        "image_url": "https://i.ibb.co/NgH9fGsK/ff21c8b1e327.jpg",
+        "prompt": "The image showcases a 3D text effect design of the word \"amin\".  The letters are rendered in a bold, cartoonish style.  They are predominantly bright, yellowish-orange, with a slightly darker, reddish-orange outline creating a bevel effect that gives them a three-dimensional appearance and a glossy shine.  The letters are slightly irregular and bubbly in shape, adding to their playful and informal aesthetic.  The background is a muted, dusky rose or mauve.  The bottom of the image contains small text in a thin, sans-serif font providing details about the design, including that it's a PSD text effect, uses a free font, is 100% editable, is easy to use, and is a smart object with organized layers.  The overall style is vibrant and cheerful, suitable for applications that require a fun and energetic feel.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
