@@ -9098,5 +9098,12 @@
         "prompt": "\"A full-body image of a man standing in a side profile view, holding a cigarette in one hand. He is dressed in black clothing.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 22:10:02",
+        "image_url": "https://i.ibb.co/yBYyYz8p/b6625529fea6.png",
+        "prompt": "\"A full-body image of a man standing in a side profile view, holding a cigarette in one hand. He is dressed in black clothing.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
