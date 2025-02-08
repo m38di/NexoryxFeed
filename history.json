@@ -8804,5 +8804,12 @@
         "prompt": "image shows the word \"brOken\" rendered in a 3D, metallic font against a black background.\u00a0 The letters appear to be made of polished chrome or a similar highly reflective metal.\u00a0 The surface of each letter exhibits subtle variations in shading and highlights, suggesting a curved, almost inflated or balloon-like, three-dimensional form.\u00a0 The letters are individually spaced, and there is a clear contrast between the bright highlights and dark recesses within the letters' reflective surfaces.\u00a0 The overall effect is sleek, modern, and visually striking.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 19:27:32",
+        "image_url": "https://i.ibb.co/VYMr6tvX/a96cbf4dc1b3.png",
+        "prompt": "image shows the word \"brOken\" rendered in a 3D, metallic font against a black background.\u00a0 The letters appear to be made of polished chrome or a similar highly reflective metal.\u00a0 The surface of each letter exhibits subtle variations in shading and highlights, suggesting a curved, almost inflated or balloon-like, three-dimensional form.\u00a0 The letters are individually spaced, and there is a clear contrast between the bright highlights and dark recesses within the letters' reflective surfaces.\u00a0 The overall effect is sleek, modern, and visually striking.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
