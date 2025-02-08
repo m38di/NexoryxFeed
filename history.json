@@ -6270,5 +6270,12 @@
         "prompt": "Make a random gaming  logo with name ARTIN",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 09:32:00",
+        "image_url": "https://i.ibb.co/zVgWMD9w/bd75c13a7e04.jpg",
+        "prompt": "The image is a stylized poster or artwork featuring Al Pacino as Tony Montana from the film *Scarface*.\u00a0\n\n\nHere's a breakdown of the image's details:\n\n* Central Figure: Al Pacino is depicted in a close-up, slightly angled shot. He's holding a cigar, displaying a confident and almost menacing smile.\u00a0His expression is intense.\u00a0 The style is reminiscent of a dramatic movie poster.\n\n* Color Palette: The dominant color is a vibrant, deep red, used throughout the background and overlaid text. This creates a dramatic and intense atmosphere.\u00a0 There are also some black tones and shades of dark red in the clothing and background.\n\n* Text: The words \"Dezzpunk\" are prominently displayed across the image in a bold, stylized red font.\u00a0 Underneath this, smaller text reads \"@Off_Lines,\" likely a social media handle or watermark. The text style is edgy and somewhat graffiti-like.\n\n* Background: The background is a chaotic blend of blurry red tones and shapes that resemble fire, blood spatters, or explosions.\u00a0 There are also some out-of-focus elements that seem to be fruits or vegetables near the bottom. The background adds to the overall gritty and intense mood.\n\n* Style: The overall style is a digitally manipulated or edited image with a highly saturated color scheme and a graphic, almost aggressive presentation.\u00a0It\u2019s likely created using photo editing software to achieve its stylized effect.\u00a0 The edges have a slightly rough or textured look.\n\nIn short, the image is a visually striking piece of fan art or promotional material that uses a highly stylized representation of Al Pacino as Tony Montana to create a powerful and memorable piece.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
