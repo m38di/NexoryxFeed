@@ -8272,5 +8272,12 @@
         "prompt": "It's dark and gloomy everywhere\nThe name Fiedny is written with lightning",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:39:45",
+        "image_url": "https://i.ibb.co/fLrLRSy/d5475916bbf1.jpg",
+        "prompt": "It's dark and gloomy everywhere\nThe name Fiedny is written with lightning",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
