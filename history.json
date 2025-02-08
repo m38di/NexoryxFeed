@@ -5815,5 +5815,12 @@
         "prompt": "a logo gaming and a zeus writing in the between with black blue theme",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 08:45:57",
+        "image_url": "https://i.ibb.co/gXTzrjR/8b37e2c903f6.png",
+        "prompt": "The logo should be about the profession of lawyer and the material of the logo should be made of gold and should be three-dimensional and have an attractive and modern design and under the logo should be written \"HOSSEINI\" and the name hoseini should be made of red diamonds and the background of the logo should be white.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
