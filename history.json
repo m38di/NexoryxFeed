@@ -9042,5 +9042,12 @@
         "prompt": "\"An art frame perfectly centered on a wall, with a table placed beneath it. On the table, there is a bottle of alcohol, an ashtray, and a cigarette resting inside the ashtray.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 21:48:46",
+        "image_url": "https://i.ibb.co/tpW2MTdp/af341f214f78.png",
+        "prompt": "\"An art frame perfectly centered on a wall, with a table placed beneath it. On the table, there is a bottle of alcohol, an ashtray, and a cigarette resting inside the ashtray \nZoom out",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
