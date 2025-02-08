@@ -5507,5 +5507,12 @@
         "prompt": "image shows Cristiano Ronaldo, a young adult with short, dark brown hair styled upward. His facial expression is serious, almost stern, with a slightly furrowed brow. He's wearing a long-sleeved, mustard-yellow training top with maroon accents along the shoulders and down the sleeves.  The shirt displays the Manchester United crest on the chest, along with the number \"10\" and the Vodafone logo prominently displayed.  The Nike logo is subtly visible above the Manchester United crest. The background is blurred but suggests an outdoor sports field, giving the context of a training session or practice. The overall color palette is muted, dominated by the yellowish-brown tones of the jersey and the background.  The image has a slightly vintage or nostalgic feel, possibly due to the color grading and the slightly grainy texture.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 04:02:41",
+        "image_url": "https://i.ibb.co/fG8YsLTB/9a2ae8996f00.png",
+        "prompt": "Design a visually appealing mockup featuring the Nike logo elegantly placed on a high-quality envelope. Utilize a creative and luxurious color palette to emphasize sophistication and brand presence. Arrange the envelope on a premium luxury table, ensuring the lighting and composition enhance the overall elegance and exclusivity of the scene.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
