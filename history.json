@@ -6627,5 +6627,12 @@
         "prompt": "A cool and detailed logo with the name MORTAL",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:19:29",
+        "image_url": "https://i.ibb.co/FkF4K9DK/d7cebb0d4746.jpg",
+        "prompt": "Make a logo with the Deagle text in the background, use the Deagle weapon, and make the space close to black and white",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
