@@ -8328,5 +8328,12 @@
         "prompt": "It's dark and gloomy everywhere\nThe name FiEDNY is written with lightning",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:41:59",
+        "image_url": "https://i.ibb.co/Rk190zyx/1a8ae96c5adb.jpg",
+        "prompt": "A black background, with FIEDNY written on it with lightning bolts.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
