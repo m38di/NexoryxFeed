@@ -9168,5 +9168,12 @@
         "prompt": "Generate an image of the word \"DEROGER\" rendered in a futuristic, 3D, metallic style. The letters should appear as if they are sculpted from a polished, chrome-like material with subtle, embossed details.\u00a0 The background should be a dark, space-like scene with shooting stars and a faint nebula.\u00a0 The overall style should evoke a sense of retro-futurism and cyberpunk aesthetics.\u00a0 Include a thin, glowing wire or cable subtly wrapping around the letters",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 22:51:23",
+        "image_url": "https://i.ibb.co/F4RNm8FM/22092c569a51.jpg",
+        "prompt": "Create artwork in the style of vaporwave/retrowave, featuring the word \"NETHER\" as the central element. The typography should be bold and 3D, with a metallic or reflective texture. The background should have a dark, cosmic aesthetic with shooting stars and a muted color palette.\u00a0 Think \"synthwave album cover\" vibe.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
