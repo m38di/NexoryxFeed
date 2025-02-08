@@ -7236,5 +7236,12 @@
         "prompt": "A logo for a channel covering 5th generation rapper with the name Mosader and a microphone vector with shiny, silver style text on a black and lead stone background.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:32:58",
+        "image_url": "https://i.ibb.co/CpwsLSDt/6a0c192481b3.jpg",
+        "prompt": "A logo for a channel covering 5th generation rappers Mafia with the name Mosader and a microphone vector with shiny, silver style text on a black and lead stone background.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
