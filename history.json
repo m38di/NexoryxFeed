@@ -5780,5 +5780,12 @@
         "prompt": "A cool profile with the name Amir",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 08:40:09",
+        "image_url": "https://i.ibb.co/XxcddZqK/997ddb9959a7.png",
+        "prompt": "A cool profile with the name Amir",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
