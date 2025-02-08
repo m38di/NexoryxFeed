@@ -5570,5 +5570,12 @@
         "prompt": "\u2756 The image shows the word \"RAZOR\" rendered in a stylized, metallic font against a completely black background.  The letters appear to be made of a polished, chrome-like material, with subtle reflections and a slightly three-dimensional, embossed effect giving them a sense of depth and weight. The font style is a serif typeface, suggesting a classic or perhaps slightly formal feel, which contrasts with the sharp and potentially dangerous connotation of the word \"razor.\" The overall effect is clean, simple, and impactful due to the high contrast between the bright metallic letters and the dark background.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 04:10:04",
+        "image_url": "https://i.ibb.co/Tztgy0r/1ec6ebbbfcf3.png",
+        "prompt": "A close-up view of a luxurious table adorned with a stunning envelope featuring the iconic Nike logo. The envelope's design exudes elegance, showcasing a creative and luxurious color palette of deep black, shimmering gold, and subtle white accents. The setting reflects sophistication with refined textures and materials on the table, bathed in soft, ambient lighting for a premium and exclusive feel",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
