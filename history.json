@@ -8503,5 +8503,12 @@
         "prompt": "Generate an image of a dark, smoky, grunge background.  The central area should be a dark gray, almost black, with a rough, textured appearance, like a worn chalkboard or stone wall.  Scattered throughout the image, especially along the edges, are streaks and splashes of deep red, resembling embers or blood spatter.  The overall feel should be dark, ominous, and slightly chaotic. Include small, glowing red particles, like sparks, floating throughout the scene. The resolution should be high.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 18:21:53",
+        "image_url": "https://i.ibb.co/5gh2p3b1/42439af3005b.jpg",
+        "prompt": "Generate an image of a dark, smoky, grunge background.  The central area should be a dark gray, almost black, with a rough, textured appearance, like a worn chalkboard or stone wall.  Scattered throughout the image, especially along the edges, are streaks and splashes of deep red, resembling embers or blood spatter.  The overall feel should be dark, ominous, and slightly chaotic. Include small, glowing red particles, like sparks, floating throughout the scene. The resolution should be high.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
