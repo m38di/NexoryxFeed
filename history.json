@@ -19,5 +19,12 @@
         "prompt": "Use yellow and purple colors for the logo for the edit channel for Telegram called NYXON. Let there be thunder and lightning, the color is yellow",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/09 01:59:53",
+        "image_url": "https://i.ibb.co/wtGBv9R/41aeabcc8b4d.jpg",
+        "prompt": "Use yellow and purple colors for the logo for the edit channel for Telegram called NYXON. Let there be thunder and lightning, the color is yellow The text of the photo should be completely graphic and 3D and should be suspended on the clouds and should have the best font",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
