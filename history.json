@@ -8517,5 +8517,12 @@
         "prompt": "Design a logo for a company called \"Bob.Store.ir\" that sells premium Telegram accounts, virtual numbers, DNS, and VPN services.  The logo should be modern, clean, and incorporate elements representing technology and connectivity (like a wifi signal or network nodes). The color scheme should be predominantly red and black, similar to the provided example.  Consider different font styles to ensure the name is easily readable and memorable.  Provide variations with and without a tagline (e.g., \"Premium Telegram Services\").",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 18:23:23",
+        "image_url": "https://i.ibb.co/fYCgL42H/91ace38a38d8.jpg",
+        "prompt": "Design a logo for a company called \"Bob.Store.ir\" that sells premium Telegram accounts, virtual numbers, DNS, and VPN services.  The logo should be modern, clean, and incorporate elements representing technology and connectivity (like a wifi signal or network nodes). The color scheme should be predominantly red and black, similar to the provided example.  Consider different font styles to ensure the name is easily readable and memorable.  Provide variations with and without a tagline (e.g., \"Premium Telegram Services\").",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
