@@ -5738,5 +5738,12 @@
         "prompt": "make a 3D logo with name MAX",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 08:31:14",
+        "image_url": "https://i.ibb.co/kgdR0Q0Q/a76f3aa52865.png",
+        "prompt": "a car",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
