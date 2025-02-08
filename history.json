@@ -5472,5 +5472,12 @@
         "prompt": "make a logo for me in the style Call of mobile case with the name \"amin\" and with excellent quality",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 03:57:23",
+        "image_url": "https://i.ibb.co/tMyNVSj3/adcccc591598.png",
+        "prompt": "Create a visually stunning logo for 'Fazeleh' made entirely of luxurious gold. Incorporate a creative and elegant design style that exudes sophistication. Display the logo on a rich, dark background to enhance its prominence and beauty. Add subtle shadows and lighting effects to bring out the texture, dimension, and brilliance of the gold material",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
