@@ -5766,5 +5766,12 @@
         "prompt": "The logo should be about the profession of lawyer and the material of the logo should be made of gold and should be three-dimensional and have an attractive and modern design",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 08:37:14",
+        "image_url": "https://i.ibb.co/HfpCptYQ/6efd4d47709d.jpg",
+        "prompt": "The logo should be about the profession of lawyer and the material of the logo should be made of gold and should be three-dimensional and have an attractive and modern design",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
