@@ -6697,5 +6697,12 @@
         "prompt": "A cool and detailed logo with the name edit",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 13:36:52",
+        "image_url": "https://i.ibb.co/0TYTqR0/8d3303caf284.png",
+        "prompt": "\u2756 The image presents a stylized logo for \"MAX,\" rendered in a dark, dramatic style.  The word itself is three-dimensional, appearing as if carved from a dark metal with a brushed silver finish and accented with crimson red inner beveling. The letters have sharp, angular edges, giving them a brutal and imposing feel, reminiscent of a gothic or fantasy font.\n\nBehind and around the word MAX is a complex, symmetrical design that could be interpreted as a stylized crest, emblem or insignia. It's dark blue/grey and metallic in appearance, with sharp points and curves extending outwards from the central point behind the \u201cO\u201d in \u201cMAX\u201d. The design suggests strength and possibly danger, further enhancing the logo's ominous tone.\n\nThe overall color palette is dark and moody, using primarily dark grays, blues and crimson red, and the background is a textured dark gray, providing a stark contrast that emphasizes the logo\u2019s sharp details and metallic qualities. The image seems designed for use in a video game, a metal band logo, or similar media focused on fantasy, darkness, or power.  The style evokes a sense of weight, aggression, and ominous grandeur.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
