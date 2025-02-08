@@ -5444,5 +5444,12 @@
         "prompt": "make a logo for me in the style Call of mobile case with the name \"AMIR\" and with excellent quality",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 03:49:38",
+        "image_url": "https://i.ibb.co/bjjcs7Hd/8a952adf35a3.png",
+        "prompt": "Please make a gaming logo for me, the text should be Amir, and I want the word Amir to be 3D and the text to be Amir Almasi. A weapon should be used behind the text and its color should be black and white. The background should be of high quality",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
