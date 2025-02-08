@@ -7138,5 +7138,12 @@
         "prompt": "A logo with the name DESIGN ART",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:18:50",
+        "image_url": "https://i.ibb.co/4yHZ6Rp/c59884ef4ff1.png",
+        "prompt": "A logo for a channel covering 5th generation rappers with the name Rap Five and a microphone vector with shiny, silver style text on a black and lead stone background.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
