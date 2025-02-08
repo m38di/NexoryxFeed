@@ -5752,5 +5752,12 @@
         "prompt": "a car",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 08:35:33",
+        "image_url": "https://i.ibb.co/Tx8hB6B4/1d0e93caf663.png",
+        "prompt": "The logo should be about the profession of lawyer and the material of the logo should be made of gold and should be three-dimensional and have an attractive and modern design",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
