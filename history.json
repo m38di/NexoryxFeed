@@ -5724,5 +5724,12 @@
         "prompt": "a cool logo with name moz",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 08:08:11",
+        "image_url": "https://i.ibb.co/m5dgFYN7/b85cf3bd49ad.png",
+        "prompt": "make a logo with MAX name",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
