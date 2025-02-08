@@ -8174,5 +8174,12 @@
         "prompt": "Make a gaming 3D Logo wite word AMIR\n\nThe ''AMIR'' color is silver \n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 17:26:36",
+        "image_url": "https://i.ibb.co/3YB4g79B/7cee388edfb7.png",
+        "prompt": "Flirting under the starry sky with a black and white theme",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
