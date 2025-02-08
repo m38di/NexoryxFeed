@@ -6900,5 +6900,12 @@
         "prompt": "Generate an image of the word \"DIXON\" in a style reminiscent of album art by bands like Slayer or Metallica.  The text should be rendered in a 3D, metallic style with sharp edges and intricate details. The background should be dark and textured, possibly featuring abstract elements and a color palette of deep blues and blacks.  The overall feel should be heavy, aggressive, and visually captivating.  Reference images of heavy metal album art for stylistic inspiration.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:51:18",
+        "image_url": "https://i.ibb.co/Xr2Rz6j8/45d4fa5e18a5.jpg",
+        "prompt": "Generate an image of the word \"DIXON\" in a style reminiscent of album art by bands like Slayer or Metallica.  The text should be rendered in a 3D, metallic style with sharp edges and intricate details. The background should be dark and textured, possibly featuring abstract elements and a color palette of deep blues and blacks.  The overall feel should be heavy, aggressive, and visually captivating.  Reference images of heavy metal album art for stylistic inspiration.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
