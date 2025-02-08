@@ -8902,5 +8902,12 @@
         "prompt": "The image is a grayscale depiction of the word \"BROKEN\" written in a stylized, bold font.\u00a0 The letters are designed with a metallic or chrome-like appearance, suggesting a reflective surface with highlights and shadows. The style is reminiscent of graffiti or a logo with a strong, slightly aggressive feel. There's a background that is blurred and lighter in tone, allowing the dark, bold lettering to stand out prominently. The overall effect is one of edginess and high contrast.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 20:10:43",
+        "image_url": "https://i.ibb.co/23YLS69p/de5256fc6e21.jpg",
+        "prompt": "A photo of Batman with a black background and lighting called Design Art",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
