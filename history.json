@@ -5479,5 +5479,12 @@
         "prompt": "Create a visually stunning logo for 'Fazeleh' made entirely of luxurious gold. Incorporate a creative and elegant design style that exudes sophistication. Display the logo on a rich, dark background to enhance its prominence and beauty. Add subtle shadows and lighting effects to bring out the texture, dimension, and brilliance of the gold material",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 03:58:02",
+        "image_url": "https://i.ibb.co/7tw128wK/b94d1c6b4412.png",
+        "prompt": "\nCreating a very beautiful Batman profile with 3D and beautiful Amir text \nAnd with HD quality",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
