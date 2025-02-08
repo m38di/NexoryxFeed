@@ -8069,5 +8069,12 @@
         "prompt": "It's dark and gloomy everywhere\nThe name Fiedny is written with lightning",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 17:09:15",
+        "image_url": "https://i.ibb.co/YBH7Yqr5/6675863e7cbd.png",
+        "prompt": "The sky is dark and full of stars, and a young girl and boy, in their arms, are gazing up at it.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
