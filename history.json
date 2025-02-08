@@ -5416,5 +5416,12 @@
         "prompt": "girl",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 03:40:13",
+        "image_url": "https://i.ibb.co/N6g7W10Z/af7660a55e1c.png",
+        "prompt": "A logotype made of rich, glowing, golden texture. Designed in a classic fantasy style. The text is highlighted with intricate details and embossed effects, placed on a dark, mysterious background with faint glimmers of light to create depth and magic. Replaceable text: [Fazeleh]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
