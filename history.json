@@ -8076,5 +8076,12 @@
         "prompt": "The sky is dark and full of stars, and a young girl and boy, in their arms, are gazing up at it.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 17:11:08",
+        "image_url": "https://i.ibb.co/XfFM2Kjs/c5a7bf6a82b5.jpg",
+        "prompt": "ROYALPHONE name is written in some gears",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
