@@ -7271,5 +7271,12 @@
         "prompt": "A logo for a channel covering 5th generation rappers with the name Mosader and a vector with shiny, silver style text on a black and lead stone background.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:34:36",
+        "image_url": "https://i.ibb.co/rNb3v71/886261182176.jpg",
+        "prompt": "A logo for a channel covering 5th generation rappers with the name Mosader and a vector with shiny, silver style text on a black and lead stone background. 3D",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
