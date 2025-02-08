@@ -5717,5 +5717,12 @@
         "prompt": "Create a gaming Gta logo with the name Radin",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 08:04:46",
+        "image_url": "https://i.ibb.co/2YsFhMBP/b3db557b62b3.png",
+        "prompt": "a cool logo with name moz",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
