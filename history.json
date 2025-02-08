@@ -7026,5 +7026,12 @@
         "prompt": " A cool and detailed logo with the name DESIGN ART",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:06:41",
+        "image_url": "https://i.ibb.co/5WXYtt9X/812cc92a90b5.png",
+        "prompt": "Purple and blue gaming logo with <matio> name",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
