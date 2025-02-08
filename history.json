@@ -7019,5 +7019,12 @@
         "prompt": " A cool and detailed logo with the name DESIGN ART",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 14:05:22",
+        "image_url": "https://i.ibb.co/v65T2449/11359b3d952c.jpg",
+        "prompt": " A cool and detailed logo with the name DESIGN ART",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
