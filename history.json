@@ -5367,5 +5367,12 @@
         "prompt": "make a logo for me in the style Call of mobile case with the name \"TYLER\" and with excellent quality",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 03:06:34",
+        "image_url": "https://i.ibb.co/xtqkfK6m/e7a6ec98371e.png",
+        "prompt": "make a logo for me in the style Call of duty mobile case with the name TYLER and with excellent quality",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
