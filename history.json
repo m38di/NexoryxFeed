@@ -7047,5 +7047,12 @@
         "prompt": "The overall style is dark and edgy, with a gothic or black metal aesthetic. The background is dark, almost black, with streaks of bluish-gray textures and faint, cracked lines or energy effects. These textures contrast with the bright, reflective quality of the central lettering. At the bottom, a small, discreet text appears: \u201cRAP 5,\u201d indicating the name of the artist or source of the artwork. The background details appear abstract and lack clear narrative or representational elements, their purpose primarily being to highlight the dramatic impact of the central metal lettering. The combination of darkness, sharp angles and metallic reflections creates a striking and memorable visual piece.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/08 14:08:54",
+        "image_url": "https://i.ibb.co/bgmBgKD5/37982b54d1cd.jpg",
+        "prompt": "A photo of Batman with a black background and lighting called Design Art",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
