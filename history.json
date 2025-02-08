@@ -68,5 +68,12 @@
         "prompt": "\"You know, take a photo with the text IAhmad, and it should be with lightning and the word IAhmad should be three-dimensional and the lightning should be in it. The background should be of high quality. The texts should be yellow and red with the style of lightning to make it more beautiful and thicker. The background text should be yellow lightning that passes through the text and give a three-dimensional feel to the photo.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/09 02:06:52",
+        "image_url": "https://i.ibb.co/Y4d1wrQn/b6cbf0b2baa2.jpg",
+        "prompt": "\u2756 The image depicts the name \"IAhmad\" rendered in three-dimensional, bold, uppercase letters.\u00a0 The letters are a gradient of reddish-orange, appearing almost fiery or molten in texture.\u00a0 They are positioned centrally against a dramatic backdrop of a stormy sky.\n\nThe sky is filled with dark, ominous clouds, through which several bright yellow-orange lightning bolts crackle and flash.\u00a0 These bolts appear to emanate from behind and around the letters, giving the impression of the name being imbued with power or energy.\u00a0 The clouds themselves are textured, showing depth and volume, adding to the overall sense of intensity and drama.\u00a0 The lighting is highly contrasted, drawing attention to the vibrant name against the darker, more turbulent background. The overall effect is one of power, energy, and possibly even a sense of impending storm or dramatic event.\n\n\n\u25cf **\u0645\u062f\u0644:** Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
