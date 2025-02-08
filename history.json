@@ -5451,5 +5451,12 @@
         "prompt": "Please make a gaming logo for me, the text should be Amir, and I want the word Amir to be 3D and the text to be Amir Almasi. A weapon should be used behind the text and its color should be black and white. The background should be of high quality",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 03:50:27",
+        "image_url": "https://i.ibb.co/3mXDpz3L/8223d7085ee8.png",
+        "prompt": "Please make a gaming logo for me, the text should be Amir, and I want the word Amir to be 3D and the text to be Amir Almasi. A weapon should be used behind the text and its color should be black and white. The background should be of high quality",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
