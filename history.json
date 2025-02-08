@@ -6823,5 +6823,12 @@
         "prompt": "Generate an image of the name \"DIXON\" in a dark, fantasy font.\u00a0 The style should be gothic or medieval, with a 3D, embossed look. The letters should appear to be carved from dark grey stone or metal with a cracked texture.\u00a0 The background should be dark and smoky, with streaks of red and orange fire or embers, suggesting a fiery or hellish environment.\u00a0 The overall mood should be dark, dramatic, and powerful.\u00a0 The resolution should be high, suitable for printing.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 13:45:58",
+        "image_url": "https://i.ibb.co/Pvz0JYcs/182c370ac835.jpg",
+        "prompt": "Create a digital painting of the word \"Dixon\" in a dark fantasy style.  Use art styles reminiscent of album covers for metal bands,  Greg Rutkowski, or Zdzis\u0142aw Beksi\u0144ski.  The text should be 3D and textured, perhaps made of stone or metal. The background should include fire, smoke, and dark ominous tones.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
