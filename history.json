@@ -8664,5 +8664,12 @@
         "prompt": "A minimal logo with blue text and ash background with the name Design Art",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 18:58:38",
+        "image_url": "https://i.ibb.co/qL0BQTSc/5bed69b5597f.png",
+        "prompt": "\u2756 The image is a logo for a Call of Duty Mobile team called \"SOHEYL\".\n\nThe logo is predominantly dark, with a color scheme of black, gray, gold, and white.\u00a0\n\n\nHere's a breakdown of the logo's elements:\n\n* Central Shield: A central, gold-trimmed, dark gray shield-like shape forms the core of the logo. Inside the shield is a stylized representation of the Call of Duty Mobile III logo \u2014 three vertical gold bars. Two small gold stars flank this emblem.  The shield has a slightly distressed or worn look, adding to its gritty aesthetic.\n\n* Team Name: The word \"SOHEYL\" is prominently displayed in large, bold, stylized lettering across the top of the shield. The lettering style is reminiscent of classic gaming logos, with sharp edges and a slightly distressed texture.  It's predominantly gray with subtle shadowing for depth.\n\n* Weaponry:\u00a0Two firearms (one an assault rifle and what appears to be a knife or another close-quarters weapon) are crossed behind the shield, adding to the game theme.\u00a0The weapons are realistically rendered and add visual interest to the design.\n\n* Call of Duty Branding: \"CALL OF DUTY MOBILE\" is written in smaller, but still easily readable, font above and below the central shield. This clearly ties the team to the game.\n\n* Background Effects:\u00a0The background features a dark, smoky, or dusty effect, further enhancing the action-oriented feel. Bullet casings are scattered around the logo, adding extra detail and atmosphere. The overall effect is one of intense action and military-themed aesthetics.\n\nThe logo is very well-designed, using a combination of bold text, strong imagery, and atmospheric effects to create a memorable and impactful design perfectly suited for a gaming team.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
