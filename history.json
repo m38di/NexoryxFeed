@@ -8181,5 +8181,12 @@
         "prompt": "Flirting under the starry sky with a black and white theme",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 17:29:19",
+        "image_url": "https://i.ibb.co/60DRr1Ns/bbe7b637e66f.png",
+        "prompt": "Make a gaming 3D Logo wite word VECTOR and silver and yellow color",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
