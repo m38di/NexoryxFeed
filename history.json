@@ -5577,5 +5577,12 @@
         "prompt": "A close-up view of a luxurious table adorned with a stunning envelope featuring the iconic Nike logo. The envelope's design exudes elegance, showcasing a creative and luxurious color palette of deep black, shimmering gold, and subtle white accents. The setting reflects sophistication with refined textures and materials on the table, bathed in soft, ambient lighting for a premium and exclusive feel",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/08 04:10:25",
+        "image_url": "https://i.ibb.co/5W4fTvTX/5b471d19f7e9.jpg",
+        "prompt": "image shows the word \"AMIN\" stylized in a bold, blocky font.  The letters are filled with a light teal or cyan color that appears textured, like ice or water with a slightly grainy or marbled effect.  The text is outlined in black, giving it a sharp contrast against the background.\n\nAbove the letters, there are three stylized, claw-like or prong-like elements symmetrically spaced across the top, adding to the design's edgy and slightly aggressive feel.  The entire graphic is set against a plain black background, making the light blue lettering stand out prominently.  The overall aesthetic is modern, somewhat futuristic, and has a slightly cold or icy feel due to the color and texture.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
