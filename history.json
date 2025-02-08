@@ -5437,5 +5437,12 @@
         "prompt": "make a logo for me in the style Call of mobile case with the name \"AMIR\" and with excellent quality",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/08 03:48:42",
+        "image_url": "https://i.ibb.co/qMF8R36m/b4480388914f.png",
+        "prompt": "make a logo for me in the style Call of mobile case with the name \"AMIR\" and with excellent quality",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
