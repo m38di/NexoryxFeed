@@ -6550,5 +6550,12 @@
         "prompt": "\u062a\u0632\u062e\u06cc",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/08 11:59:23",
+        "image_url": "https://i.ibb.co/8gsfbCrf/6451a201c968.jpg",
+        "prompt": "\u062a",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
