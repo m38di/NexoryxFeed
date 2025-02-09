@@ -390,5 +390,12 @@
         "prompt": "\u2756 The image shows the word \"HOSSEIN\" written in a stylized, gothic-style font.  The letters are a silvery-white color and have sharp, jagged edges, giving them a fierce or aggressive appearance.  They appear to be textured, possibly resembling metal or stone.\n\nThe background is a dark, textured surface that resembles dark gray or black concrete or a similar rough material.  There are visible scratches, streaks, and variations in color and tone throughout the background, contributing to a grungy or distressed aesthetic.  \n\nIn the upper left and lower right corners, fragments of what appears to be the same jagged, silvery-white design are visible, mirroring the style of the lettering. These fragments are incomplete, giving the impression that they extend beyond the frame's edges. The overall color scheme is monochrome, with varying shades of gray and black dominating the image. The contrast between the light lettering and the dark background makes the word \"HOSSEIN\" stand out prominently.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 10:00:55",
+        "image_url": "https://i.ibb.co/JwMyMjgV/6ea55860d1c6.jpg",
+        "prompt": "\u2756 The image shows the word \"HOSSEIN\" written in a stylized, gothic-style font.  The letters are a silvery-white color and have sharp, jagged edges, giving them a fierce or aggressive appearance.  They appear to be textured, possibly resembling metal or stone.\n\nThe background is a dark, textured surface that resembles dark gray or black concrete or a similar rough material.  There are visible scratches, streaks, and variations in color and tone throughout the background, contributing to a grungy or distressed aesthetic.  \n\nIn the upper left and lower right corners, fragments of what appears to be the same jagged, silvery-white design are visible, mirroring the style of the lettering. These fragments are incomplete, giving the impression that they extend beyond the frame's edges. The overall color scheme is monochrome, with varying shades of gray and black dominating the image. The contrast between the light lettering and the dark background makes the word \"HOSSEIN\" stand out prominently.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
