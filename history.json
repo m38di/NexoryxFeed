@@ -320,5 +320,12 @@
         "prompt": " The image shows the word \"DEROGER\" rendered in large, bold, chrome-like letters.\u00a0 The letters appear three-dimensional, with a reflective surface that suggests a metallic texture.\u00a0 The reflection within each letter shows swirling patterns, indicating a polished or brushed metal finish. The background is completely black, providing a stark contrast that makes the silver lettering stand out prominently.\u00a0 The overall style is clean, modern, and perhaps slightly futuristic due to the reflective metallic quality of the letters.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/09 08:39:21",
+        "image_url": "https://i.ibb.co/v400zLcF/f06530f1b2c1.png",
+        "prompt": "Scene: \nA backdrop of sunrise or sunset in a sandy desert with historic Qajar architecture (such as stone arches, Islamic motifs, and stained glass in the distance). The warm orange and purple colors of the sky create a dramatic contrast with the superhero's silhouette. \n\nQajar Superhero: \n- Clothes: Black suit decorated with traditional Iranian motifs (such as golumorg or khatai) in a shiny silk texture. High, closed collar in the style of Qajar court clothes, along with a gold belt with turquoise jewels. Long black velvet cape, with loose sleeves that wave in the wind behind the head. \n- Breast Badge: An inverted \"S\" (similar to the Superman symbol but reversed) in gold with hot red lines, as if made by a traditional blacksmith. \n- Gesture: His right hand is extended towards the camera, palm facing up and fingers slightly curled to show concentration. His face has a determined and mysterious look, with a short, neat beard in the style of Qajar men. \n\nLeaping Snake: \n- A black and gold snake (with oriental spiral patterns) is leaping from his palm. The snake's body is positioned in a dynamic arc in the air, its scales gleaming in the sunlight, and its mouth is half-open to reveal its sharp fangs. The symbolic blue-green light effect around the snake gives it a supernatural feel. \n\nAdditional Details: \n- A necklace or bracelet with a lion and sun emblem on the superhero's wrist. \n- The hem of the cape is slightly torn and worn, indicating past battles. \n- The dust that rises from the snake's rapid movement through the air gives the image depth of field.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
