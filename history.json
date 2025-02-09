@@ -334,5 +334,12 @@
         "prompt": "**Scene:** \nA sunrise or sunset backdrop in a desert with historic Qajar architecture (stone arches, Islamic motifs, and stained glass in the distance). The warm orange and purple colors of the sky create a dramatic contrast with the superhero's silhouette. \n\n**Qajar Superhero:** \n- **Clothes:** Black silk suit with a stiletto or khatai motif, a high collar and a Qajar-style tie, a gold belt with turquoise jewels. A loose black velvet cape billows in the wind behind him. \n- **Breastplate:** A gold \"inverted S\" with a red border, resembling traditional blacksmithing. \n- **Gesture:** His right hand is extended towards the camera, palm facing up and fingers slightly bent, indicating energy or concentration. His face is determined and mysterious with a short, neat beard, in keeping with the Qajar style. \n\n**Additional Details:** \n- A lion and sun necklace or bracelet on her wrist. \n- A slightly torn and frayed cape at the edges, indicating previous battles. \n- A fine dust in the air that suggests depth of field and dynamic movement.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/09 09:32:04",
+        "image_url": "https://i.ibb.co/vCNZGs74/a6911d53e22e.png",
+        "prompt": "Create a gaming logo with the name FRANK ARTWORK",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
