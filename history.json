@@ -761,5 +761,12 @@
         "prompt": "make a gaming profile \nName cristiano \nThe shadow red\nThe name black\n3d style\nA super huff font",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/09 15:43:16",
+        "image_url": "https://i.ibb.co/nsXy9bLk/1f338e6bcf0a.png",
+        "prompt": "a gaming profile \nThe name hacked cristiano The shadow red The name  3d black",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
