@@ -768,5 +768,12 @@
         "prompt": "a gaming profile \nThe name hacked cristiano The shadow red The name  3d black",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/09 16:17:30",
+        "image_url": "https://i.ibb.co/0pZ6gBTk/9291ec5bf71c.png",
+        "prompt": "\"A man standing upright, dressed in black clothing.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
