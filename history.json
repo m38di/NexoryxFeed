@@ -1048,5 +1048,12 @@
         "prompt": "Gaming logo, black text background (arsham), blue gaming style font",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/09 19:47:35",
+        "image_url": "https://i.ibb.co/DHSQxwmL/d2b7239b119d.png",
+        "prompt": "Gaming logo, black text background (arsham), gaming font, gaming style",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
