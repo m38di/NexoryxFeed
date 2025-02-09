@@ -264,5 +264,12 @@
         "prompt": "\u2756 The image is a digital advertisement for a game account store called \" HYPER EDIT\".\u00a0\n\n\nThe main focus is a large, stylized 3D rendering of the name \"HYPER\" in silver and blue, with a smaller \"EDIT\" label above it.\u00a0The text \"HYPER EDIT\" is repeated below, along with the tagline \"EDIT\". Contact information is provided with Instagram handles for @deroger_dixonii, @deroger_dixon . The background is dark, with abstract blue energy or particle effects.  A small logo or watermark appears in the bottom-left corner. The overall style is edgy and gaming-oriented, aiming for a modern and appealing aesthetic to attract customers.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/09 04:48:36",
+        "image_url": "https://i.ibb.co/1JrWTBMQ/8641a19f7d70.png",
+        "prompt": "\u2756 The image is a digital advertisement for a game account store called \" HYPER EDIT\".\u00a0\n\n\nThe main focus is a large, stylized 3D rendering of the name \"HYPER\" in silver and blue, with a smaller \"EDIT\" label above it.\u00a0The text \"HYPER EDIT\" is repeated below, along with the tagline \"EDIT\". Contact information is provided with Instagram handles for @deroger_dixonii, @deroger_dixon . The background is dark, with abstract blue energy or particle effects.\u00a0 A small logo or watermark appears in the bottom-left corner. The overall style is edgy and gaming-oriented, aiming for a modern and appealing aesthetic to attract customers.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
