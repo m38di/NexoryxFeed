@@ -1181,5 +1181,12 @@
         "prompt": "Make a gaming 3D logo with name HOSSEIN and Dark background\n\n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/09 22:52:42",
+        "image_url": "https://i.ibb.co/67SbL7fW/599b34e2e0f3.png",
+        "prompt": "\u2756 This is an advertisement in Farsi (Persian) promoting the creation of various types of logos and graphic designs for online gaming.  The ad features a vibrant purple background with a central text section highlighting the services offered.  Below this main text, there are several thumbnail images showcasing examples of completed work.\n\nThe examples include:\n\n* Gaming channel logos:  Several thumbnails display custom logos designed for gaming channels, each featuring a distinct style and color scheme.  These include dark and edgy designs with stylized lettering.  One logo uses a skull motif, and another incorporates the PUBG (PlayerUnknown's Battlegrounds) game theme.\n\n* Profile pictures/banners: Some thumbnails appear to be designed as profile pictures or banners for gaming accounts, featuring a character or player in action.  Again, these exhibit a variety of styles reflecting the visual aesthetics of popular battle royale games.\n\n* YouTube thumbnails/banners: A thumbnail shows a design that's likely for a YouTube channel, featuring a streamer and associated game titles.\n\n* Channel art: At least one example demonstrates channel art with a stylized and dynamic background that's consistent with a gaming brand.\n\nThe text emphasizes that the creator accepts commissions for a wide range of designs including: clan logos, profile pictures, YouTube banners, channel art, and even lists (likely for in-game items).  The advertisement concludes with a call to action directing viewers to the creator's channel bio for more examples of their work.  The overall style is bold, dark, and energetic, fitting with the gaming theme.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
