@@ -1272,5 +1272,12 @@
         "prompt": "A cool logo with Neatleyzz text And under Mods, add Mods text. The logo should be dark and red. The font should be three-dimensional and completely graphic. The background should be red and dark, and the background should be completely natural and prominent",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/10 00:54:57",
+        "image_url": "https://i.ibb.co/gLtfXYY2/cc9011086c3b.jpg",
+        "prompt": "A cool logo with Neatleyzz text And under neatleyzz, add Mods text. The logo should be dark and red. The font should be three-dimensional and completely graphic. The background should be red and dark, and the background should be completely natural and prominent The font of the text should be completely prominent and graphic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
