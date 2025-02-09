@@ -355,5 +355,12 @@
         "prompt": "Create a gaming logo with the name FRANK ARTWORK",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/09 09:43:11",
+        "image_url": "https://i.ibb.co/wNtckMJg/3ed7ddcd4387.png",
+        "prompt": "Create a gaming logo with the name FRANK ARTWORK",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
