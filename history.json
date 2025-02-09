@@ -754,5 +754,12 @@
         "prompt": "Free fire 2030",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/09 15:40:13",
+        "image_url": "https://i.ibb.co/6JP6FJJY/aa74e3a700f3.png",
+        "prompt": "make a gaming profile \nName cristiano \nThe shadow red\nThe name black\n3d style\nA super huff font",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
