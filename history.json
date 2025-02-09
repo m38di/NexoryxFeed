@@ -495,5 +495,12 @@
         "prompt": "image shows the German word \"TYLER\" (power) written in a stylized, gothic font.  The letters are rendered in a silvery-white or light gray color, appearing almost metallic or embossed, with a subtle, wavy or textured effect within each letter that suggests a reflective surface or internal structure.\n\nThe word is set against a background of dark gray or black, which has a rough, textured appearance reminiscent of a heavily textured wall, stone, or dark fabric.  This background provides a stark contrast to the lighter lettering, making the word pop visually.  The overall aesthetic is dark, dramatic, and slightly ominous, suggesting themes of power, mystery, or possibly even darkness or the occult.  The texture of the background is uneven, with varying shades of dark gray contributing to a sense of depth and roughness.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 11:27:12",
+        "image_url": "https://i.ibb.co/C3M21ngg/25cb7b95d759.jpg",
+        "prompt": "image shows the German word \"TYLER\" (power) written in a stylized, gothic font.  The letters are rendered in a silvery-white or light gray color, appearing almost metallic or embossed, with a subtle, wavy or textured effect within each letter that suggests a reflective surface or internal structure.\n\nThe word is set against a background of dark gray or black, which has a rough, textured appearance reminiscent of a heavily textured wall, stone, or dark fabric.  This background provides a stark contrast to the lighter lettering, making the word pop visually.  The overall aesthetic is dark, dramatic, and slightly ominous, suggesting themes of power, mystery, or possibly even darkness or the occult.  The texture of the background is uneven, with varying shades of dark gray contributing to a sense of depth and roughness.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
