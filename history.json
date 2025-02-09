@@ -621,5 +621,12 @@
         "prompt": "A modern and abstract logo design representing the idea of the letter 'M' without explicitly writing the letter. The logo incorporates geometric shapes, sleek patterns, and dynamic visual elements. Inspired by natural forms, futuristic design, and unique creativity. The design must use minimalistic color schemes like gradient blues, blacks, or metallic tones and include striking symmetry and precision. Ideal for branding.\"  \n\nThis prompt ensures the logo creatively represents the \"M\" concept using elements rather than directly displaying the letter.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 13:32:14",
+        "image_url": "https://i.ibb.co/ksh79k0L/7b137e754941.png",
+        "prompt": "plaintext\n\"Design a minimalist logo incorporating abstract elements to subtly form the shape of the letter M without explicitly writing it. Use creative components such as bird shapes, wings, waves, or geometric patterns to craft the M structure. The logo should have a monochromatic color scheme (black and white). Emphasize elegance, balance, and a modern aesthetic.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
