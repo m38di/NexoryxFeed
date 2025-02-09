@@ -663,5 +663,12 @@
         "prompt": "\"Create a sleek and modern logo that represents the shape of the letter A through a combination of natural and abstract elements, such as mountain peaks, flowing rivers, or animal silhouettes. The logo should not explicitly include the letter A but rather imply its shape creatively. Focus on symmetry, simplicity, and a premium feel in a monochrome (black and white) design.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 13:46:43",
+        "image_url": "https://i.ibb.co/whxNSz4W/d1b4c6365b89.png",
+        "prompt": "\"The interior wall of an old house, featuring a vintage and aged aesthetic.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
