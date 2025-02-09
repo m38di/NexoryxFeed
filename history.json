@@ -1174,5 +1174,12 @@
         "prompt": "Make a gaming 3D logo with name HOSSEIN and Dark background\n\n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/09 22:48:20",
+        "image_url": "https://i.ibb.co/PsrTzy77/b569c5a75390.png",
+        "prompt": "Make a gaming 3D logo with name HOSSEIN and Dark background\n\n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
