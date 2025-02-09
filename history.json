@@ -635,5 +635,12 @@
         "prompt": "\"Create a sleek and modern logo that represents the shape of the letter M through a combination of natural and abstract elements, such as mountain peaks, flowing rivers, or animal silhouettes. The logo should not explicitly include the letter M but rather imply its shape creatively. Focus on symmetry, simplicity, and a premium feel in a monochrome (black and white) design.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 13:38:43",
+        "image_url": "https://i.ibb.co/MDhhfLfH/b6fd0d7e60c3.png",
+        "prompt": "\"Create a sleek and modern logo that represents the shape of the letter ALI OMIDI through a combination of natural and abstract elements, such as mountain peaks, flowing rivers, or animal silhouettes. The logo should not explicitly include the letter M but rather imply its shape creatively. Focus on symmetry, simplicity, and a premium feel in a monochrome (black and white) design.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
