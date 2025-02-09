@@ -873,5 +873,12 @@
         "prompt": "\"A man standing upright, dressed in black clothing.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 17:00:03",
+        "image_url": "https://i.ibb.co/kgYgs5dT/04fba644c4a2.png",
+        "prompt": "\"A man standing upright, dressed in black clothing.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
