@@ -1370,5 +1370,12 @@
         "prompt": "\u2756 The image is a digital advertisement for a game account store called \" @Arsenal_Shop_FF\".\u00a0\n\n\nThe main focus is a large, stylized 3D rendering of the name \"Arsenal Shop\" in silver and blue, with a smaller \"Owner\" label above it.\u00a0The text \" Sold out\" is repeated below, along with the tagline \"SAFE GAME ACCOUNT FOR YOU\". Contact information is provided with Instagram handles for CH, AD1, and AD2. The background is dark, with abstract blue energy or particle effects.  A small logo or watermark appears in the bottom-left corner. The overall style is edgy and gaming-oriented, aiming for a modern and appealing aesthetic to attract customers.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/10 02:25:24",
+        "image_url": "https://i.ibb.co/Vcd466d5/eedca16741b4.png",
+        "prompt": "\u2756 The image is a digital advertisement for a game account store called \" @Arsenal_Shop_FF\".\u00a0\n\n\nThe main focus is a large, stylized 3D rendering of the name \"Arsenal Shop\" in silver and blue, with a smaller \"Owner\" label above it.\u00a0The text \" Sold out\" is repeated below, along with the tagline \"SAFE GAME ACCOUNT FOR YOU\". Contact information is provided with Instagram handles for CH, AD1, and AD2. The background is dark, with abstract blue energy or particle effects.  A small logo or watermark appears in the bottom-left corner. The overall style is edgy and gaming-oriented, aiming for a modern and appealing aesthetic to attract customers.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
