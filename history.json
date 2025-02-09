@@ -208,5 +208,12 @@
         "prompt": "\"A tattoo design featuring a sickle intertwined with wheat.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 03:39:13",
+        "image_url": "https://i.ibb.co/Rkb8mzS4/c8bce342a84f.png",
+        "prompt": "\"Embracing a bundle of wheat alongside a sickle.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
