@@ -712,5 +712,12 @@
         "prompt": "logo gaming name (Feather)",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/09 14:57:31",
+        "image_url": "https://i.ibb.co/Fk18CKPc/e2e6f56c6ed8.png",
+        "prompt": "logo gaming name (Feather)",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
