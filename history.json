@@ -796,5 +796,12 @@
         "prompt": "\"A man standing upright, dressed in black clothing.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 16:21:14",
+        "image_url": "https://i.ibb.co/C5wGK50K/d3115f7ad52a.png",
+        "prompt": "Create a scene featuring two young men positioned on opposite sides of the image. On the left, a fair-skinned boy wearing a black t-shirt with 'MMDJ' elegantly embroidered on the front pocket, highlighting his light complexion. On the right, a dark-skinned boy dressed in a white t-shirt that also displays 'MMD MEADI' on the front pocket, emphasizing the contrast with his dark skin. The overall atmosphere should be friendly and vibrant, capturing their camaraderie while showcasing their individuality through their clothing.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
