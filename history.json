@@ -838,5 +838,12 @@
         "prompt": "\"A full-body image of six people standing together in a group, wearing a combination of red and black clothing.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/09 16:39:05",
+        "image_url": "https://i.ibb.co/PZTYX6S4/2f8e37ed9ce4.png",
+        "prompt": "\"A man standing upright, dressed in black clothing.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
