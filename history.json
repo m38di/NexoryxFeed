@@ -565,5 +565,12 @@
         "prompt": "\u2756 The image is a digital advertisement for a game account store called \"HYPER SHOP\".\u00a0\n\n\nThe main focus is a large, stylized 3D rendering of the name \"HYPER\" in silver and blue, with a smaller \"SHOP\" label above it.\u00a0The text \" HYPER SHOP\" is repeated below, along with the tagline \"SAFE GAME ACCOUNT FOR YOU\". Contact information is provided with Instagram handles for @DIXON_AS1, @DEROGER_DIXON . The background is dark, with abstract blue energy or particle effects.  A small logo or watermark appears in the bottom-left corner. The overall style is edgy and gaming-oriented, aiming for a modern and appealing aesthetic to attract customers.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/09 13:05:01",
+        "image_url": "https://i.ibb.co/rf6q2SRn/930e75f41c28.png",
+        "prompt": "\u2756 The image is a digital advertisement for a game account store called \"HYPER SHOP\".\u00a0\n\n\nThe main focus is a large, stylized 3D rendering of the name \"HYPER\" in silver and blue, with a smaller \"SHOP\" label above it.\u00a0The text \" HYPER SHOP\" is repeated below, along with the tagline \"SAFE GAME ACCOUNT FOR YOU\". Contact information is provided with Instagram handles for @DIXON_AS1, @DEROGER_DIXON . The background is dark, with abstract blue energy or particle effects.  A small logo or watermark appears in the bottom-left corner. The overall style is edgy and gaming-oriented, aiming for a modern and appealing aesthetic to attract customers.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
