@@ -1412,5 +1412,12 @@
         "prompt": "Create a cyberpunk portrait of a woman with short, tousled blonde hair, holding a pink handgun to her mouth. The focus should be on her piercing gaze and the intensity of the moment. Use a color palette that is dominated by cool blues and contrasting bright pinks, typical of cyberpunk aesthetics.  The overall mood should be edgy and provocative.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/10 09:23:55",
+        "image_url": "https://i.ibb.co/pj1Mtv6S/98e6696168fc.jpg",
+        "prompt": "Create a cyberpunk portrait of a woman with short, tousled blonde hair, holding a pink handgun to her mouth. The focus should be on her piercing gaze and the intensity of the moment. Use a color palette that is dominated by cool blues and contrasting bright pinks, typical of cyberpunk aesthetics.  The overall mood should be edgy and provocative.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
