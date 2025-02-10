@@ -1405,5 +1405,12 @@
         "prompt": "Super-Realistic Style - Platinum Blonde Hair and Pink Gun : In a super-realistic style, a cute platinum blonde girl is shown in a scary and dark room as another person holds a pink gun pointed at her. The high level of detail makes the image appear almost three-dimensional, capturing the intensity of the moment while her cuteness adds a poignant element against the terrifying surroundings.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/10 09:23:30",
+        "image_url": "https://i.ibb.co/84m8p3dJ/ef1bbec6a177.png",
+        "prompt": "Create a cyberpunk portrait of a woman with short, tousled blonde hair, holding a pink handgun to her mouth. The focus should be on her piercing gaze and the intensity of the moment. Use a color palette that is dominated by cool blues and contrasting bright pinks, typical of cyberpunk aesthetics.  The overall mood should be edgy and provocative.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
