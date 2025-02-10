@@ -2007,5 +2007,12 @@
         "prompt": "Logo with Fiendy text with attractive font and diamond style and 3D text. Attractive and crystal background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/10 22:54:19",
+        "image_url": "https://i.ibb.co/7NJP4q0Q/997ff8f7b030.jpg",
+        "prompt": "Logo with Fiendy text with attractive font and diamond style and 3D text. Attractive and crystal background. With Gta Sa Anders game font",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
