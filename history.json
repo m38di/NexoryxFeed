@@ -2000,5 +2000,12 @@
         "prompt": "Create a gaming logo SOLI with the name SoHeil",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/10 22:52:50",
+        "image_url": "https://i.ibb.co/nGhJP8N/18f90573746f.jpg",
+        "prompt": "Logo with Fiendy text with attractive font and diamond style and 3D text. Attractive and crystal background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
