@@ -1454,5 +1454,12 @@
         "prompt": "The scene features the Statue of Liberty reimagined as a Gen Z girl, adorned with vibrant graffitied patterns and intricate tattoos covering her body. She holds a smartphone in one hand, looking disinterestedly at its screen, her expression a mix of boredom and defiance. The setting is a sandy, sun-kissed beach, with the iconic New York skyline visible in the background, enhancing the nostalgic vibe. The light is warm and golden, casting soft shadows that highlight the statue\u2019s details. The color palette bursts with bold hues and contrasts, combining the natural beach tones with the vivid graffiti. The composition offers an aerial view, focusing on the girl's face and the grandeur of the statue, creating depth and inviting the viewer to explore the juxtaposition of classic and contemporary. The atmosphere is playful yet reflective, encapsulating the spirit of a new generation amidst historical grandeur.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/10 10:41:34",
+        "image_url": "https://i.ibb.co/qMmrDrwz/10ca9a2d9e8e.png",
+        "prompt": "The scene features the Statue of Liberty reimagined as a Gen Z girl, adorned with vibrant graffitied patterns and intricate tattoos covering her body. She holds a smartphone in one hand, looking disinterestedly at its screen, her expression a mix of boredom and defiance. The setting is a sandy, sun-kissed beach, with the iconic New York skyline visible in the background, enhancing the nostalgic vibe. The light is warm and golden, casting soft shadows that highlight the statue\u2019s details. The color palette bursts with bold hues and contrasts, combining the natural beach tones with the vivid graffiti. The composition offers an aerial view, focusing on the girl's face and the grandeur of the statue, creating depth and inviting the viewer to explore the juxtaposition of classic and contemporary. The atmosphere is playful yet reflective, encapsulating the spirit of a new generation amidst historical grandeur.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
