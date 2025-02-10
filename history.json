@@ -1783,5 +1783,12 @@
         "prompt": "\u2756 The image shows a stylized logo composed of the letters \"A\" and \"B\" intertwined.  \n\nThe \"B\" is rendered in a vibrant, glossy gold or amber color, formed by concentric, slightly separated, curved lines giving it a three-dimensional, almost ribbed appearance.  The \"A\" is a simpler, more angular shape, rendered in a brushed metallic silver or grey, appearing sleek and modern in contrast to the warmer \"B\".  The \"A\" is partially overlaid on the \"B\", creating an interlocking effect.\n\nThe overall aesthetic is clean, modern with a retro feel evoked by the bold colors and slightly 70s-inspired style of the \"B\". The logo is set against a solid black background, which makes the colors pop and emphasizes the design's sharp details.  The logo has a high-quality, almost 3D-rendered look, suggesting a careful and professional design.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/10 17:19:35",
+        "image_url": "https://i.ibb.co/bMZDQz3S/8d962fe0297c.jpg",
+        "prompt": "Image of an office like area themed like the batcave from batman where UI designers are working on some code and where there is a big sign saying EhsanEz",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
