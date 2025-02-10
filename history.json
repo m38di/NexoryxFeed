@@ -1888,5 +1888,12 @@
         "prompt": "A hyper-realistic photograph of a BMW car prowling through a dimly lit urban alley at night. The sleek, polished surface of the car reflects the neon signs from nearby buildings, creating a striking contrast between the cool blue and warm yellow lights. The BMW\u2019s headlights are sharp and piercing, cutting through the shadows like a predator on the hunt. The 8K resolution captures every detail, from the subtle texture of the tires to the metallic sheen of the car's body, making it feel almost tangible in its realism, fogy weather",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/10 19:57:24",
+        "image_url": "https://i.ibb.co/kVyjzqS8/676c2e80a3da.png",
+        "prompt": "plaintext\nA Greek-style marble statue of a nude man, intricately detailed, with a large serpent coiling around his body, dramatic lighting, ancient ruins in the background, hyper-realistic textures, classical art aesthetic, 8K resolution, --ar 4:5 --v 5 --style 750",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
