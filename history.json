@@ -2196,5 +2196,12 @@
         "prompt": "\u067e\u0648\u0633\u062a\u0631 \u0628\u0627\u0632\u06cc \u0644\u0633\u062a \u0627\u0641 \u0627\u0633",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/11 01:30:29",
+        "image_url": "https://i.ibb.co/wZcy4hKT/84b794945da8.jpg",
+        "prompt": "\u067e\u0648\u0633\u062a\u0631 \u0634\u062e\u0635\u06cc\u062a \u0632\u0646 \u0644\u0633\u062a \u0627\u0641 \u0627\u0633",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
