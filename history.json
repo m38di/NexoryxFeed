@@ -2126,5 +2126,12 @@
         "prompt": "\u0631\u0627\u0647\u067e\u06cc\u0645\u0627\u06cc\u06cc \u06f2\u06f2 \u0628\u0647\u0645\u0646  \u0648 \u062e\u06cc\u0627\u0628\u0627\u0646\u06cc \u0634\u0644\u0648\u063a \u0628\u0627 \u067e\u0631\u0686\u0645 \u0627\u06cc\u0631\u0627\u0646 \u060c \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0645\u0631\u062f\u0627\u0646 \u0648 \u0632\u0646\u0627\u0646 \u0686\u0627\u062f\u0631\u06cc \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0628\u0686\u0647 \u0648 \u06a9\u0627\u0644\u0633\u06a9\u0647",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/11 00:48:29",
+        "image_url": "https://i.ibb.co/HfT0hh6f/b7dc4d479a34.jpg",
+        "prompt": "image shows the German word \"FIENDY\" (power) written in a stylized, gothic font.\u00a0 The letters are rendered in a silvery-white or light gray color, appearing almost metallic or embossed, with a subtle, wavy or textured effect within each letter that suggests a reflective surface or internal structure.\n\nThe word is set against a background of dark gray or black, which has a rough, textured appearance reminiscent of a heavily textured wall, stone, or dark fabric.\u00a0 This background provides a stark contrast to the lighter lettering, making the word pop visually.\u00a0 The overall aesthetic is dark, dramatic, and slightly ominous, suggesting themes of power, mystery, or possibly even darkness or the occult.\u00a0 The texture of the background is uneven, with varying shades of dark gray contributing to a sense of depth and roughness.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
