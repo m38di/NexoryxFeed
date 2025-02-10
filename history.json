@@ -1440,5 +1440,12 @@
         "prompt": "A solitary tree stands in the midst of an open field, embraced by a thick, misty atmosphere. The fog blurs the horizon, creating a serene and moody grayscale ambiance. The silhouetted tree has a wide canopy with intricate branch patterns, while delicate shadows stretch softly over the dark ground. Ensure the scene conveys a dramatic yet peaceful vibe, with subtle texture and depth in the fog and natural contrast between the tree and the surrounding mist.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/10 10:07:27",
+        "image_url": "https://i.ibb.co/k60567P8/471c25b54312.png",
+        "prompt": "A solitary tree stands in the midst of an open field, embraced by a thick, misty atmosphere. The fog blurs the horizon, creating a serene and moody grayscale ambiance. The silhouetted tree has a wide canopy with intricate branch patterns, while delicate shadows stretch softly over the dark ground. Ensure the scene conveys a dramatic yet peaceful vibe, with subtle texture and depth in the fog and natural contrast between the tree and the surrounding mist. --ar 9:16",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
