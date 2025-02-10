@@ -1755,5 +1755,12 @@
         "prompt": "Image of an office like area themed like the batcave from batman where programmers are working on some code programming and where there is a big sign saying Azad uni",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/10 16:36:28",
+        "image_url": "https://i.ibb.co/mC6M4FdF/f3926f9dcc89.jpg",
+        "prompt": "Image of an office like area themed like the batcave from batman where are working on some code and where there is a big sign saying Azad uni",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
