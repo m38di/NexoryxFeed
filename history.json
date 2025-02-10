@@ -2035,5 +2035,12 @@
         "prompt": "The image showcases a stylized 3D rendering of the name \"arTin\" in a dark, metallic blue hue.  The lettering is sharp and angular, reminiscent of a heavy metal band logo. Each letter is individually crafted with a textured, almost crystalline, appearance suggesting a cold, hard metal.  The overall design is pointed and aggressive.  The letters are interconnected with sharp, spiky protrusions, adding to the edgy feel.\n\nThe background is a dark, moody, smoky blue that contrasts with the metallic blue of the lettering, providing depth and emphasis. The background has a gradient effect, becoming lighter and more diffuse towards the top.  A subtle watermark in a smaller, lighter font, reading \"@Wuxpz\", is placed at the bottom center. The lighting is dramatic, highlighting the edges and crevices of the letters, adding to the three-dimensional effect. The style overall is dark, dramatic, and highly stylized.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/10 23:17:58",
+        "image_url": "https://i.ibb.co/cX8DHd6t/892ad10c070b.jpg",
+        "prompt": "image shows the German word \"FIENDY\" (power) written in a stylized, gothic font.\u00a0 The letters are rendered in a silvery-white or light gray color, appearing almost metallic or embossed, with a subtle, wavy or textured effect within each letter that suggests a reflective surface or internal structure.\n\nThe word is set against a background of dark gray or black, which has a rough, textured appearance reminiscent of a heavily textured wall, stone, or dark fabric.\u00a0 This background provides a stark contrast to the lighter lettering, making the word pop visually.\u00a0 The overall aesthetic is dark, dramatic, and slightly ominous, suggesting themes of power, mystery, or possibly even darkness or the occult.\u00a0 The texture of the background is uneven, with varying shades of dark gray contributing to a sense of depth and roughness.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
