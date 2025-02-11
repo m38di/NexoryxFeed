@@ -2448,5 +2448,12 @@
         "prompt": "\u2756 The image shows a logo design for \"AMIR_PIP\".  The logo itself is a stylized \"AP\" monogram, where the letters are interconnected and form a single, visually striking shape. The \"AP\" is rendered in a metallic, brushed-metal style, possibly silver or gunmetal gray.  There's a warm, golden-yellow light emanating from behind the metal, creating a subtle glow or backlight effect.  This illumination accentuates the curves and edges of the design, giving it a three-dimensional appearance.\n\nThe \"AP\" monogram sits on a dark gray textured background, mimicking a wall surface. Below the monogram, the full name \"AMIR_PIP\" is written in a simple, sans-serif typeface, also subtly illuminated.  The text uses the same warm yellow light as the logo.\n\nIn the upper-left corner, partially obscured by the logo, is a column of small text. It appears to be contact information, perhaps an address, phone number, or social media handle, written in a similar, slightly smaller font. The information is difficult to read completely due to its placement and size, and the lack of sharp focus.  The overall style is sleek and professional, suggesting a business or brand with a modern aesthetic.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/11 19:38:48",
+        "image_url": "https://i.ibb.co/8gsfMX36/9077bd15f880.jpg",
+        "prompt": "Image of an university like area themed like the batcave from university where student are working on some app design and where there is a big sign saying \"KingFarnam\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
