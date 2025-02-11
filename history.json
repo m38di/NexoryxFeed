@@ -2469,5 +2469,12 @@
         "prompt": "A guy is installing a flag on the dome of the shrine of Prophet Ruqia",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/11 19:45:52",
+        "image_url": "https://i.ibb.co/dsxqcZNm/967d44d24eaa.png",
+        "prompt": "A guy is installing an inscription on the dome of the shrine of Prophet Ruqia",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
