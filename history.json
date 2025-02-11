@@ -2511,5 +2511,12 @@
         "prompt": "The streets of Iran in 2025 without the Islamic Revolution",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/11 21:47:40",
+        "image_url": "https://i.ibb.co/9Rb8rbG/184e5b803160.jpg",
+        "prompt": "make a poster about iran flag",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
