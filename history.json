@@ -2497,5 +2497,12 @@
         "prompt": "The streets of Iran when the Islamic Revolution is not advanced",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/11 21:22:33",
+        "image_url": "https://i.ibb.co/PLTn276/2a4b50670333.png",
+        "prompt": "Iran in 2025 without the Islamic Revolution",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
