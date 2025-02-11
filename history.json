@@ -2490,5 +2490,12 @@
         "prompt": "An musician with fantastic guitar, standing on a rugged, extraterrestrial landscape, gazing towards a massive, vibrant golden planet in the sky. The scene is set in a cosmic environment, featuring dramatic mountains and rocky formations that add a sense of depth and isolation. The sky is filled with rich shades of purple and hints of swirling clouds, giving it a mystical atmosphere. The astronaut, equipped with a space suit and helmet, appears to be in awe, highlighting the vastness and beauty of the universe surrounding them. This breathtaking image captures the wonder of space exploration and the allure of distant worlds. Say \"Farnam\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/11 21:10:16",
+        "image_url": "https://i.ibb.co/MxzgMMHN/188fadfd3fb5.png",
+        "prompt": "The streets of Iran when the Islamic Revolution is not advanced",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
