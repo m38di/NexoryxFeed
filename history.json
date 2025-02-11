@@ -2560,5 +2560,12 @@
         "prompt": "logo dubbing channel with microphone",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/12 02:27:07",
+        "image_url": "https://i.ibb.co/tpsfw48y/974ff95fd5d7.png",
+        "prompt": "logo dubbing channel with microphone",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
