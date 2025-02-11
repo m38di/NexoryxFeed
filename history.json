@@ -2231,5 +2231,12 @@
         "prompt": "\u2756 The image shows a logo design for \"Frank Artwork Graphics\".\u00a0 The background is a dark maroon color, textured to resemble a slightly rough, possibly gridded, surface.\u00a0 \n\nThe logo itself is centrally positioned. It features a stylized double \"F\" in a pinkish-red, almost neon hue. The \"F\"s are formed from sleek, slightly curved lines, giving a modern and minimalist aesthetic.\u00a0 There's a subtle gradient or inner glow effect within the \"F\"s, adding depth.\n\nBelow the \"F\" logo, the words \"FRANK ARTWORK GRAPHICS\" are written in the same pinkish-red color, using a sans-serif font with a clean and simple design.\u00a0 The spacing between the words and letters is consistent and even, reinforcing the minimalist style.\u00a0 The word \"GRAPHICS\" is placed below \"FRANK ARTWORK,\" slightly smaller in size.\u00a0 The overall effect is one of clean design, sophistication, and a modern, graphic arts feel.\n\n\n\u25cf **\u0645\u062f\u0644:** Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/11 09:01:26",
+        "image_url": "https://i.ibb.co/HLJyy9Cx/5f8e714c2574.png",
+        "prompt": "\u2756 The image shows a logo design for \"Frank Artwork Graphics\".\u00a0 The background is a dark maroon color, textured to resemble a slightly rough, possibly gridded, surface.\u00a0 \n\nThe logo itself is centrally positioned. It features a stylized double \"F\" in a pinkish-red, almost neon hue. The \"F\"s are formed from sleek, slightly curved lines, giving a modern and minimalist aesthetic.\u00a0 There's a subtle gradient or inner glow effect within the \"F\"s, adding depth.\n\nBelow the \"F\" logo, the words \"FRANK ARTWORK GRAPHICS\" are written in the same pinkish-red color, using a sans-serif font with a clean and simple design.\u00a0 The spacing between the words and letters is consistent and even, reinforcing the minimalist style.\u00a0 The word \"GRAPHICS\" is placed below \"FRANK ARTWORK,\" slightly smaller in size.\u00a0 The overall effect is one of clean design, sophistication, and a modern, graphic arts feel.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
