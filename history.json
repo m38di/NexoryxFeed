@@ -2539,5 +2539,12 @@
         "prompt": "make a cookie with a text on it that says Jasoon",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 02:03:35",
+        "image_url": "https://i.ibb.co/D3X8gBm/44bbfa757ed7.png",
+        "prompt": "Purple and blue gaming logo",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
