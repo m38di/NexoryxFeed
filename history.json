@@ -2455,5 +2455,12 @@
         "prompt": "Image of an university like area themed like the batcave from university where student are working on some app design and where there is a big sign saying \"KingFarnam\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/11 19:39:26",
+        "image_url": "https://i.ibb.co/zhfrJnY2/667310292bb8.png",
+        "prompt": "A guy is installing inscriptions on the shrine of Prophet Ruqiyah",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
