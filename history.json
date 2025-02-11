@@ -2504,5 +2504,12 @@
         "prompt": "Iran in 2025 without the Islamic Revolution",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/11 21:23:35",
+        "image_url": "https://i.ibb.co/GvzmJK12/da99a1c40914.png",
+        "prompt": "The streets of Iran in 2025 without the Islamic Revolution",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
