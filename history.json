@@ -2252,5 +2252,12 @@
         "prompt": "make a cookie with a text on it that says kos chagh zandaie",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/11 11:37:50",
+        "image_url": "https://i.ibb.co/QFFvHwRh/093cdc703a4d.jpg",
+        "prompt": "make a cookie with a text on it that says Jasoon",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
