@@ -2224,5 +2224,12 @@
         "prompt": " \u06cc\u06a9 \u0644\u0648\u06af\u0648\u06cc \u0627\u0633\u0645\u06cc \u0633\u0646\u062a\u06cc \u0628\u0631\u0627\u06cc \u067e\u06cc\u062c\u06cc \u06a9\u0647 \u0633\u0628\u0632\u0647 \u0645\u06cc\u0641\u0631\u0648\u0634\u062f \u0628\u0627\u0646\u0627\u0645 \u0633\u0628\u0632\u0647 \u0645\u06cc\u062f\u0648\u0646 \u0637\u0631\u0627\u062d\u06cc \u06a9\u0646",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/11 08:08:39",
+        "image_url": "https://i.ibb.co/LDT2CcR5/44e622ae3d9c.png",
+        "prompt": "\u2756 The image shows a logo design for \"Frank Artwork Graphics\".\u00a0 The background is a dark maroon color, textured to resemble a slightly rough, possibly gridded, surface.\u00a0 \n\nThe logo itself is centrally positioned. It features a stylized double \"F\" in a pinkish-red, almost neon hue. The \"F\"s are formed from sleek, slightly curved lines, giving a modern and minimalist aesthetic.\u00a0 There's a subtle gradient or inner glow effect within the \"F\"s, adding depth.\n\nBelow the \"F\" logo, the words \"FRANK ARTWORK GRAPHICS\" are written in the same pinkish-red color, using a sans-serif font with a clean and simple design.\u00a0 The spacing between the words and letters is consistent and even, reinforcing the minimalist style.\u00a0 The word \"GRAPHICS\" is placed below \"FRANK ARTWORK,\" slightly smaller in size.\u00a0 The overall effect is one of clean design, sophistication, and a modern, graphic arts feel.\n\n\n\u25cf **\u0645\u062f\u0644:** Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
