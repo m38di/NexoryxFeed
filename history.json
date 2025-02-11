@@ -2532,5 +2532,12 @@
         "prompt": "make a poster about perspolis iran",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 00:26:39",
+        "image_url": "https://i.ibb.co/Fkf62Gkf/45655d5957a6.jpg",
+        "prompt": "make a cookie with a text on it that says Jasoon",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
