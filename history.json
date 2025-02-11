@@ -2406,5 +2406,12 @@
         "prompt": "Batman standing on one of the streets of Tehran",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/11 17:31:21",
+        "image_url": "https://i.ibb.co/dsHSLq7J/c1a87fdc9e22.png",
+        "prompt": "The Iranian flag is moving in the stars of the night",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
