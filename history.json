@@ -2749,5 +2749,12 @@
         "prompt": "A high-contrast black and white abstract portrait. The face is partially obscured by shadows, glitch effects, or surreal distortions. The composition is minimalist yet artistic, with bold lines, geometric patterns, or fluid brush strokes. The background is either completely black or features subtle abstract textures. The image should feel mysterious, modern, and aesthetically striking, ideal for a Telegram profile picture.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 11:29:27",
+        "image_url": "https://i.ibb.co/kj73FS6/1fd871c1626c.jpg",
+        "prompt": "make a photo about iran milad tower",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
