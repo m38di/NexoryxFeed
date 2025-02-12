@@ -2714,5 +2714,12 @@
         "prompt": "A cow being milked",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/12 11:10:59",
+        "image_url": "https://i.ibb.co/gZPxdT7Q/23a8fc63e217.png",
+        "prompt": "A man standing on a ledge of skyscraper, the mist is over the city and he is looking down.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
