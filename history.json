@@ -2812,5 +2812,12 @@
         "prompt": "\u2756 Generate a 3D render of a logo design for a product called \"Ettemad Limon\".  The logo should be a square metal plate with a dark gray, almost black, metallic finish.  The plate is framed by a slightly raised, stylized metal grid or cage.  The grid should have small, subtle rivets or bolts at each corner.  Within the grid, the text \"ETTEMAD LIMON\" should be rendered in a bold, three-dimensional, sans-serif typeface. The lettering should be a lighter gray or silver, providing contrast against the darker metal plate. The text should be slightly raised, creating a sense of depth and texture.\n\nIn the center of the plate, slightly above the text, a stylized, realistic rendering of a juicy lemon slice should be incorporated. The lemon should be bright yellow with subtle highlights and shadows to suggest its roundness and texture.  Two or three simple stylized leaves, similar in style to the metal grid, should be placed symmetrically on either side of the lemon, adding a touch of elegance.\n\nThe overall style should evoke a feeling of high quality, sophistication, and perhaps a touch of vintage or industrial design. The lighting should be dramatic, with highlights and shadows accentuating the three-dimensionality of the logo and the metallic textures.  The background should be a simple, dark gray, allowing the logo to be the clear focal point.\n\nThe final image should be high resolution, suitable for printing and online use.  The image should emphasize the texture and reflectivity of the metal plate and the vibrancy of the lemon.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/12 17:22:07",
+        "image_url": "https://i.ibb.co/8DP4sK2D/e929eb06b8fe.png",
+        "prompt": "\u06cc\u06a9 \u062e\u0627\u0646\u0645 \u0648 \u0622\u0642\u0627 \u062f\u0631 \u06a9\u0646\u0627\u0631 \u0633\u0627\u062d\u0644",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
