@@ -2896,5 +2896,12 @@
         "prompt": "A modern and modern abstract image that has three -dimensional state",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 22:21:40",
+        "image_url": "https://i.ibb.co/8gvr4R9y/538ebd3fbb0e.png",
+        "prompt": "A modern and modern abstract image that has three -dimensional state",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
