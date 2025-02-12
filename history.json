@@ -2742,5 +2742,12 @@
         "prompt": "make a poster a bout iran perspolis team",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 11:28:17",
+        "image_url": "https://i.ibb.co/MkN4kfZ0/c8e4205e2c7f.jpg",
+        "prompt": "A high-contrast black and white abstract portrait. The face is partially obscured by shadows, glitch effects, or surreal distortions. The composition is minimalist yet artistic, with bold lines, geometric patterns, or fluid brush strokes. The background is either completely black or features subtle abstract textures. The image should feel mysterious, modern, and aesthetically striking, ideal for a Telegram profile picture.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
