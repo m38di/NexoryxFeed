@@ -2889,5 +2889,12 @@
         "prompt": "A dramatic and highly detailed portrait of Daryl Dixon standing in the middle of an apocalyptic landscape. The image is vertical (1920x1080) to emphasize his lone figure against the vast, chaotic background. Daryl is holding his iconic crossbow, slung casually over his shoulder, with a determined and rugged expression on his face. His messy, slightly damp hair falls over his forehead, and his sleeveless leather vest reveals his toned arms, scarred from years of survival. Dirt and dried blood stain his clothes, adding to his rough and resilient aura.  \n\nThe background is a ruined, desolate cityscape with abandoned cars, crumbling buildings, and overgrown vegetation reclaiming the land. Thick clouds loom overhead, casting an ominous gray hue over the scene, with faint beams of sunlight breaking through, highlighting Daryl as the focal point. A few stray walkers (zombies) linger in the distance, their silhouettes blurred to bring full attention to Daryl.\n\nTo add detail:  \n- His crossbow is intricately rendered, showing scratches and wear from years of use.  \n- A small red handkerchief peeks from his pocket, a nod to his character's personal touches.  \n- The ground beneath him is littered with cracked concrete, fallen leaves, and remnants of a chaotic world.  \n\nThe overall mood is gritty, intense, and heroic, capturing Daryl Dixon as a symbol of survival and resilience.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/12 22:05:17",
+        "image_url": "https://i.ibb.co/YFYnhPCB/d2a47452758d.jpg",
+        "prompt": "A modern and modern abstract image that has three -dimensional state",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
