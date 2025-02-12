@@ -2770,5 +2770,12 @@
         "prompt": "make a poster about iran azadi stadium",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 11:47:01",
+        "image_url": "https://i.ibb.co/wFrWNLxK/4e5597e26c76.jpg",
+        "prompt": "make a cookie with a text on it that says Jasoon",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
