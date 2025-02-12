@@ -2728,5 +2728,12 @@
         "prompt": "shot in IMAX [DCI 6K] a robot with a submachine gun [by Isaac Hannaford ] next to his human friend with a shotgun [soft skin] woman| soldiers | year 3401 | cover magazine| epic | white orange black |dynamic pose \u2013s 150 \u2013style raw \u2013v 5.2 \u2013c 0 \u2013w 0.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/12 11:13:27",
+        "image_url": "https://i.ibb.co/QvmHPTYM/df349ca5b1bb.png",
+        "prompt": "shot in IMAX [DCI 6K] a robot with a submachine gun [by Isaac Hannaford ] next to his human friend with a shotgun [soft skin] woman| soldiers | year 3401 | cover magazine| epic | white orange black |dynamic pose \u2013s 150 \u2013style raw \u2013v 5.2 \u2013c 0 \u2013w 0.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
