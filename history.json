@@ -2763,5 +2763,12 @@
         "prompt": "make a photo about iran azadi tower",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/12 11:32:29",
+        "image_url": "https://i.ibb.co/kgVtH8qw/40e0cf2ec15f.jpg",
+        "prompt": "make a poster about iran azadi stadium",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
