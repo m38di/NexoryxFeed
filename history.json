@@ -2931,5 +2931,12 @@
         "prompt": "\u0639\u06a9\u0633 \u0686\u0627\u06cc \u0628\u0631\u0627\u0645 \u062a\u0648\u0644\u06cc\u062f \u06a9\u0646",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/13 11:49:12",
+        "image_url": "https://i.ibb.co/wZKwmYmM/948aefb40532.png",
+        "prompt": "\u2756 The image shows a close-up view of a square, metallic sign.\u00a0\n\n\nHere's a breakdown of the details:\n\n* The Sign: The sign is dark gray or gunmetal in color, appearing to be made of metal with a slightly textured surface.  It has a grid-like or cage-like design forming a border around its central element. Small, circular rivets or screws are visible at the corners and along the edges of the grid.\n\n* The Text: The words \"DESIGN HOSSEIN\" are prominently displayed in raised, three-dimensional lettering. The letters are a lighter shade of gray than the sign's background, creating contrast. The typeface is bold and somewhat stylized, giving it a vintage or industrial feel.\n\n* The Image:  A stylized image of a lemon slice is positioned above the text. The lemon is bright yellow, with a slightly textured surface to mimic the look of a real lemon.\n\n* Decorative Elements: Small, leaf-like designs are subtly incorporated into the upper corners of the grid, adding a touch of elegance.\n\n* The Background: The sign rests on a dark, textured surface that appears to be a dark gray or black fabric or leather. The background is out of focus, ensuring the sign remains the focal point.\n\nThe overall aesthetic is a blend of industrial design and a touch of vintage or Art Deco style, likely intended to represent a brand or product name.  The use of metallic textures and three-dimensional elements adds a premium or high-quality feel.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
