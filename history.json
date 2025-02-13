@@ -3344,5 +3344,12 @@
         "prompt": "\u2756 The image shows a sign that says \"ETEMAD STORE\" in large, metallic letters. The letters appear to be three-dimensional and have a textured surface, possibly made of wood or a similar material with a silvery finish.  The name is presented in two lines, with \"ETEMAD\" on the top line and \"STORE\" below it.  Underneath the main name, a smaller line of text reads \"@ETEMAD_STORE\", indicating a social media handle or similar online identifier.\n\nThe background is a dark blue wall with visible cracks, adding a sense of age or texture. The contrast between the metallic sign and the dark, slightly distressed background makes the text stand out prominently. The overall style evokes a feeling of modern design with an industrial or slightly vintage aesthetic.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/13 15:41:40",
+        "image_url": "https://i.ibb.co/1tF3zfc8/60a010b13546.jpg",
+        "prompt": "is a stylized logo or artwork, likely for a band or a design project.\u00a0 It features a large, central design element composed of interlocking, chrome-like, or metallic letters that appear to be stylized, possibly representing a name or title. The letters are sharp, angular, and have a three-dimensional, almost sculpted quality with highlights and shadows suggesting a metallic sheen.\u00a0\n\n\nThe overall style is dark and edgy, with a gothic or black metal aesthetic. The background is dark, almost black, with hints of bluish-gray textures and what look like faint, crackled lines or energy effects. These textures contrast with the bright, reflective quality of the central lettering.\n\nAt the bottom, a small, discreet text appears: \"TOMAN\" indicating the artist's name or the source of the artwork. The background details seem to be abstract and don't have a clear narrative or representational elements, their purpose being primarily to accentuate the dramatic effect of the central metallic lettering.\u00a0 The combination of darkness, sharp angles, and metallic reflections creates a striking and memorable visual piece.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
