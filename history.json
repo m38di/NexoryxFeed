@@ -3946,5 +3946,12 @@
         "prompt": "\u2756 The image showcases the name \"SAM\" stylized in bold, uppercase letters.  The letters are designed with a thick, golden-yellow outline, giving them a metallic or possibly even fiery appearance. The inner fill of the \"S\" and \"M\" is also gold, but with a textured, almost burnished or aged look.  The \"A\" is distinctly different, filled with a bright white, which contrasts sharply with the gold. A subtle, smoky, yellowish effect emanates from the top of the \"A,\" suggesting a flame or heat source.\n\nThe letters rest on a background of dark, charcoal-grey, textured material that resembles cracked or heavily sculpted stone or asphalt. This texture provides a strong contrast to the bright gold and white lettering, drawing the viewer's eye to the name.  The background texture is dark and mostly monochrome, adding to the overall dramatic effect.  At the bottom, there's a small, subtly placed text that reads \"XRD EDIT\" presumably indicating the creator or editor of this piece.  The entire image has a gritty, slightly industrial, artistic feel, possibly referencing a metal or rock music aesthetic.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 02:14:36",
+        "image_url": "https://i.ibb.co/5WRwMWXm/00b33ebb0fa3.png",
+        "prompt": "A Silver Ring, Golden D In middle of Ring, wing Design on both sides of IT, Photography and Product Introduction, High Precision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
