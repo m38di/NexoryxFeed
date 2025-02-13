@@ -3407,5 +3407,12 @@
         "prompt": "\"Two people sitting on a classic car, while two others stand beside it. One person is holding a cigarette, and the other is holding a bottle of alcohol.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 19:52:00",
+        "image_url": "https://i.ibb.co/PZPrsmvW/3c334d5015d5.png",
+        "prompt": "a dog",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
