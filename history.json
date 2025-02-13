@@ -3932,5 +3932,12 @@
         "prompt": "Minecraft logo , name is <XRD>",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/14 02:12:08",
+        "image_url": "https://i.ibb.co/fdmJ2Ysh/2e18a5b0fe7a.png",
+        "prompt": "A Plaster Sculpture of Zeus, Black VR Glasses With Yellow LED, Purple Light Reflections on Sculpture, Dark Background, Dreamy Pose, Medium Shot, High Precision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
