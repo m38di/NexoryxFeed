@@ -3540,5 +3540,12 @@
         "prompt": "\"Six men posing in front of a wooden cabin. Two of them are seated on chairs, while the other four are standing. The sky above is cloudy.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:19:45",
+        "image_url": "https://i.ibb.co/rKcRVy7B/6e47612ed829.png",
+        "prompt": "Create a stunning monochrome logo with a white background, featuring an eagle with open wings in an ultra-minimal and abstract style. Use clean, bold lines and negative space to craft a modern, sleek look. Focus on simplicity and balance to evoke strength and elegance while ensuring the design remains visually captivating and timeless.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
