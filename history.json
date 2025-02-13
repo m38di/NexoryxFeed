@@ -3708,5 +3708,12 @@
         "prompt": "\"On the table, there are five photographs, with a gun placed on one of them. A pack of Winston cigarettes and a piece of paper with the word 'Revenge' written on it are also on the table.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:55:58",
+        "image_url": "https://i.ibb.co/whmzDDCs/1456f5645d05.png",
+        "prompt": "\"Two men sitting on chairs with four men standing behind them, all dressed in men's overcoats. In the background, there is an old wooden cabin, and the sky is cloudy.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
