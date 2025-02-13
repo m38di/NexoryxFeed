@@ -3428,5 +3428,12 @@
         "prompt": "Super Portrait, A close-up of a young man with dark brown eyes and wavy black hair. He is wearing a dark green trench coat with a high collar and a light brown scarf around his neck. The backdrop is a cloudy gray, adding an air of mystery to the scene.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/13 20:12:29",
+        "image_url": "https://i.ibb.co/cPDBN9P/dcb58f0ef316.png",
+        "prompt": "Super Portrait, a close-up shot of a young girls face is featured prominently in the frame. The girls eyes are a piercing blue, and her hair is pulled back in a ponytail, adding a pop of color to her face. She is wearing a gray baseball cap, adorned with a white logo that reads \"E-NILS\" in a cursive font, while the rest of the text is in a darker shade of white. Her eyebrows are a lighter shade of blue, while her lips are a darker pink. She is wearing a long-sleeved gray sweater, with a slight smile on her lips. The backdrop is a vibrant orange, creating a stark contrast to the girls outfit.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
