@@ -3645,5 +3645,12 @@
         "prompt": "\"Two men sitting on chairs with four men standing behind them. In the background, there is an old, wooden cabin, and the sky is cloudy.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:47:32",
+        "image_url": "https://i.ibb.co/yc50vj3j/a35b1feb5a1a.png",
+        "prompt": "Generate a minimalist logo of an eagle in profile view, wings outstretched.  Use a dark teal color for the eagle against a pale beige background. The style should be geometric and abstract, with sharp lines and angles.  The design should be clean and easily scalable for different sizes.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
