@@ -3652,5 +3652,12 @@
         "prompt": "Generate a minimalist logo of an eagle in profile view, wings outstretched.  Use a dark teal color for the eagle against a pale beige background. The style should be geometric and abstract, with sharp lines and angles.  The design should be clean and easily scalable for different sizes.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/13 22:47:53",
+        "image_url": "https://i.ibb.co/tTRTbwF6/6e5bb78b3eb7.png",
+        "prompt": "Create a vector graphic of a minimalist eagle logo. The eagle should be depicted in profile, with its wings spread in a dynamic yet simple form. Use a deep navy blue for the eagle, and a warm, light beige background. The style should be geometric, with a focus on sharp, clean lines and angles.  Avoid unnecessary details. The eagle's head and beak should be clearly defined, but the body can be simplified into a geometric shape. The wings should have a layered effect, suggesting movement. The logo should be easily scalable without loss of quality.  Ensure the overall aesthetic is modern and sophisticated. Aim for a logo that is both memorable and easily recognizable.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
