@@ -3680,5 +3680,12 @@
         "prompt": "\"Two men sitting on chairs with four men standing behind them. In the background, there is an old, wooden cabin, and the sky is cloudy.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:50:38",
+        "image_url": "https://i.ibb.co/d4V2LhbB/b494c08051e3.png",
+        "prompt": "Eagle minimal logo",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
