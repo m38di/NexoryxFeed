@@ -3526,5 +3526,12 @@
         "prompt": "Create a logo in an abstract and minimal style, centered on a flying eagle. Emphasize simplicity by using basic shapes and clean, modern lines. Incorporate negative space for creativity, and design with a focus on symmetry and balance. Ensure the eagle represents freedom and strength while maintaining a sleek, professional aesthetic.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/13 22:17:02",
+        "image_url": "https://i.ibb.co/vxHffNRm/5f170c8f23b8.png",
+        "prompt": "Create a logo in an abstract and minimal style, centered on a flying eagle. Emphasize simplicity by using basic shapes and clean, modern lines. Incorporate negative space for creativity, and design with a focus on symmetry and balance. Ensure the eagle represents freedom and strength while maintaining a sleek, professional aesthetic.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
