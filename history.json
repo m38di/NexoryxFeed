@@ -3449,5 +3449,12 @@
         "prompt": "\u0627\u06cc\u0646 \u067e\u0631\u0627\u0645\u067e\u062a \u0631\u0648 \u0634\u0631\u062d \u0628\u062f\u0647: \nSuper Portrait, a close-up shot of a young girls face is featured prominently in the frame. The girls eyes are a piercing blue, and her hair is pulled back in a ponytail, adding a pop of color to her face. She is wearing a gray baseball cap, adorned with a white logo that reads \"MAHDI\" in a luxury font, while the rest of the text is in a darker shade of white. Her eyebrows are a lighter shade of blue, while her lips are a darker pink. She is wearing a long-sleeved gray sweater, with a slight smile on her lips. The backdrop is a vibrant orange, creating a stark contrast to the girls outfit.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/13 20:24:58",
+        "image_url": "https://i.ibb.co/v4L5w9mf/ec3812deb98a.png",
+        "prompt": "Super Portrait v2, A close-up portrait of a young woman with long blonde hair and blue eyes. She is wearing a light pink baseball cap that has a yellow logo on the front that reads \"Ori\" in yellow letters. Her eyes are a piercing blue and her eyebrows are a darker shade of brown. Her lips are a lighter shade of pink. She has a white t-shirt with a black stripe on the left side of the shirt. Her hair is cascading down her shoulders. The background is a vibrant yellow.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
