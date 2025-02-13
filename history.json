@@ -3953,5 +3953,12 @@
         "prompt": "A Silver Ring, Golden D In middle of Ring, wing Design on both sides of IT, Photography and Product Introduction, High Precision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/14 02:42:55",
+        "image_url": "https://i.ibb.co/mV3ncCF7/b9e53ad2450b.png",
+        "prompt": "Painting by Ivan Aivazovsky, car on top of a Cliff in the middle of the Desert, Toyota Crown S170, Details of the car Blue navy Color, Sunset, Realistic Sunlight Reflections, Wide Angle, High Precision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
