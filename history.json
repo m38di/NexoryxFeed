@@ -3827,5 +3827,12 @@
         "prompt": "Paris City View Illustration in 8-bit Pixel Art Style, Day Time, Bold Color Details, Extremely Details --s 500",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 23:39:37",
+        "image_url": "https://i.ibb.co/zWn8qq1H/2d14acb52e38.png",
+        "prompt": "Paris City View Illustration in 8-bit Pixel Art Style, Day Time, Bold Color Details, Extremely Details",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
