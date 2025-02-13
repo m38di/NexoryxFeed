@@ -3204,5 +3204,12 @@
         "prompt": "\"A book lying on a table, with one page containing a photograph of six people and the opposite page left blank.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 13:31:25",
+        "image_url": "https://i.ibb.co/3PrX2dZ/15d863c53b5e.png",
+        "prompt": "\"An open book placed on a table. On the left page, there are separate photos of six individuals, while the right page is blank.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
