@@ -3400,5 +3400,12 @@
         "prompt": "\"Make a gaming 3D logo with name HoseinDragon and Dark background\n\n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/13 18:46:36",
+        "image_url": "https://i.ibb.co/ZzTVVm7J/df60f27f0cc9.png",
+        "prompt": "\"Two people sitting on a classic car, while two others stand beside it. One person is holding a cigarette, and the other is holding a bottle of alcohol.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
