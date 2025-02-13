@@ -3561,5 +3561,12 @@
         "prompt": "\"Two men sitting on chairs with four men standing behind them. In the background, there is an old, wooden cabin, and the sky is cloudy.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:25:22",
+        "image_url": "https://i.ibb.co/Z6GHMN8w/73ec84dbe998.png",
+        "prompt": "Design an ultra-simple monochrome logo with a white background, featuring an eagle with open wings in an abstract and minimal style. Use only basic shapes and clean lines to create a sleek, modern silhouette. Keep the design as minimal as possible while preserving the essence of the eagle.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
