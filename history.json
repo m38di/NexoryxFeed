@@ -3365,5 +3365,12 @@
         "prompt": "\"Make a gaming 3D logo with name HoseinDragon and Dark background\n\n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/13 16:07:53",
+        "image_url": "https://i.ibb.co/v45mhLg9/ebbcd251d811.jpg",
+        "prompt": "\"Make a gaming 3D logo with name HoseinDragon and Dark background\n\n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
