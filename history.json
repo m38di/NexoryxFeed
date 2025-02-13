@@ -3421,5 +3421,12 @@
         "prompt": "Super Portrait, A close-up of a young man with dark brown eyes and wavy black hair. He is wearing a dark green trench coat with a high collar and a light brown scarf around his neck. The backdrop is a cloudy gray, adding an air of mystery to the scene.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/13 20:10:32",
+        "image_url": "https://i.ibb.co/1YsywK7h/f2e84f4fbf0e.png",
+        "prompt": "Super Portrait, A close-up of a young man with dark brown eyes and wavy black hair. He is wearing a dark green trench coat with a high collar and a light brown scarf around his neck. The backdrop is a cloudy gray, adding an air of mystery to the scene.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
