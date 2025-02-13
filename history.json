@@ -3078,5 +3078,12 @@
         "prompt": "\"A stylized logo or artwork, named after FIEDNY. It features a large, central design element consisting of interlocking, chrome-like or metallic letters that appear to be stylized and likely represent a name or title. The letters are sharp, angular, and have a three-dimensional quality, composed of metallic highlights.\n\nThe overall style is dark and edgy, with a gothic or black metal aesthetic. The background is dark, almost black, with streaks of bluish-gray textures and faint, cracked lines or energy effects. These textures contrast with the bright, reflective quality of the central letters.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/13 12:54:11",
+        "image_url": "https://i.ibb.co/prR3yfYX/adab03779d33.png",
+        "prompt": "\"A stylized logo or artwork, named after FIEDNY. It features a large, central design element consisting of interlocking, chrome-like or metallic letters that appear to be stylized and likely represent a name or title. The letters are sharp, angular, and have a three-dimensional quality, composed of metallic highlights.\n\nThe overall style is dark and edgy, with a gothic or black metal aesthetic. The background is dark, almost black, with streaks of bluish-gray textures and faint, cracked lines or energy effects. These textures contrast with the bright, reflective quality of the central letters.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
