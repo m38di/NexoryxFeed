@@ -3596,5 +3596,12 @@
         "prompt": " \nA vibrant and eye-catching background for a thumbnail featuring a rustic farm environment. In the center, a cheerful, well-groomed donkey is depicted with a playful expression, standing against a backdrop of green fields and a sunny sky. To the right side, a glowing glass of milk (symbolizing donkey milk) is placed, with highlights reflecting its purity, and to the left, soft wisps of blue smoke rising from burning \"anbarnesaara\" (traditional donkey-derived product) create a mystical effect.  \n\nThe text elements are bold and high-contrast: \"Unbelievable Benefits of Donkeys!\" written in large, white and yellow gradient letters with shadows or glowing outlines to make it pop.  \nThe background includes subtle textures of hay, wooden farm fences, and greenery combined with warm earthy tones to give a natural yet professional look. The scene has a dynamic composition with soft lighting and realistic shading to enhance depth and make the elements feel cohesive.\n\nMood: Educational, natural, and slightly humorous.  \nDimensions: Perfectly scaled for thumbnails (1920x1080, 16:9 ratio).",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:37:00",
+        "image_url": "https://i.ibb.co/FL5FtxQL/ca9b72266685.jpg",
+        "prompt": "Create a visually striking, single-color logo of an eagle with its wings fully open. Design the wings using clean, sharp, and straight lines to portray the feathers, emphasizing a sleek, geometric look. The style should be ultra-minimalistic, with the composition set on a pure white background to highlight its simplicity and sophistication.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
