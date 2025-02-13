@@ -3477,5 +3477,12 @@
         "prompt": "From a young Iranian mullah in rap style; A young and contemporary face with a determined look, trendy sunglasses and a striking gold necklace. A few dollar bills are clearly visible in his hand. A combination of traditional and modern elements, an urban background with graffiti and contemporary lighting that portrays an attractive contrast between tradition and modernity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/13 21:45:44",
+        "image_url": "https://i.ibb.co/4R7kMYvc/e8a79dfa1286.png",
+        "prompt": "From a young Iranian mullah in rap style; A young and contemporary face with a determined look, trendy sunglasses and a striking gold necklace. A few dollar bills are clearly visible in his hand. A combination of traditional and modern elements, an urban background with graffiti and contemporary lighting that portrays an attractive contrast between tradition and modernity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
