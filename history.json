@@ -3225,5 +3225,12 @@
         "prompt": "\"An open book placed on a table. On the right page, there are separate photos of six individuals, while the left page is blank. On the table, there is an ashtray, a cigarette, a lighter, and a glass of alcohol.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 13:35:30",
+        "image_url": "https://i.ibb.co/ymyYHw6k/10d0249d4609.png",
+        "prompt": "\"An open book placed on a table. On the right page, there are separate photos of six individuals, while the left page is blank. On the table, there is an ashtray, a cigarette, a lighter, and a glass of alcohol.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
