@@ -3533,5 +3533,12 @@
         "prompt": "Create a logo in an abstract and minimal style, centered on a flying eagle. Emphasize simplicity by using basic shapes and clean, modern lines. Incorporate negative space for creativity, and design with a focus on symmetry and balance. Ensure the eagle represents freedom and strength while maintaining a sleek, professional aesthetic.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/13 22:18:48",
+        "image_url": "https://i.ibb.co/n8Mn2q02/2d19a8a61d46.png",
+        "prompt": "\"Six men posing in front of a wooden cabin. Two of them are seated on chairs, while the other four are standing. The sky above is cloudy.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
