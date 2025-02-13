@@ -3911,5 +3911,12 @@
         "prompt": "A Man with Beard Standing Next to the Wall in Dark Place, The Light Shines on the Man And the Shadow of the Man on the Wall, Modern Outfit, Cinematic Photography Style, Natural Shadow, Natural Color Details, Extremely Details, High Quality --ar 3:4",
         "aspect_ratio": "3:4",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/14 01:55:36",
+        "image_url": "https://i.ibb.co/YBM4h75Y/a6ebb0bc3743.png",
+        "prompt": "A Man Standing Next to the Wall in Dark Place, The Light Shines on the Man And the Shadow of the Man on the Wall, Modern Outfit, Cinematic Photography Style, Natural Shadow, Natural Color Details, Extremely Details, High Quality --ar 3:4",
+        "aspect_ratio": "3:4",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
