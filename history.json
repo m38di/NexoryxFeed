@@ -3631,5 +3631,12 @@
         "prompt": "Design a minimalist eagle logo in a geometric style. The eagle should be facing right, with its wings forming a stylized \"V\" shape.  Use a deep indigo blue for the eagle and a creamy beige background. The logo should be easily recognizable as an eagle, but with a clean, modern, and abstract look. The style should evoke a sense of strength and freedom. The overall design should be highly scalable and suitable for various applications, including print and digital media. Render in high resolution.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/13 22:44:32",
+        "image_url": "https://i.ibb.co/nsbRBqFP/e5b67bd6048c.png",
+        "prompt": "Design a minimalist eagle logo in a geometric style. The eagle should be facing right, with its wings forming a stylized \"V\" shape.  Use a deep indigo blue for the eagle and a creamy beige background. The logo should be easily recognizable as an eagle, but with a clean, modern, and abstract look. The style should evoke a sense of strength and freedom. The overall design should be highly scalable and suitable for various applications, including print and digital media. Render in high resolution.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
