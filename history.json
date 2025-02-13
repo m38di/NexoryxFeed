@@ -3603,5 +3603,12 @@
         "prompt": "Create a visually striking, single-color logo of an eagle with its wings fully open. Design the wings using clean, sharp, and straight lines to portray the feathers, emphasizing a sleek, geometric look. The style should be ultra-minimalistic, with the composition set on a pure white background to highlight its simplicity and sophistication.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/13 22:39:01",
+        "image_url": "https://i.ibb.co/svBvFdpQ/3f8eb6b2bf7f.png",
+        "prompt": "Create a visually striking, single-color logo of an eagle with its wings fully open. Design the wings using clean, sharp, and straight lines to portray the feathers, emphasizing a sleek, geometric look. The style should be ultra-minimalistic, with the composition set on a pure white background to highlight its simplicity and sophistication.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
