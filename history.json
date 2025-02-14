@@ -4170,5 +4170,12 @@
         "prompt": "Advisory logo\nmade of silver and stone",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 14:39:14",
+        "image_url": "https://i.ibb.co/bRWnD5Bp/454c7cb0a5a3.jpg",
+        "prompt": "Advisory company logo\nMade of silver and stone\nWith a black background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
