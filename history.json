@@ -4205,5 +4205,12 @@
         "prompt": "A simple design for painting and coloring with a white background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 15:34:22",
+        "image_url": "https://i.ibb.co/sGLnkZJ/715c9dee7cb9.jpg",
+        "prompt": "A simple design for painting and coloring with a white background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
