@@ -4289,5 +4289,12 @@
         "prompt": "Illustrate a vibrant office space where a large monitor displays the Telegram logo prominently. Below the logo, the text \"Thank you for being part of our community\" is written. Several employees are looking at the monitor attentively. The office features modern desks with laptops on them, set against a warm orange and green color palette, creating an inviting and collaborative atmosphere",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/14 17:07:40",
+        "image_url": "https://i.ibb.co/ZpnmHGhD/458bb43e961c.png",
+        "prompt": "imagine a vibrant office space where a large monitor displays the Telegram logo prominently. Below the logo, the text \"Thank you for being part of our community\" is written. Several employees are looking at the monitor attentively. The office features modern desks with laptops on them, set against a warm orange and green color palette, creating an inviting and collaborative atmosphere",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
