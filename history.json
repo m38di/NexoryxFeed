@@ -4275,5 +4275,12 @@
         "prompt": "[Group of diverse young adults, gathered in a dimly lit living room, comfortably seated on a couch, engaging in conversation and enjoying warm drinks while a large screen displays a \"Thank you for being a part of our community.\"  ; feeling of warmth, connection, and community], [Photorealistic digital painting], [No specific artist reference], [Warm, ambient lighting from strategically placed lamps and candles; color palette of muted oranges, browns, and blues; soft focus on the background to emphasize the group; slightly desaturated colors for a cozy atmosphere; textures of soft fabrics and wood; shallow depth of field focusing on the central group; background features a simple, neutral-toned wall and a plant; high-quality rendering with attention to detail in the characters' expressions and postures].",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/14 16:57:39",
+        "image_url": "https://i.ibb.co/Rpqzz3SY/c36f8b24835b.png",
+        "prompt": "A group of diverse young adults, laughing and conversing while enjoying warm drinks, gathered in a warmly lit living room, expressing a feeling of community and connection. The large screen displays the Telegram logo and a thank you message, enhancing the sense of shared experience.\n\nPhotorealistic digital painting, cinematic lighting, inspired by the work of Annie Leibovitz.\n\nWarm, inviting color palette with amber and soft blues dominating. Shallow depth of field focusing on the group. Soft, diffused lighting from warm-toned lamps and candles. Subtle bokeh effect in the background. The texture is smooth, focusing on the subjects' skin and clothing. The background is a simple, slightly blurred living room setting. High-resolution rendering.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
