@@ -4051,5 +4051,12 @@
         "prompt": "Eagle logo, a simple minimalistic design with vector graphics, in black on a white background. The design features simple shapes, a professional style, and clean lines with very few details. The composition is symmetrical and the design is flat, with solid color blocks. The overall graphic design conveys a sense of technology, with cool and mysterious eagle elements that suggest power, freedom, and adventure. This design could be used for  or other applications",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/14 04:06:17",
+        "image_url": "https://i.ibb.co/pvqkCxcQ/092c0bba873d.jpg",
+        "prompt": "Eagle logo, a simple minimalistic design with vector graphics, in black on a white background. The design features simple shapes, a professional style, and clean lines with very few details. The composition is symmetrical and the design is flat, with solid color blocks. The overall graphic design conveys a sense of technology, with cool and mysterious eagle elements that suggest power, freedom, and adventure. This design could be used for  or other applications",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
