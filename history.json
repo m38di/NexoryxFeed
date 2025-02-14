@@ -4163,5 +4163,12 @@
         "prompt": "Make a gaming 3D Logo wite word NEXO \n\nThe ''NEXO'' color is silver \n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/14 14:38:07",
+        "image_url": "https://i.ibb.co/CKMHvw3H/d9f4dcc7b507.jpg",
+        "prompt": "Advisory logo\nmade of silver and stone",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
