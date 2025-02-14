@@ -4303,5 +4303,12 @@
         "prompt": "**Create a dynamic and striking 3D gaming logo featuring the word \"NEXO\".**\n\n**Text:**\n\u00a0\u00a0 - Word: \"NEXO\"\n\u00a0\u00a0 - Color: brilliant, reflective silver to evoke a sleek, futuristic feel\n**Background:** \n\u00a0\u00a0 - Style: A dark, rugged, and textured surface that mimics the appearance of volcanic rock or dark, craggy terrain\n\u00a0\u00a0 - Theme: Enhanced with subtle hints of embers or glowing red spots scattered throughout, emphasizing a fiery and intense atmosphere",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/15 00:26:10",
+        "image_url": "https://i.ibb.co/YwZKsxJ/1f0714efee20.png",
+        "prompt": "make logo with text:keyhan\nfor my business:selling the technology gadget",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
