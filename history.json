@@ -4107,5 +4107,12 @@
         "prompt": "A simple, minimalist logo of an eagle, in the style of Rob Janoff, with a solid white background and black color only on the edges",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/14 10:50:10",
+        "image_url": "https://i.ibb.co/FLFBxjXd/9e67fa6ea642.png",
+        "prompt": "a minimalist logo of an eagle, simple shapes, black on a white background, vector graphic design, a modern and professional style, a symmetrical composition, a professional brand identity illustration for a\u00a0 company, minimalism, negative space, a limited color palette, flat design, high resolution, high detail.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
