@@ -4254,5 +4254,12 @@
         "prompt": "A simple sketch and cute cartoon characters to draw and color with a white background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 15:44:19",
+        "image_url": "https://i.ibb.co/wNTm0TtB/97e40b6338c3.jpg",
+        "prompt": "A simple sketch and cute cartoon characters to draw and color with a white background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
