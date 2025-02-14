@@ -4233,5 +4233,12 @@
         "prompt": "A simple cute bunny design to draw and color with a white background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 15:39:52",
+        "image_url": "https://i.ibb.co/FNbJX0b/285e51642c32.jpg",
+        "prompt": "A simple design and cute cartoon characters to draw and color with a white background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
