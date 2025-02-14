@@ -4240,5 +4240,12 @@
         "prompt": "A simple design and cute cartoon characters to draw and color with a white background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 15:40:51",
+        "image_url": "https://i.ibb.co/8Fm9cW9/050df1822315.jpg",
+        "prompt": "A simple design and cute cartoon characters to draw and color with a white background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
