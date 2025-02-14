@@ -4219,5 +4219,12 @@
         "prompt": "A simple chrome Melody design for painting and coloring with a white background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 15:37:02",
+        "image_url": "https://i.ibb.co/QFLQKz4g/f62ae2e9e676.jpg",
+        "prompt": "A simple cute bunny design to draw and color with a white background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
