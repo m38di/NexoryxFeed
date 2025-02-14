@@ -4296,5 +4296,12 @@
         "prompt": "imagine a vibrant office space where a large monitor displays the Telegram logo prominently. Below the logo, the text \"Thank you for being part of our community\" is written. Several employees are looking at the monitor attentively. The office features modern desks with laptops on them, set against a warm orange and green color palette, creating an inviting and collaborative atmosphere",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/14 17:31:56",
+        "image_url": "https://i.ibb.co/rRGM7K86/135a8a2d2b8a.png",
+        "prompt": "**Create a dynamic and striking 3D gaming logo featuring the word \"NEXO\".**\n\n**Text:**\n\u00a0\u00a0 - Word: \"NEXO\"\n\u00a0\u00a0 - Color: brilliant, reflective silver to evoke a sleek, futuristic feel\n**Background:** \n\u00a0\u00a0 - Style: A dark, rugged, and textured surface that mimics the appearance of volcanic rock or dark, craggy terrain\n\u00a0\u00a0 - Theme: Enhanced with subtle hints of embers or glowing red spots scattered throughout, emphasizing a fiery and intense atmosphere",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
