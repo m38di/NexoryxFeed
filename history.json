@@ -4058,5 +4058,12 @@
         "prompt": "Eagle logo, a simple minimalistic design with vector graphics, in black on a white background. The design features simple shapes, a professional style, and clean lines with very few details. The composition is symmetrical and the design is flat, with solid color blocks. The overall graphic design conveys a sense of technology, with cool and mysterious eagle elements that suggest power, freedom, and adventure. This design could be used for  or other applications",
         "aspect_ratio": "1:1",
         "model": "FLUX 1.1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 04:07:18",
+        "image_url": "https://i.ibb.co/bRzzPmSZ/9c44247dc5da.jpg",
+        "prompt": "A simple, minimalist logo of an eagle, in the style of [Rob Janoff](https://goo.gl/search?artist%20Rob%20Janoff), with a solid white background and black color only on the edges",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1.1 [Pro]"
     }
 ]
