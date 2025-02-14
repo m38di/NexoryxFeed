@@ -4079,5 +4079,12 @@
         "prompt": "A simple, minimalist logo of an eagle, in the style of Rob Janoff, with a solid white background and black color only on the edges",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/14 04:11:30",
+        "image_url": "https://i.ibb.co/6cmKkxZ4/87d3b18d14e4.png",
+        "prompt": "A simple, minimalist logo of an eagle, in the style of [Rob Janoff](https://goo.gl/search?artist%20Rob%20Janoff), with a solid white background and black color only on the edges",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
