@@ -4198,5 +4198,12 @@
         "prompt": "a green frog in a jangle that protects a spider egg and spider also protect the frog",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/14 15:33:09",
+        "image_url": "https://i.ibb.co/wNvdNT97/75bd55c28bbb.jpg",
+        "prompt": "A simple design for painting and coloring with a white background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
