@@ -4114,5 +4114,12 @@
         "prompt": "a minimalist logo of an eagle, simple shapes, black on a white background, vector graphic design, a modern and professional style, a symmetrical composition, a professional brand identity illustration for a\u00a0 company, minimalism, negative space, a limited color palette, flat design, high resolution, high detail.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/14 13:45:19",
+        "image_url": "https://i.ibb.co/Qj6j5SWR/474631cd51f2.png",
+        "prompt": "Make a gaming 3D Logo wite word MAX \n\nThe ''MAX'' color is silver \n\n* Background: The background is a dark, rough, and textured surface resembling dark rock or a volcanic landscape.\u00a0 There are hints of embers or glowing red spots scattered across the background, adding to the fiery theme.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
