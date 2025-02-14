@@ -4268,5 +4268,12 @@
         "prompt": "Group of diverse young adults, gathered in a dimly lit living room, comfortably seated on a couch, engaging in conversation and enjoying warm drinks while a large screen displays a Telegram thank you message; feeling of warmth, connection, and community], [Photorealistic digital painting], [No specific artist reference], [Warm, ambient lighting from strategically placed lamps and candles; color palette of muted oranges, browns, and blues; soft focus on the background to emphasize the group; slightly desaturated colors for a cozy atmosphere; textures of soft fabrics and wood; shallow depth of field focusing on the central group; background features a simple, neutral-toned wall and a plant; high-quality rendering with attention to detail in the characters' expressions and postures",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/14 16:52:37",
+        "image_url": "https://i.ibb.co/9kGJLswR/8c7193e79b77.png",
+        "prompt": "[Group of diverse young adults, gathered in a dimly lit living room, comfortably seated on a couch, engaging in conversation and enjoying warm drinks while a large screen displays a \"Thank you for being a part of our community.\"  ; feeling of warmth, connection, and community], [Photorealistic digital painting], [No specific artist reference], [Warm, ambient lighting from strategically placed lamps and candles; color palette of muted oranges, browns, and blues; soft focus on the background to emphasize the group; slightly desaturated colors for a cozy atmosphere; textures of soft fabrics and wood; shallow depth of field focusing on the central group; background features a simple, neutral-toned wall and a plant; high-quality rendering with attention to detail in the characters' expressions and postures].",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
