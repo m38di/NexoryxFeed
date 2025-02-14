@@ -4184,5 +4184,12 @@
         "prompt": "Advisory company logo\nMade of silver and stone\nWith a black background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/14 14:44:01",
+        "image_url": "https://i.ibb.co/MkmBnSRF/47846fb5d460.png",
+        "prompt": "\u06cc\u0647 \u0644\u0648\u06af\u0648 \u0628\u0633\u0627\u0632 \u0628\u0647 \u0627\u0633\u0645 V",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
