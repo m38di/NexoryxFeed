@@ -4282,5 +4282,12 @@
         "prompt": "A group of diverse young adults, laughing and conversing while enjoying warm drinks, gathered in a warmly lit living room, expressing a feeling of community and connection. The large screen displays the Telegram logo and a thank you message, enhancing the sense of shared experience.\n\nPhotorealistic digital painting, cinematic lighting, inspired by the work of Annie Leibovitz.\n\nWarm, inviting color palette with amber and soft blues dominating. Shallow depth of field focusing on the group. Soft, diffused lighting from warm-toned lamps and candles. Subtle bokeh effect in the background. The texture is smooth, focusing on the subjects' skin and clothing. The background is a simple, slightly blurred living room setting. High-resolution rendering.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/14 17:04:39",
+        "image_url": "https://i.ibb.co/tw7xPDCV/de35b022bb60.png",
+        "prompt": "Illustrate a vibrant office space where a large monitor displays the Telegram logo prominently. Below the logo, the text \"Thank you for being part of our community\" is written. Several employees are looking at the monitor attentively. The office features modern desks with laptops on them, set against a warm orange and green color palette, creating an inviting and collaborative atmosphere",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
