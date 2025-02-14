@@ -4191,5 +4191,12 @@
         "prompt": "\u06cc\u0647 \u0644\u0648\u06af\u0648 \u0628\u0633\u0627\u0632 \u0628\u0647 \u0627\u0633\u0645 V",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/14 15:06:22",
+        "image_url": "https://i.ibb.co/Xx2tqZMP/7e33036aa07a.png",
+        "prompt": "a green frog in a jangle that protects a spider egg and spider also protect the frog",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
