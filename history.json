@@ -4310,5 +4310,12 @@
         "prompt": "make logo with text:keyhan\nfor my business:selling the technology gadget",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/15 00:27:11",
+        "image_url": "https://i.ibb.co/0yBHzK0j/1b9f8f0d3700.png",
+        "prompt": "make logo with text:keyhan\nfor my business:selling the technology gadget and logo color is blue",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
