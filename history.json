@@ -4359,5 +4359,12 @@
         "prompt": "A highly detailed 3D game-style character design of a man with a head shaped like the PowerPoint logo, neo-futuristic aesthetic, vibrant neon orange colors with glowing accents, wearing a sleek modern suit jacket, clean and minimalist design without any background, cinematic front-facing camera angle, ultra-realistic details, sharp edges with glowing elements on the PowerPoint logo-inspired head, high-quality textures, 8k resolution, professional lighting to enhance the futuristic and stylish vibe --ar 9:16",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/15 12:10:02",
+        "image_url": "https://i.ibb.co/7xPK1H9Z/fc606c9a555d.png",
+        "prompt": "A highly detailed and realistic photo of a man sitting relaxed on a wooden chair in a lush, green outdoor setting next to a quaint cottage. Various animals, including birds, rabbits, and deer, are gathered around him peacefully. A striking close-up of a stinger insect resting on the man's hand highlights the natural harmony.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
