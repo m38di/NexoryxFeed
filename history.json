@@ -4527,5 +4527,12 @@
         "prompt": "Everything is dark and blurry\n\nA bloody katana is horizontally placed in the middle of the image, with light shining on it\n\nThe katana is made of anger and hatred, and lightning has been blown into it\n\nThe genre is epic\n\nThere are dark spots in the four corners of the image\n\nThe color palette used is white and black",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/16 00:37:34",
+        "image_url": "https://i.ibb.co/zHNmwwGz/8343da4cd25a.jpg",
+        "prompt": "Everything is dark and vague\n\nA ruined city with Milad Tower in the middle\n\nThe color palette used is between white and black\n\nThe four phones are images of smoke or dark spots",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
