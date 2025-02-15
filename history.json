@@ -4520,5 +4520,12 @@
         "prompt": "Everything is dark and blurry\n\nA bloody katana is horizontally placed in the middle of the image, with light shining on it\n\nThe genre of the image is epic\n\nThere are dark spots in the four corners of the image\n\nThe color palette used is white and black",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/16 00:26:32",
+        "image_url": "https://i.ibb.co/hxKLd4qR/00fa8126905c.jpg",
+        "prompt": "Everything is dark and blurry\n\nA bloody katana is horizontally placed in the middle of the image, with light shining on it\n\nThe katana is made of anger and hatred, and lightning has been blown into it\n\nThe genre is epic\n\nThere are dark spots in the four corners of the image\n\nThe color palette used is white and black",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
