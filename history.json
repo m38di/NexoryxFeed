@@ -4401,5 +4401,12 @@
         "prompt": "CARLO written in silver with metallic silver color and ZAMAN REGULAR font",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/15 19:22:15",
+        "image_url": "https://i.ibb.co/Gf85vxJm/da4208c0daa7.png",
+        "prompt": "CARLO written in silver with metallic silver color in GOTHIC font with black background and Carlo Design overlay written at the bottom of the image",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
