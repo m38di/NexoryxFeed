@@ -4478,5 +4478,12 @@
         "prompt": "A 3D image of a man with a car behind him and 3D writing on the wall behind him.TITAN",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/15 19:54:21",
+        "image_url": "https://i.ibb.co/Z1fgKMv4/a731b2c0b3c7.png",
+        "prompt": "A 3D image of a man with a car behind him and 3D writing on the wall behind him.TITAN",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
