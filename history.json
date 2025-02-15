@@ -4324,5 +4324,12 @@
         "prompt": "A colossal humanoid titan with exposed muscles and no skin, towering over a ruined city with smoke and fire in the background. The creature has a menacing expression, glowing eyes, and steam rising from its body. The scene is dramatic and intense, resembling an apocalyptic battlefield.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/15 08:23:54",
+        "image_url": "https://i.ibb.co/tT39gz7J/c57dc5223d69.jpg",
+        "prompt": "colossal titan",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
