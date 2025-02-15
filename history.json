@@ -4380,5 +4380,12 @@
         "prompt": "A realistic picture, Lots of beautiful animals in the open green space, without trees, morning, spring, unreal engine 5",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/15 18:46:34",
+        "image_url": "https://i.ibb.co/PvGmcwtt/78c8e2b3b08f.jpg",
+        "prompt": "A highly detailed 3D game-style character design of Toji Fushiguro from Jujutsu Kaisen, anime-inspired aesthetic with a neo-futuristic theme, vibrant neon purple colors, wearing a black t-shirt and white pants, standing against a solid black background, close-up camera angle focusing on his face and upper body, ultra-realistic details with sharp edges and glowing accents on his outfit and accessories, high-quality textures, 8k resolution, professional lighting to enhance the stylish and intense vibe --ar 9:16",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Pro]"
     }
 ]
