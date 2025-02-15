@@ -4373,5 +4373,12 @@
         "prompt": "Realistic photo of a man sitting on a chair beside a cottage in a green field, surrounded by animals, with a stinger insect on his hand.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/15 13:47:25",
+        "image_url": "https://i.ibb.co/qMM694Lq/83ab3a985e0e.png",
+        "prompt": "A realistic picture, Lots of beautiful animals in the open green space, without trees, morning, spring, unreal engine 5",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
