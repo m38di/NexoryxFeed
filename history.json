@@ -4317,5 +4317,12 @@
         "prompt": "make logo with text:keyhan\nfor my business:selling the technology gadget and logo color is blue",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/15 08:21:55",
+        "image_url": "https://i.ibb.co/fGHBG3Sr/fc3ebb32bbe2.jpg",
+        "prompt": "A colossal humanoid titan with exposed muscles and no skin, towering over a ruined city with smoke and fire in the background. The creature has a menacing expression, glowing eyes, and steam rising from its body. The scene is dramatic and intense, resembling an apocalyptic battlefield.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
