@@ -4366,5 +4366,12 @@
         "prompt": "A highly detailed and realistic photo of a man sitting relaxed on a wooden chair in a lush, green outdoor setting next to a quaint cottage. Various animals, including birds, rabbits, and deer, are gathered around him peacefully. A striking close-up of a stinger insect resting on the man's hand highlights the natural harmony.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/15 12:15:41",
+        "image_url": "https://i.ibb.co/dwWnScX0/7d8263e8071c.png",
+        "prompt": "Realistic photo of a man sitting on a chair beside a cottage in a green field, surrounded by animals, with a stinger insect on his hand.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
