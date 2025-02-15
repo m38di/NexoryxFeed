@@ -4338,5 +4338,12 @@
         "prompt": "A highly detailed 3D game-style character design of a man with a head shaped like the PowerPoint logo, neo-futuristic aesthetic, vibrant neon orange colors with glowing accents, wearing a sleek modern suit jacket, clean and minimalist design without any background, cinematic front-facing camera angle, ultra-realistic details, sharp edges with glowing elements on the PowerPoint logo-inspired head, high-quality textures, 8k resolution, professional lighting to enhance the futuristic and stylish vibe --ar 9:16",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/15 11:22:10",
+        "image_url": "https://i.ibb.co/gM0dnVft/72f11b5cb2aa.jpg",
+        "prompt": "A highly detailed 3D game-style character design of a man with a head shaped like the PowerPoint logo, neo-futuristic aesthetic, vibrant neon orange colors with glowing accents, wearing a sleek modern suit jacket, clean and minimalist design without any background, cinematic front-facing camera angle, ultra-realistic details, sharp edges with glowing elements on the PowerPoint logo-inspired head, high-quality textures, 8k resolution, professional lighting to enhance the futuristic and stylish vibe --ar 9:16",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Pro]"
     }
 ]
