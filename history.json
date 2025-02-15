@@ -4471,5 +4471,12 @@
         "prompt": "make a channel art by name \"reflex\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/15 19:53:21",
+        "image_url": "https://i.ibb.co/F4cp2333/8b5303e6237a.png",
+        "prompt": "A 3D image of a man with a car behind him and 3D writing on the wall behind him.TITAN",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
