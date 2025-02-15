@@ -4548,5 +4548,12 @@
         "prompt": "Everything is dark and vague\n\nA ruined city with the Milad Va'eq Tower in the middle in Tehran, Iran\n\nThe color palette used is between white and black\n\nThe four corners of the image are filled with smoke or dark spots",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/16 00:41:34",
+        "image_url": "https://i.ibb.co/R4GYCGhK/1026a66c50fd.png",
+        "prompt": "Everything is dark and vague\n\nA ruined city with the Milad Va'eq Tower in the middle in Tehran, Iran\n\nThe color palette used is between white and black\n\nThe four corners of the image are filled with smoke or dark spots",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
