@@ -4429,5 +4429,12 @@
         "prompt": "CARLO written in silver with metallic silver color in GOTHIC font with black background and Carlo Design overlay written at the bottom of the image",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/15 19:32:27",
+        "image_url": "https://i.ibb.co/r2mj9zDq/0e66d3838add.png",
+        "prompt": " CARLO GRAPHIC \n written in silver with metallic silver color in GOTHIC font with black background and Carlo Design overlay written at the bottom of the image",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
