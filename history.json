@@ -4443,5 +4443,12 @@
         "prompt": "CARLOGRAPHIC  written in silver with metallic silver color in GOTHIC font with black background and Carlo Design overlay written at the bottom of the image",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/15 19:36:46",
+        "image_url": "https://i.ibb.co/ksY5s4B6/abbdfd053790.png",
+        "prompt": "\nCARLOGRAPHIC \n written in silver with metallic silver color in GOTHIC font with black background and Carlo Design overlay written at the bottom of the image",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
