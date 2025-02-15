@@ -4513,5 +4513,12 @@
         "prompt": "Draw a picture\n\nEverything is dark and blurry\n\nA ninja looks at his sword in the darkness\n\nAll the tiffs used in the painting are between white and black\n\nIt seems to create an epic black and white image\n\nThere are dark gray spots in the four corners of the image\n\nIt is clear that the ninja is alone",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/16 00:23:31",
+        "image_url": "https://i.ibb.co/vyg8r2Q/cab2289a79fe.jpg",
+        "prompt": "Everything is dark and blurry\n\nA bloody katana is horizontally placed in the middle of the image, with light shining on it\n\nThe genre of the image is epic\n\nThere are dark spots in the four corners of the image\n\nThe color palette used is white and black",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
