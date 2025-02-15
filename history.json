@@ -4485,5 +4485,12 @@
         "prompt": "A 3D image of a man with a car behind him and 3D writing on the wall behind him.TITAN",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/15 23:22:22",
+        "image_url": "https://i.ibb.co/9HXFyp94/c2444306e1ce.png",
+        "prompt": "Envision an antique house featuring a charming fireplace that serves as the focal point of the room. Above the mantel, an ornate picture frame holds an old photograph, capturing a moment from a bygone era. As the flames flicker, what emotions does this vintage image stir, and what tales of the past does it whisper to those who gaze upon it?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
