@@ -4842,5 +4842,12 @@
         "prompt": "Design a simple, little hexagonal marquee with glowing bulbs along the edges, warm lighting, and a blank center.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/17 02:14:24",
+        "image_url": "https://i.ibb.co/9mW8cNh4/24e0e664c343.jpg",
+        "prompt": "Give me a picture of the destruction of Hogwarts with all the details and no bugs because I want to make a movie poster.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
