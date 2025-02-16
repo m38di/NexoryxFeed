@@ -4793,5 +4793,12 @@
         "prompt": "Create an attractive logo with dark colors for a website called MegaMob.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/16 20:42:28",
+        "image_url": "https://i.ibb.co/LDzZWRzn/ee33659420ee.png",
+        "prompt": "A futuristic city with flying cars at sunset.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
