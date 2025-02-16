@@ -4786,5 +4786,12 @@
         "prompt": "isometric image + of a futuristic spaceship interior, sleek and stylish design + cockpit, living quarters, storage bays, engeenering rooms, unique look, bright and bold color palette, high details, detailed textures, depth, holographic displays, glowing control panels, sleek metal surfaces, futuristic\nvibe, visually striking --ar 16:9 --s750",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/16 19:59:05",
+        "image_url": "https://i.ibb.co/PzQmdxtt/1489decba04d.png",
+        "prompt": "Create an attractive logo with dark colors for a website called MegaMob.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
