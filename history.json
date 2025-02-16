@@ -4863,5 +4863,12 @@
         "prompt": "Give me a picture of Rick Grimes as a professor in the Battle of Hogwarts, protecting the castle in a completely natural way, with all the details and no bugs, because I want to make a movie poster.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/17 02:20:10",
+        "image_url": "https://i.ibb.co/nMchWxJr/3800018e4063.jpg",
+        "prompt": "Give me a Harry Potter movie poster.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
