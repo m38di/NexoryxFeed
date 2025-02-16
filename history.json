@@ -4821,5 +4821,12 @@
         "prompt": "Create an immersive and captivating vintage marquee in a hexagonal shape, set against a dimly lit backdrop. The hexagonal marquee should feature warm, glowing bulbs meticulously aligned along its edges, creating a radiant golden halo effect that emphasizes its unique geometry. The centerpiece should include blank space with subtle horizontal lines for customizable text, evoking a sense of nostalgia and grandeur. Highlight dramatic lighting, rich contrasts, and a retro aesthetic to give the hexagonal design a distinctive and timeless appeal.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/16 23:30:21",
+        "image_url": "https://i.ibb.co/Xxzb4XwN/df54d005419d.png",
+        "prompt": "Create an immersive and captivating vintage marquee in a hexagonal shape, set against a dimly lit backdrop. The hexagonal marquee should feature warm, glowing bulbs meticulously aligned along its edges, creating a radiant golden halo effect that emphasizes its unique geometry. The centerpiece should include blank space with subtle horizontal lines for customizable text, evoking a sense of nostalgia and grandeur. Highlight dramatic lighting, rich contrasts, and a retro aesthetic to give the hexagonal design a distinctive and timeless appeal.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
