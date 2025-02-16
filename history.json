@@ -4835,5 +4835,12 @@
         "prompt": "Design a simple, hexagonal marquee with glowing bulbs along the edges, warm lighting, and a blank center featuring thin horizontal lines for text.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/16 23:33:44",
+        "image_url": "https://i.ibb.co/Df42c5FL/60b36e47e539.png",
+        "prompt": "Design a simple, little hexagonal marquee with glowing bulbs along the edges, warm lighting, and a blank center.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
