@@ -4772,5 +4772,12 @@
         "prompt": "A highly detailed 3D game-style character design of a man holding a blank green A3-sized paper in one hand, as if presenting it to the audience, minimalistic color palette with clean and sleek aesthetics, wearing a black t-shirt and white pants, no background for a clean and focused look, close-up camera angle focusing on his face and upper body, ultra-realistic details with sharp edges, subtle lighting to enhance the minimalistic vibe, high-quality textures, 8k resolution, professional attention to details",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/16 14:06:10",
+        "image_url": "https://i.ibb.co/rRQ0V2Qz/f992ec8ec770.png",
+        "prompt": "Imagine an old house where time seems to stand still. The walls are weathered and bear the charm of history, showcasing a myriad of cracks and textures that tell stories of the past. In the center, a rustic fireplace adds warmth and character to the room. What secrets does this ancient dwelling hold, and how does the ambiance of the hearth influence the atmosphere of the space?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
