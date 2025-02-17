@@ -4926,5 +4926,12 @@
         "prompt": "A VPN logo with the name TESLA written in the middle.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/17 12:41:05",
+        "image_url": "https://i.ibb.co/NgMQcq5g/db753acad6f4.jpg",
+        "prompt": "A VPN logo with the name TESLA written in the middle.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
