@@ -4954,5 +4954,12 @@
         "prompt": "A VPN logo with the name TESLA written in the middle.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/17 18:31:04",
+        "image_url": "https://i.ibb.co/0yjKfBtJ/1233c8ed4f5e.png",
+        "prompt": "\nA football poster for Khyber Khorramabad football club with lion elements and a green flag with the Khyber logo on it",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
