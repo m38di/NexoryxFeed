@@ -5080,5 +5080,12 @@
         "prompt": "\n> Generate a creative text prompt based on an image of a hand, seemingly coated in dark, textured material resembling solidified tar or dark paint, holding a Canon EOS 450D camera.\u00a0 The overall feel should be surreal and slightly unsettling, hinting at a story of transformation or hidden identity.\u00a0 The prompt should be suitable for use with a high-quality image generation AI.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/17 22:28:35",
+        "image_url": "https://i.ibb.co/gZsyWR1m/982f21cdf822.png",
+        "prompt": "\n> Generate a creative text prompt based on an image of a hand, seemingly coated in dark, textured material resembling solidified tar or dark paint, holding a Canon EOS 450D camera.\u00a0 The overall feel should be surreal and slightly unsettling, hinting at a story of transformation or hidden identity.\u00a0 The prompt should be suitable for use with a high-quality image generation AI.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
