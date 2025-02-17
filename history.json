@@ -4961,5 +4961,12 @@
         "prompt": "\nA football poster for Khyber Khorramabad football club with lion elements and a green flag with the Khyber logo on it",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/17 18:32:35",
+        "image_url": "https://i.ibb.co/XZxMRnjV/28d2c9c938c6.png",
+        "prompt": "\nA football poster for Khyber Khorramabad football club with lion elements and a green flag with the Khyber logo on it",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
