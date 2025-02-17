@@ -4877,5 +4877,12 @@
         "prompt": "Make me a logo\n\nA red background, a dark and gloomy one\n\nDesign a filter breaker design in the middle",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/17 12:32:50",
+        "image_url": "https://i.ibb.co/JjktBDsr/0ed94c7fcb8c.jpg",
+        "prompt": "Make me a logo\n\nA red background, make it dark and gloomy\n\nDesign a VPN design in the middle",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
