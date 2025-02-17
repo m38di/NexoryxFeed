@@ -4891,5 +4891,12 @@
         "prompt": "Make me a logo\n\nA red background, make it dark and gloomy\n\nDesign a VPN design in the middle",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/17 12:34:44",
+        "image_url": "https://i.ibb.co/5W3JFSB7/7560d1198d5b.jpg",
+        "prompt": "logo vpn",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
