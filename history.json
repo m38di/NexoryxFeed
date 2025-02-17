@@ -4870,5 +4870,12 @@
         "prompt": "Give me a Harry Potter movie poster.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/17 12:32:41",
+        "image_url": "https://i.ibb.co/yMrNRcj/3d87b68bbec7.png",
+        "prompt": "Make me a logo\n\nA red background, a dark and gloomy one\n\nDesign a filter breaker design in the middle",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
