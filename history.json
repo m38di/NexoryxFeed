@@ -5073,5 +5073,12 @@
         "prompt": "Visual Identity:\n \u2022 Theme Colors: Blue & Purple (symbolizing intelligence, trust, and a calming, friendly presence).\n \u2022 Minimalist & Modern Design \u2013 Clean, simple, and visually appealing interface.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/17 22:21:16",
+        "image_url": "https://i.ibb.co/bgkCbr13/81677cf4bb15.png",
+        "prompt": "\n> Generate a creative text prompt based on an image of a hand, seemingly coated in dark, textured material resembling solidified tar or dark paint, holding a Canon EOS 450D camera.\u00a0 The overall feel should be surreal and slightly unsettling, hinting at a story of transformation or hidden identity.\u00a0 The prompt should be suitable for use with a high-quality image generation AI.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
