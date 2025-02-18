@@ -5143,5 +5143,12 @@
         "prompt": "Khajeh Mountain in sistan to 16:9 frame ratio",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/18 10:34:17",
+        "image_url": "https://i.ibb.co/9k54z7rx/faa02e6a3218.png",
+        "prompt": "Khajeh Mountain in real with Aspect Ratio: 16:9",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
