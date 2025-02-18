@@ -5311,5 +5311,12 @@
         "prompt": "\u2756 The image is a minimalist design featuring the text \"ADMIN 1PIKE STAR\" in a sans-serif, bold, three-dimensional font.  The font is metallic gray, giving it a slightly reflective appearance. The words are stacked vertically, with \"ADMIN\" above \"1PIKE STAR\".  A thin, dark gray, horizontally-oriented rectangle with a perforated or dotted line pattern runs behind and slightly below the text. The background is a light gray gradient, providing a subtle contrast to the darker text and framing.  The overall impression is one of simplicity and potentially a logo or title card.  The number \"1\" is incorporated into the \"PIKE\" making it visually part of the word itself.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/18 19:55:07",
+        "image_url": "https://i.ibb.co/Q0rp6XB/3313c8b69aea.png",
+        "prompt": "\u2756 The image is a minimalist design featuring the text \"ADMIN 1PIKE STAR\" in a sans-serif, bold, three-dimensional font.  The font is metallic gray, giving it a slightly reflective appearance. The words are stacked vertically, with \"ADMIN\" above \"1PIKE STAR\".  A thin, dark gray, horizontally-oriented rectangle with a perforated or dotted line pattern runs behind and slightly below the text. The background is a light gray gradient, providing a subtle contrast to the darker text and framing.  The overall impression is one of simplicity and potentially a logo or title card.  The number \"1\" is incorporated into the \"PIKE\" making it visually part of the word itself.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
