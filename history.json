@@ -5339,5 +5339,12 @@
         "prompt": "Create an image for me\n\nStarry night sky\n\nIt should be a dreamy type of image",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/18 22:21:50",
+        "image_url": "https://i.ibb.co/607qR4Nf/eef8ddcf364d.jpg",
+        "prompt": "Create an image for me\n\nStarry night sky\n\nIt should be a dreamy type of image",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
