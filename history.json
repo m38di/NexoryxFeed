@@ -5150,5 +5150,12 @@
         "prompt": "Khajeh Mountain in real with Aspect Ratio: 16:9",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/18 10:34:34",
+        "image_url": "https://i.ibb.co/PzxHhPkj/de62e53f8177.png",
+        "prompt": "Draw a picture\n\nEverything is dark and blurry\n\nA ninja looks at his sword in the darkness\n\nAll the tiffs used in the painting are between white and black\n\nIt seems to create an epic black and white image\n\nThere are dark gray spots in the four corners of the image\n\nIt is clear that the ninja is alone",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
