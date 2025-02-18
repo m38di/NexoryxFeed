@@ -5171,5 +5171,12 @@
         "prompt": "Khajeh Mountain in real with Aspect Ratio: 16:9",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/18 11:11:24",
+        "image_url": "https://i.ibb.co/pB39MRdW/133dc4418bdf.png",
+        "prompt": "A dark city with a dark blue sky\nThe weather is cloudy\nA terrifying lightning bolt is seen in the sky\nA blue electric dragon is also in the sky",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
