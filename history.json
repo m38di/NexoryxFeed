@@ -5164,5 +5164,12 @@
         "prompt": "Draw a picture\n\nEverything is dark and blurry\n\nA ninja looks at his sword in the darkness\n\nAll the tiffs used in the painting are between white and black\n\nIt seems to create an epic black and white image\n\nThere are dark gray spots in the four corners of the image\n\nIt is clear that the ninja is alone",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/18 10:36:41",
+        "image_url": "https://i.ibb.co/20Czdr0x/661b7398e805.png",
+        "prompt": "Khajeh Mountain in real with Aspect Ratio: 16:9",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
