@@ -5213,5 +5213,12 @@
         "prompt": "A dark field with a dark blue sky\nThe weather is cloudy\nA terrifying lightning bolt is seen in the sky\n\nThe view is from below\n\nIt seems like zombies have looted the whole place",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/18 14:15:29",
+        "image_url": "https://i.ibb.co/PvCXRNv5/395de810a040.jpg",
+        "prompt": "Make a logo type with the name GLIDER SHOP and black bac",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
