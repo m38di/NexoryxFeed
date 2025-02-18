@@ -5199,5 +5199,12 @@
         "prompt": "A dark city with a dark blue sky\nThe weather is cloudy\nA terrifying lightning bolt is seen in the sky\nA blue electric dragon is also in the sky\nThe view of the picture is from below",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/18 11:13:43",
+        "image_url": "https://i.ibb.co/CpqJjz1H/70c162bb845a.jpg",
+        "prompt": "A dark field with a dark blue sky\nThe weather is cloudy\nA terrifying lightning bolt is seen in the sky\n\nThe view is from below\n\nIt seems like zombies have looted the whole place",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
