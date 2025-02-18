@@ -5206,5 +5206,12 @@
         "prompt": "A dark field with a dark blue sky\nThe weather is cloudy\nA terrifying lightning bolt is seen in the sky\n\nThe view is from below\n\nIt seems like zombies have looted the whole place",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/18 11:14:38",
+        "image_url": "https://i.ibb.co/NnLDFfdz/e2e18f627546.png",
+        "prompt": "A dark field with a dark blue sky\nThe weather is cloudy\nA terrifying lightning bolt is seen in the sky\n\nThe view is from below\n\nIt seems like zombies have looted the whole place",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
