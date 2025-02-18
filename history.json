@@ -5220,5 +5220,12 @@
         "prompt": "Make a logo type with the name GLIDER SHOP and black bac",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/18 14:16:31",
+        "image_url": "https://i.ibb.co/DS8LNYZ/c3b17cd09c4b.jpg",
+        "prompt": "Make a logo type with the name GLIDER SHOP and black background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
