@@ -5640,5 +5640,12 @@
         "prompt": "\u06cc\u06a9 \u067e\u0648\u0633\u062a\u0631 \u0628\u0631\u0627\u06cc \u0631\u0648\u0632 \u062c\u0647\u0627\u0646\u06cc \u0632\u0628\u0627\u0646 \u0645\u0627\u062f\u0631\u06cc",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/19 19:09:22",
+        "image_url": "https://i.ibb.co/xqZGQKjF/585997673610.png",
+        "prompt": "Make a logo with AS that has a gaming style and use dark green and other green colors.  It has a dark green background that seems to be cracked.  It should have lighting from above.  Let the letters AS be beautiful.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
