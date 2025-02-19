@@ -5381,5 +5381,12 @@
         "prompt": "\u2756 The image is a circular logo on a black background.  The logo features the word \"SPICY\" in a stylized font.  The letters \"SPI\" are in white, while \"CY\" is also in white but slightly smaller.  A large, red, roughly painted \"I\" is positioned centrally, intersecting and partially obscuring the \"I\" in \"SPICY\". The \"I\" has a slightly textured, brushstroke-like appearance, giving it a bold and aggressive look. The overall style is edgy, likely aimed at a younger audience, and suggests themes of power or dominance.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/19 12:08:46",
+        "image_url": "https://i.ibb.co/TBRXLjPZ/214d803c8fec.jpg",
+        "prompt": "A dark field with a dark blue sky\nThe weather is cloudy\n\nThe view is from below\n\nIt seems like zombies have looted the whole place",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
