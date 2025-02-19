@@ -5360,5 +5360,12 @@
         "prompt": "\u2756 The image is a circular logo on a black background.  The logo features the word \"SPICY\" in a stylized font.  The letters \"SPI\" are in white, while \"CY\" is also in white but slightly smaller.  A large, red, roughly painted \"I\" is positioned centrally, intersecting and partially obscuring the \"I\" in \"SPICY\". The \"I\" has a slightly textured, brushstroke-like appearance, giving it a bold and aggressive look. The overall style is edgy, likely aimed at a younger audience, and suggests themes of power or dominance.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/19 08:18:43",
+        "image_url": "https://i.ibb.co/gF671z4b/4cacdbc6f731.png",
+        "prompt": "\u2756 The image is a circular logo on a black background.  The logo features the word \"SPICY\" in a stylized font.  The letters \"SPI\" are in white, while \"CY\" is also in white but slightly smaller.  A large, red, roughly painted \"I\" is positioned centrally, intersecting and partially obscuring the \"I\" in \"SPICY\". The \"I\" has a slightly textured, brushstroke-like appearance, giving it a bold and aggressive look. The overall style is edgy, likely aimed at a younger audience, and suggests themes of power or dominance.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
