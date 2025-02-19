@@ -5647,5 +5647,12 @@
         "prompt": "Make a logo with AS that has a gaming style and use dark green and other green colors.  It has a dark green background that seems to be cracked.  It should have lighting from above.  Let the letters AS be beautiful.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/19 19:26:08",
+        "image_url": "https://i.ibb.co/p6MyjJ8y/0dc3c7fa207c.png",
+        "prompt": "Close-up of \"EDIT DESIGN\" in bold, 3D typography:  \n\n* Typography: Large, angular, metallic-looking letters with a reflective finish.  \n* Color/Texture: Light gray with diagonal stripes; dark gray, metallic-textured background.  \n* Arrows: Four small gold arrows piercing the text, adding an edgy vibe.  \n* Background: Dark gray horizontal lines, suggesting a metallic surface.  \n* Impression: Modern, industrial design with strong visual impact, possibly a logo or graphic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
