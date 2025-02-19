@@ -5612,5 +5612,12 @@
         "prompt": "Logo Text \"Akio\" Text Style Frozen",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/19 17:15:50",
+        "image_url": "https://i.ibb.co/HLR5xfTS/88608ebd840b.png",
+        "prompt": "\u2756 The image shows a three-dimensional logo design rendered on a dark brown wood-grain surface.\u00a0\n\n\nThe logo is a stylized shopping cart with a speed line element attached to its side, suggesting fast delivery or online shopping. The cart and speed line are rendered in a light golden-brown, mimicking a wood texture.\u00a0Inside the cart, the words \"SHOP STORE\" are clearly visible, also in the same light-colored wood effect.\u00a0\n\n\nThe entire logo appears to be carved or embossed into the wood, creating a depth effect. The lighting in the image highlights the textures and three-dimensionality of the design, making it appear to have a physical presence. The contrast between the dark wood background and the lighter logo makes the design easily visible and eye-catching.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
