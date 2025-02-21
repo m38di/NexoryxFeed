@@ -6060,5 +6060,12 @@
         "prompt": "The image is a dark, stylized logo for a group or organization called \"Mistake Alliance\".  The central element is a metallic, shield-shaped emblem featuring the stylized letters \"GN\" in a bold, gothic font. The letters are overlaid with a textured, blood-red effect, giving the impression of depth and age.  \n\nFlanking the \"GN\" are two stylized demonic or dragon wings, also rendered in a dark, bloody red. The wings are sculpted and detailed, giving them a three-dimensional appearance. Above the \"MA\" is a smaller, metallic crown-like design, adding to the overall sense of power and possibly authority.\n\nThe background is predominantly black, with a textured surface that resembles dark feathers or a rough, stone-like material. The texture is subtly lit, suggesting depth and shadows.  A reddish-brown hue bleeds in from the sides, emphasizing the central logo.\n\nBelow the main emblem, the words \"NIGHT GERAD\" are written in a sans-serif font, clearly legible against the dark background.  Below that, in a smaller, more stylized font, appears another word or phrase, that is partially obscured and illegible in the provided image. The overall color scheme is dark, with the metallic gray of the logo contrasting sharply against the dark red of the wings and background accents. The overall style suggests a dark, edgy, and possibly rebellious theme.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/21 14:40:34",
+        "image_url": "https://i.ibb.co/PvqNmRT5/23f8d6bc29d5.png",
+        "prompt": "\u2756 The image is a stylized representation of the word \"Masterblack200\" in bold, white, uppercase lettering against a black background.  The letters are designed with a bold, almost gothic or heavy metal-inspired font, featuring sharp angles and pointed serifs.  What sets it apart is that the letters appear to be engulfed in flames; stylized flames extend from the edges of each letter, creating a fiery effect.  The flames are also white, providing a stark contrast to the black background and adding to the overall dramatic visual impact. The style is bold, graphic, and suggests energy or intensity.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
