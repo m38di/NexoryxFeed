@@ -6025,5 +6025,12 @@
         "prompt": "A breathtaking mountain landscape at sunset, featuring a towering rocky cliff bathed in golden light. The rugged surface of the cliff is detailed with cracks, layers of sediment, and patches of moss. In the distance, rolling hills and deep valleys fade into a soft atmospheric haze. Scattered pine and juniper trees grow along the rocky edges, their silhouettes glowing against the warm hues of the sky. The sun\u2019s rays pierce through wispy clouds, casting long shadows and illuminating the terrain with a dramatic, cinematic glow. Ultra-photorealistic, highly detailed textures, warm color palette, cinematic composition, National Geographic photography, 8K --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/21 07:10:44",
+        "image_url": "https://i.ibb.co/hFrrgcvc/a07485220dc5.png",
+        "prompt": "A breathtaking mountain landscape at sunset, featuring a towering rocky cliff bathed in golden light. The rugged surface of the cliff is detailed with cracks, layers of sediment, and patches of moss. In the distance, rolling hills and deep valleys fade into a soft atmospheric haze. Scattered pine and juniper trees grow along the rocky edges, their silhouettes glowing against the warm hues of the sky. The sun\u2019s rays pierce through wispy clouds, casting long shadows and illuminating the terrain with a dramatic, cinematic glow. Ultra-photorealistic, highly detailed textures, warm color palette, cinematic composition, National Geographic photography, 8K --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
