@@ -5934,5 +5934,12 @@
         "prompt": "A rugged Mercedes-Benz G-Class, parked dramatically on the edge of a steep canyon cliff, bathed in the warm golden hues of a breathtaking sunset. The vehicle\u2019s polished body reflects the vibrant orange and amber sky, with dust and dirt adding a touch of adventure. Below, a vast desert valley stretches into the horizon, partially shrouded in atmospheric haze. The dramatic lighting enhances the rugged textures of the terrain, creating a cinematic, hyperrealistic composition. Ultra-detailed, 8K, photorealistic, cinematic shot, golden hour lighting, National Geographic photography --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/02/21 06:44:09",
+        "image_url": "https://i.ibb.co/vvTDNFb4/da56eccf3736.jpg",
+        "prompt": "A rugged Mercedes-Benz G-Class, parked dramatically on the edge of a steep canyon cliff, bathed in the warm golden hues of a breathtaking sunset. The vehicle\u2019s polished body reflects the vibrant orange and amber sky, with dust and dirt adding a touch of adventure. Below, a vast desert valley stretches into the horizon, partially shrouded in atmospheric haze. The dramatic lighting enhances the rugged textures of the terrain, creating a cinematic, hyperrealistic composition. Ultra-detailed, 8K, photorealistic, cinematic shot, golden hour lighting, National Geographic photography --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Pro]"
     }
 ]
