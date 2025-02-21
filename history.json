@@ -5955,5 +5955,12 @@
         "prompt": "/imagine prompt: A stunning Mercedes-Benz G-Class parked boldly on the edge of a towering canyon cliff, illuminated by the golden glow of the setting sun. The vehicle\u2019s sleek, polished body reflects the warm hues of the sky, creating a mesmerizing contrast against the rugged, textured rock formations. The deep valley below is shrouded in a dreamy atmospheric haze, while scattered dust particles catch the light, adding to the cinematic drama. The sunlight flares beautifully through the clouds, casting long, dynamic shadows across the terrain. Ultra-detailed, hyperrealistic, golden hour, cinematic lighting, 8K, photorealistic, National Geographic photography --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/21 06:54:19",
+        "image_url": "https://i.ibb.co/RpL0PJHX/ac9ab1a8558e.png",
+        "prompt": "A Mercedes-Benz G-Class parked on the edge of a rugged cliff, illuminated by the warm golden hues of a setting sun. The vehicle\u2019s glossy metallic surface reflects the sunlight, creating realistic highlights and deep shadows. The rocky terrain is rough and textured, with visible cracks, dust, and scattered pebbles. The background features a vast canyon landscape stretching to the horizon, with layers of mist and atmospheric haze adding depth. The sky is filled with soft, scattered clouds, glowing in shades of orange and gold. Realistic lighting, high-detail textures, cinematic composition, ultra-photorealistic, National Geographic photography, 8K --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
