@@ -5948,5 +5948,12 @@
         "prompt": "A classic Mercedes-Benz G-Class parked on the edge of a towering cliff in the desert during a breathtaking sunset. The sky is painted with warm hues of gold, orange, and red, casting a dramatic glow over the scene. The sun\u2019s reflection on the polished body of the G-Class enhances its rugged yet luxurious design. The rocky terrain, with its deep red and brown tones, adds a sense of adventure and danger. Clouds illuminated by the fading sunlight create a cinematic atmosphere. The G-Class, equipped with off-road tires, stands as a symbol of power and exploration, embracing the wild landscape.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/21 06:49:57",
+        "image_url": "https://i.ibb.co/Kx0qWbgH/be5b1106b715.png",
+        "prompt": "/imagine prompt: A stunning Mercedes-Benz G-Class parked boldly on the edge of a towering canyon cliff, illuminated by the golden glow of the setting sun. The vehicle\u2019s sleek, polished body reflects the warm hues of the sky, creating a mesmerizing contrast against the rugged, textured rock formations. The deep valley below is shrouded in a dreamy atmospheric haze, while scattered dust particles catch the light, adding to the cinematic drama. The sunlight flares beautifully through the clouds, casting long, dynamic shadows across the terrain. Ultra-detailed, hyperrealistic, golden hour, cinematic lighting, 8K, photorealistic, National Geographic photography --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
