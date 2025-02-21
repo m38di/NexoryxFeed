@@ -6067,5 +6067,12 @@
         "prompt": "\u2756 The image is a stylized representation of the word \"Masterblack200\" in bold, white, uppercase lettering against a black background.  The letters are designed with a bold, almost gothic or heavy metal-inspired font, featuring sharp angles and pointed serifs.  What sets it apart is that the letters appear to be engulfed in flames; stylized flames extend from the edges of each letter, creating a fiery effect.  The flames are also white, providing a stark contrast to the black background and adding to the overall dramatic visual impact. The style is bold, graphic, and suggests energy or intensity.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/21 14:44:23",
+        "image_url": "https://i.ibb.co/bggmg6QS/fc184403c058.png",
+        "prompt": "\u2756 The image is a stylized representation of the word \" Masterblack200 \" in bold, white, uppercase lettering against a black background.  The letters are designed with a bold, almost gothic or heavy metal-inspired font, featuring sharp angles and pointed serifs.  What sets it apart is that the letters appear to be engulfed in flames; stylized flames extend from the edges of each letter, creating a fiery effect.  The flames are also white, providing a stark contrast to the black background and adding to the overall dramatic visual impact. The style is bold, graphic, and suggests energy or intensity.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
