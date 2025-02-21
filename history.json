@@ -6011,5 +6011,12 @@
         "prompt": "A Mercedes-Benz G-Class parked on the edge of a rugged cliff, illuminated by the warm golden hues of a setting sun. The vehicle\u2019s glossy metallic surface reflects the sunlight, creating realistic highlights and deep shadows. The rocky terrain is rough and textured, with visible cracks, dust, and scattered pebbles. The background features a vast canyon landscape stretching to the horizon, with layers of mist and atmospheric haze adding depth. The sky is filled with soft, scattered clouds, glowing in shades of orange and gold. Realistic lighting, high-detail textures, cinematic composition, ultra-photorealistic, National Geographic photography, 8K --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/21 07:07:28",
+        "image_url": "https://i.ibb.co/8n0hrgCd/040bd84b7d09.png",
+        "prompt": "A breathtaking mountain landscape at sunset, featuring a towering rocky cliff bathed in golden light. The rugged surface of the cliff is detailed with cracks, layers of sediment, and patches of moss. In the distance, rolling hills and deep valleys fade into a soft atmospheric haze. Scattered pine and juniper trees grow along the rocky edges, their silhouettes glowing against the warm hues of the sky. The sun\u2019s rays pierce through wispy clouds, casting long shadows and illuminating the terrain with a dramatic, cinematic glow. Ultra-photorealistic, highly detailed textures, warm color palette, cinematic composition, National Geographic photography, 8K --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
