@@ -5920,5 +5920,12 @@
         "prompt": "The image shows the word \"DEROGER\" rendered in a stylized 3D font.  The letters are large, bold, and have a metallic or plastic appearance with a glossy, reflective surface.  There's a neon-like effect, with a purplish-pink glow outlining the letters, giving them a vibrant, almost electric look. The letters themselves are dark purple-gray, creating contrast with the brighter edges.\n\nThe background is blurred but appears to be a textured, dark surface, possibly fabric or some type of material with a furry or shaggy texture in shades of blue-gray and green.  Parts of what looks like metallic or leather straps, and possibly wires or cables, are visible in the background, slightly out of focus, suggesting a possible industrial or technological setting.  The blurred background acts as a contrast to the sharp, defined lettering, making the word \"DEROGER\" the clear focal point of the image.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/21 06:41:37",
+        "image_url": "https://i.ibb.co/1fWDHMFX/494f50ec741f.png",
+        "prompt": "A rugged Mercedes-Benz G-Class, parked dramatically on the edge of a steep canyon cliff, bathed in the warm golden hues of a breathtaking sunset. The vehicle\u2019s polished body reflects the vibrant orange and amber sky, with dust and dirt adding a touch of adventure. Below, a vast desert valley stretches into the horizon, partially shrouded in atmospheric haze. The dramatic lighting enhances the rugged textures of the terrain, creating a cinematic, hyperrealistic composition. Ultra-detailed, 8K, photorealistic, cinematic shot, golden hour lighting, National Geographic photography --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
