@@ -6186,5 +6186,12 @@
         "prompt": "A photo of Iran's lion and sun flag",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/21 22:07:11",
+        "image_url": "https://i.ibb.co/vvvz1zvq/4401e29f1176.png",
+        "prompt": "Pink Spider-Man next to Ronaldo in a Barcelona jersey",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
