@@ -6179,5 +6179,12 @@
         "prompt": "a Cat eating mouse",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/21 22:00:52",
+        "image_url": "https://i.ibb.co/CcfHVc0/680b42ea4d7a.png",
+        "prompt": "A photo of Iran's lion and sun flag",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
