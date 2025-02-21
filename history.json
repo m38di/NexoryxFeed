@@ -6207,5 +6207,12 @@
         "prompt": "**\u201cA futuristic and modern depiction of artificial intelligence, featuring a blend of digital elements, data processing, and an advanced educational environment. The image should include elements such as intelligent robots, data analysis, and innovative user interfaces. The setting should evoke a sense of learning, advanced technology, and futurism. The color scheme should combine neon blue, purple, and black to enhance the technological and digital feel.\u201d**",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/21 23:06:02",
+        "image_url": "https://i.ibb.co/gZmDR3yd/223affd3f58e.png",
+        "prompt": "**\u201cA futuristic and modern depiction of artificial intelligence, featuring a blend of digital elements, data processing, and an advanced educational environment. The image should include elements such as intelligent robots, data analysis, and innovative user interfaces. The setting should evoke a sense of learning, advanced technology, and futurism. The color scheme should combine neon blue, purple, and black to enhance the technological and digital feel.\u201d**",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
