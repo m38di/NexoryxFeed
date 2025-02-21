@@ -5969,5 +5969,12 @@
         "prompt": "A Mercedes-Benz G-Class, rugged and powerful, parked on the edge of a dramatic rocky cliff, bathed in the golden glow of a breathtaking sunset. The metallic body reflects the deep oranges and yellows of the sky, with sun rays piercing through scattered clouds, creating a dreamy cinematic effect. The terrain is rough, with detailed rock textures, cracks, and dust illuminated by the warm light. A vast canyon stretches into the background, filled with misty layers and atmospheric haze. The scene has an artistic, painterly quality with hyperrealistic textures, rich contrasts, and deep golden shadows. Cinematic lighting, ultra-detailed, warm color palette, National Geographic photography, epic adventure mood, 8K, photorealistic --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/21 06:54:51",
+        "image_url": "https://i.ibb.co/MzCKW7D/e8ff542726c4.png",
+        "prompt": "A Mercedes-Benz G-Class parked on the edge of a rugged cliff, illuminated by the warm golden hues of a setting sun. The vehicle\u2019s glossy metallic surface reflects the sunlight, creating realistic highlights and deep shadows. The rocky terrain is rough and textured, with visible cracks, dust, and scattered pebbles. The background features a vast canyon landscape stretching to the horizon, with layers of mist and atmospheric haze adding depth. The sky is filled with soft, scattered clouds, glowing in shades of orange and gold. Realistic lighting, high-detail textures, cinematic composition, ultra-photorealistic, National Geographic photography, 8K --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
