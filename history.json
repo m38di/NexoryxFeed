@@ -5941,5 +5941,12 @@
         "prompt": "A rugged Mercedes-Benz G-Class, parked dramatically on the edge of a steep canyon cliff, bathed in the warm golden hues of a breathtaking sunset. The vehicle\u2019s polished body reflects the vibrant orange and amber sky, with dust and dirt adding a touch of adventure. Below, a vast desert valley stretches into the horizon, partially shrouded in atmospheric haze. The dramatic lighting enhances the rugged textures of the terrain, creating a cinematic, hyperrealistic composition. Ultra-detailed, 8K, photorealistic, cinematic shot, golden hour lighting, National Geographic photography --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/21 06:45:15",
+        "image_url": "https://i.ibb.co/Xkz8P1RF/77fa8e4cf78e.jpg",
+        "prompt": "A classic Mercedes-Benz G-Class parked on the edge of a towering cliff in the desert during a breathtaking sunset. The sky is painted with warm hues of gold, orange, and red, casting a dramatic glow over the scene. The sun\u2019s reflection on the polished body of the G-Class enhances its rugged yet luxurious design. The rocky terrain, with its deep red and brown tones, adds a sense of adventure and danger. Clouds illuminated by the fading sunlight create a cinematic atmosphere. The G-Class, equipped with off-road tires, stands as a symbol of power and exploration, embracing the wild landscape.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
