@@ -5990,5 +5990,12 @@
         "prompt": "A Mercedes-Benz G-Class parked on the edge of a rugged cliff, illuminated by the warm golden hues of a setting sun. The vehicle\u2019s glossy metallic surface reflects the sunlight, creating realistic highlights and deep shadows. The rocky terrain is rough and textured, with visible cracks, dust, and scattered pebbles. The background features a vast canyon landscape stretching to the horizon, with layers of mist and atmospheric haze adding depth. The sky is filled with soft, scattered clouds, glowing in shades of orange and gold. Realistic lighting, high-detail textures, cinematic composition, ultra-photorealistic, National Geographic photography, 8K --ar 16:9 --v 6.0",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/21 07:02:40",
+        "image_url": "https://i.ibb.co/Fbb658bL/c8a24be32141.png",
+        "prompt": "A Mercedes-Benz G-Class parked on the edge of a rugged cliff, illuminated by the warm golden hues of a setting sun. The vehicle\u2019s glossy metallic surface reflects the sunlight, creating realistic highlights and deep shadows. The rocky terrain is rough and textured, with visible cracks, dust, and scattered pebbles. The background features a vast canyon landscape stretching to the horizon, with layers of mist and atmospheric haze adding depth. The sky is filled with soft, scattered clouds, glowing in shades of orange and gold. Realistic lighting, high-detail textures, cinematic composition, ultra-photorealistic, National Geographic photography, 8K --ar 16:9 --v 6.0",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
