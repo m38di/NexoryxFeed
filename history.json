@@ -6515,5 +6515,12 @@
         "prompt": "\nA man stands very close to and directly facing the camera, with an intense and expressive look on his face. Surrounding him is a lively collection of animals, including domesticated pets like cats, dogs, and rabbits, as well as exotic creatures like snakes and various colorful birds perched or slithering around. The background is a serene, lush green field filled with vibrant grass, scattered wildflowers, and a clear natural atmosphere that enhances the harmony of the scene",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/22 19:09:31",
+        "image_url": "https://i.ibb.co/gMBckJMt/454a12246875.png",
+        "prompt": "A man stands close to the camera, making direct eye contact with a calm and confident expression. Surrounding him are various animals, including domestic pets like cats, dogs, and chickens, alongside more exotic creatures such as snakes coiled nearby and vibrant birds perched around him. The setting is an open grassy field, with a backdrop of lush greenery and a few scattered wildflowers, creating a natural and tranquil atmosphere",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
