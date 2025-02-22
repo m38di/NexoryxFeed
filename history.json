@@ -6508,5 +6508,12 @@
         "prompt": "Create a close-up image of a man sitting directly in front of the camera, with a warm and friendly expression. Surround him with a variety of domestic animals, including dogs, cats, and rabbits, along with snakes and colorful birds. The setting should feature a lush green lawn in the background, filled with vibrant plants and flowers. The scene should convey a sense of connection between the man and the animals, showcasing the harmony and beauty of nature. Pay attention to the details of the animals' expressions and the man's interaction with them, emphasizing a joyful and peaceful atmosphere.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/22 19:07:35",
+        "image_url": "https://i.ibb.co/gLqZWGBt/373ee0d1370b.png",
+        "prompt": "\nA man stands very close to and directly facing the camera, with an intense and expressive look on his face. Surrounding him is a lively collection of animals, including domesticated pets like cats, dogs, and rabbits, as well as exotic creatures like snakes and various colorful birds perched or slithering around. The background is a serene, lush green field filled with vibrant grass, scattered wildflowers, and a clear natural atmosphere that enhances the harmony of the scene",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
