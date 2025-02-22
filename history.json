@@ -6501,5 +6501,12 @@
         "prompt": "Design a minimalist black-and-white logo that integrates the letter 'G' with the head of a mountain goat. Ensure the design is clean, abstract, and balanced. Focus on simplicity while capturing the elegance and strength of the goat's features, especially the curved horns, seamlessly combined with the 'G' shape.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/22 18:27:59",
+        "image_url": "https://i.ibb.co/6Jp1Xcgm/1febe02d33e2.png",
+        "prompt": "Create a close-up image of a man sitting directly in front of the camera, with a warm and friendly expression. Surround him with a variety of domestic animals, including dogs, cats, and rabbits, along with snakes and colorful birds. The setting should feature a lush green lawn in the background, filled with vibrant plants and flowers. The scene should convey a sense of connection between the man and the animals, showcasing the harmony and beauty of nature. Pay attention to the details of the animals' expressions and the man's interaction with them, emphasizing a joyful and peaceful atmosphere.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
