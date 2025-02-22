@@ -6473,5 +6473,12 @@
         "prompt": "[create a minimalist, 3D, and front-facing logo, which will feature an abstract, geometric cat element\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse Data and network symbols around logo.]",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/22 16:22:12",
+        "image_url": "https://i.ibb.co/0Nbw83S/1e727b18fc1b.png",
+        "prompt": "Create a gaming logo with the name iTexYT",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
