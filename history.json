@@ -6564,5 +6564,12 @@
         "prompt": "Imagine a table that holds dark secrets. Atop it sits a broken picture frame, shards of glass scattered like fallen stars, each piece reflecting a fragment of a lost moment. Drops of blood stain the surface, creating a stark contrast against the wood, while a crumpled cigarette pack lies nearby, hinting at a battle of vices. A wedding ring, once a symbol of love, now rests forgotten among the chaos. What story lies behind this chilling scene, and what emotions linger in the air as the pieces come together?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/23 00:54:41",
+        "image_url": "https://i.ibb.co/wr6pQsHr/484d4999b087.png",
+        "prompt": "Picture a table that tells a haunting story. At its center lies a broken picture frame, shards of glass scattered around it like fragments of a shattered memory. A small pool of blood stains the surface of the table, hinting at a recent turmoil. Nearby, a cigarette smolders in an ashtray, its smoke curling upwards, while a wedding ring rests abandoned next to the frame. What events led to this unsettling scene, and what emotions surround the remnants of love and loss captured on the table?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
