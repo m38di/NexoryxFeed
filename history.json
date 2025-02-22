@@ -6494,5 +6494,12 @@
         "prompt": "Create a minimalistic logo featuring the letter \"G\" combined with a mountain goat's head, in black and white.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/22 16:35:19",
+        "image_url": "https://i.ibb.co/HpD89tH0/5e7a3aaea7b4.png",
+        "prompt": "Design a minimalist black-and-white logo that integrates the letter 'G' with the head of a mountain goat. Ensure the design is clean, abstract, and balanced. Focus on simplicity while capturing the elegance and strength of the goat's features, especially the curved horns, seamlessly combined with the 'G' shape.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
