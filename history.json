@@ -6347,5 +6347,12 @@
         "prompt": "[create a minimalist, 3D, and front-facing logo for DadeHub, which will feature an abstract, geometric cat element beside modern typography (DadeHub).\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse Nature elements like flower leaf around combined by technology lines symbols as leaf veins.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/22 14:14:21",
+        "image_url": "https://i.ibb.co/0RwgRrKw/f78e3c7b3ce3.jpg",
+        "prompt": "[create a minimalist, 3D, and front-facing logo for DadeHub, which will feature an abstract, geometric cat element beside modern typography (DadeHub).\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse Nature elements like flower leaf around combined by technology lines symbols as leaf veins.]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
