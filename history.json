@@ -6305,5 +6305,12 @@
         "prompt": "[create a minimalist, 3D, and front-facing logo for DadeHub, which will feature an abstract, geometric cat element beside modern typography (DadeHub).\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse Nature elements like flower leaf combined by technology lines as leaf veins.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/22 13:49:47",
+        "image_url": "https://i.ibb.co/PZX6hjdc/df1891e3a8a9.jpg",
+        "prompt": "Create a gaming logo with the name J Jasoon",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
