@@ -6550,5 +6550,12 @@
         "prompt": "\u2756 The image shows a stylized 3D rendering of the letters \"dragon\" in a bold, graffiti-like font.\u00a0\n\n\nHere's a breakdown of the visual details:\n\n* Font and Style: The letters are thick, almost chunky, with a slightly rough, textured surface giving the impression of carved stone or metal.\u00a0 The style evokes a street art or gaming aesthetic.\u00a0 The \"Dra\" and \"gon\" are intertwined and interconnected.\n\n* Color and Lighting: The letters are predominantly a metallic red/silver.\u00a0 They are illuminated with vibrant, glowing red and red accents, which creates a dynamic and energetic feel.\u00a0 The lighting appears to emanate from within and around the letters, suggesting an internal light source or a neon effect.\n\n* Background: The background is a dark, blurry, abstract wash of deep blues and purples, mimicking a nebula or cosmic scene.\u00a0 There are streaks and swirls of lighter pink and purple, giving the impression of energy or movement.\u00a0 Tiny specks of light are scattered throughout the background, enhancing the ethereal atmosphere.\n\n* Overall Impression: The overall impression is one of vibrant energy, futuristic flair, and a sense of motion.\u00a0 The combination of the bold lettering, neon lighting, and cosmic background creates a visually striking and eye-catching image, suitable for branding, gaming, or other visually-driven applications.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/23 00:43:18",
+        "image_url": "https://i.ibb.co/5xcLDcFW/03cb6b0d8eae.png",
+        "prompt": "Picture a table that tells a haunting story. At its center lies a broken picture frame, shards of glass scattered around it like fragments of a shattered memory. A small pool of blood stains the surface of the table, hinting at a recent turmoil. Nearby, a cigarette smolders in an ashtray, its smoke curling upwards, while a wedding ring rests abandoned next to the frame. What events led to this unsettling scene, and what emotions surround the remnants of love and loss captured on the table?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
