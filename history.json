@@ -6487,5 +6487,12 @@
         "prompt": "[create a minimalist, 3D, and front-facing logo, which will feature an abstract, geometric cat element\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse Data and network symbols around logo.]",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/22 16:28:11",
+        "image_url": "https://i.ibb.co/qM4HVckX/dd4763c2030f.png",
+        "prompt": "Create a minimalistic logo featuring the letter \"G\" combined with a mountain goat's head, in black and white.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
