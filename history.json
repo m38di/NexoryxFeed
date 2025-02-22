@@ -6571,5 +6571,12 @@
         "prompt": "Picture a table that tells a haunting story. At its center lies a broken picture frame, shards of glass scattered around it like fragments of a shattered memory. A small pool of blood stains the surface of the table, hinting at a recent turmoil. Nearby, a cigarette smolders in an ashtray, its smoke curling upwards, while a wedding ring rests abandoned next to the frame. What events led to this unsettling scene, and what emotions surround the remnants of love and loss captured on the table?",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/23 01:17:58",
+        "image_url": "https://i.ibb.co/G3k3T5Tv/b43b35dc637a.png",
+        "prompt": "Picture a table that tells a haunting story. At its center lies a broken picture frame, shards of glass scattered around it like fragments of a shattered memory. A small pool of blood stains the surface of the table, hinting at a recent turmoil. Nearby, a cigarette smolders in an ashtray, its smoke curling upwards, while a wedding ring rests abandoned next to the frame. What events led to this unsettling scene, and what emotions surround the remnants of love and loss captured on the table?",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
