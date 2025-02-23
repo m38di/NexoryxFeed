@@ -6872,5 +6872,12 @@
         "prompt": "[Create a 3D, front-facing logo featuring an abstract, white cat with glasses, sitting with its tail wrapped around its legs. The cat should appear as though it is organizing or interacting with various data logos placed around it. Surround the cat with a network of data and connectivity lines to emphasize a sense of technology and modernity. The color palette should evoke a futuristic tech vibe, with a good sense of depth and soft lighting to create a harmonious and visually balanced background.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/23 14:09:24",
+        "image_url": "https://i.ibb.co/PG6DXvTj/16b913ef96f4.png",
+        "prompt": "[Create a 3D, front-facing logo featuring an abstract, white cat with glasses, sitting with its tail wrapped around its legs. The cat should appear as though it is organizing or interacting with various data logos placed around it. Surround the cat with a network of data and connectivity lines to emphasize a sense of technology and modernity. The color palette should evoke a futuristic tech vibe, with a good sense of depth and soft lighting to create a harmonious and visually balanced background.]",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
