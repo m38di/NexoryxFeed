@@ -6774,5 +6774,12 @@
         "prompt": "[create a minimalist, 3D, and front-facing logo for DadeHub, which will feature an abstract, white cat with big glasses While sitting beside modern typography (DadeHub).\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse geometric symbols and Data repository symbols around logo.]",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/23 13:34:14",
+        "image_url": "https://i.ibb.co/GQbMd176/e344706ade18.jpg",
+        "prompt": "[create a minimalist, 3D, and front-facing logo for me, which will feature an abstract, white cat with glasses While sitting beside modern typography (DadeHub).\n\nThe logo must have modern technology sense color, with a sense of depth and soft light source.\n\nUse Data repository and connectivity symbols around cat.]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
