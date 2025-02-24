@@ -180,5 +180,12 @@
         "prompt": "\u2756 The image shows the Persian word \"Deper\" (d\u0101nesh), meaning \"knowledge,\" rendered in a three-dimensional, stylized font.\u00a0 The letters appear to be made of a metallic substance, possibly bronze or copper, with a heavily textured surface resembling rusted metal.\u00a0 The texture shows scratches and imperfections, giving it a worn, aged look.\u00a0 The letters are illuminated from within, creating a warm, orange-red glow around their edges, which contrasts with the darker, almost black background.\n\nThe background itself is dark and smoky, with small sparks or embers scattered throughout, suggesting a fiery or intense atmosphere. The sparks vary in size and brightness, adding to the dynamic visual effect.\u00a0 The overall impression is one of power, intensity, and possibly even danger, given the fiery backdrop and the weighty, metallic appearance of the word. The contrast between the warm glow of the letters and the dark, smoky background further emphasizes the word \"Deper,\" drawing the viewer's eye directly to it.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/24 11:31:13",
+        "image_url": "https://i.ibb.co/Nv5BfCr/51e817c24c0d.jpg",
+        "prompt": "\u2756 The image shows the Persian word \"DEPER\" (d\u0101nesh), meaning \"knowledge,\" rendered in a three-dimensional, stylized font.\u00a0 The letters appear to be made of a metallic substance, possibly bronze or copper, with a heavily textured surface resembling rusted metal.\u00a0 The texture shows scratches and imperfections, giving it a worn, aged look.\u00a0 The letters are illuminated from within, creating a warm, orange-red glow around their edges, which contrasts with the darker, almost black background.\n\nThe background itself is dark and smoky, with small sparks or embers scattered throughout, suggesting a fiery or intense atmosphere. The sparks vary in size and brightness, adding to the dynamic visual effect.\u00a0 The overall impression is one of power, intensity, and possibly even danger, given the fiery backdrop and the weighty, metallic appearance of the word. The contrast between the warm glow of the letters and the dark, smoky background further emphasizes the word \"DEPER,\" drawing the viewer's eye directly to it.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
