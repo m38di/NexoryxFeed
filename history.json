@@ -425,5 +425,12 @@
         "prompt": "Close-up of \"stray dogs\" with bold 3D typography:  \n\n  * Typography: large, straight and metal letters with reflective coating.  \n  * Color/Texture: Light gray with diagonal stripes.   Dark gray background with metallic texture.  \n  * Arrows: four small golden arrows that pierce the text and give it a special mood.  \n  * Background: dark gray horizontal lines indicating the metal surface.  \n  * Impression: Modern, industrial design with a strong visual impact, possibly a logo or graphic.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/24 22:00:26",
+        "image_url": "https://i.ibb.co/WW94yYbV/93b8362e12be.png",
+        "prompt": "Close-up of \"stray dogs\" with bold 3D typography:  \n\n  * Typography: large, straight and metal letters with reflective coating.  \n  * Color/Texture: Light gray with diagonal stripes.   Dark gray background with metallic texture.  \n  * Arrows: four small golden arrows that pierce the text and give it a special mood.  \n  * Background: dark gray horizontal lines indicating the metal surface.  \n  * Impression: Modern, industrial design with a strong visual impact, possibly a logo or graphic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
