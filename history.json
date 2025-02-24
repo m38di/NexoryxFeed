@@ -7110,5 +7110,12 @@
         "prompt": "Two boys with the Quran in their hands",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/24 10:07:17",
+        "image_url": "https://i.ibb.co/5gxs9mhM/876b2ca44fec.png",
+        "prompt": "Two 15-year-old boys holding the Quran in their hands",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
