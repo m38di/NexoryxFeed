@@ -299,5 +299,12 @@
         "prompt": "Design a logo for me for a product sales site I want a logo called ALORI for this name and this type of application design a logo specific like Amazon or Digicel",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/24 18:23:31",
+        "image_url": "https://i.ibb.co/XxV2zHrx/152e1a850fbe.png",
+        "prompt": "Design a logo for me for a product sales site I want a logo called ALORI for this name and this type of application design a logo specific like Amazon or Digicel",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
