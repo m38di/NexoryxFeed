@@ -124,5 +124,12 @@
         "prompt": "\u2756 The image shows a stylized letter \"SB\" in light blue, rendered in a cartoon style.      \"SB\" appears to be made of a viscous liquid, like paint or slime, with jagged edges and droplets dripping downward.     The drops are highlighted with a lighter, almost white inner rim, creating a three-dimensional effect.\u00a0\n   It looks like a thunderbolt in the background\n\n    \u25cf Model: Jami Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/24 11:21:47",
+        "image_url": "https://i.ibb.co/mF274S98/9d3e3ad51276.png",
+        "prompt": "\u2756 The image shows the Persian word \"SAGHEB\" (d\u0101nesh), meaning \"knowledge,\" rendered in a three-dimensional, stylized font.  The letters appear to be made of a metallic substance, possibly bronze or copper, with a heavily textured surface resembling rusted metal.  The texture shows scratches and imperfections, giving it a worn, aged look.  The letters are illuminated from within, creating a warm, orange-red glow around their edges, which contrasts with the darker, almost black background.\n\nThe background itself is dark and smoky, with small sparks or embers scattered throughout, suggesting a fiery or intense atmosphere. The sparks vary in size and brightness, adding to the dynamic visual effect.  The overall impression is one of power, intensity, and possibly even danger, given the fiery backdrop and the weighty, metallic appearance of the word. The contrast between the warm glow of the letters and the dark, smoky background further emphasizes the word \"SAGHEB,\" drawing the viewer's eye directly to it.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
