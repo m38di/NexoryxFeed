@@ -362,5 +362,12 @@
         "prompt": "\u2756 The image shows a logo for \"Donkey group\" rendered in a three-dimensional, textured style.  The logo appears to be made of a light gray, rough-textured material, possibly concrete or stone, giving it a rugged and somewhat weathered look.  The letters are deeply embossed and have a slightly irregular, hand-carved feel rather than being perfectly smooth.\n\nThe logo design itself is not a simple arrangement of letters.  Instead, the letters are integrated within a larger, stylized shape that resembles a rectangular frame with additional geometric elements projecting outward, contributing to the logo's three-dimensionality and overall blocky style. This design gives the impression of solidity and strength.\n\nThe background is a dark gray, providing a high contrast that makes the light gray logo stand out prominently. The lighting is subtly directional, causing slight shadowing to accentuate the texture and depth of the three-dimensional lettering.  The overall style is industrial and modern, conveying a sense of weight and seriousness.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/24 19:50:43",
+        "image_url": "https://i.ibb.co/Kz9dGbzn/f17c0df189eb.png",
+        "prompt": "\u2756 The image shows a logo for \"Donkey group\" rendered in a three-dimensional, textured style.  The logo appears to be made of a light gray, rough-textured material, possibly concrete or stone, giving it a rugged and somewhat weathered look.  The letters are deeply embossed and have a slightly irregular, hand-carved feel rather than being perfectly smooth.\n\nThe logo design itself is not a simple arrangement of letters.  Instead, the letters are integrated within a larger, stylized shape that resembles a rectangular frame with additional geometric elements projecting outward, contributing to the logo's three-dimensionality and overall blocky style. This design gives the impression of solidity and strength.\n\nThe background is a dark gray, providing a high contrast that makes the light gray logo stand out prominently. The lighting is subtly directional, causing slight shadowing to accentuate the texture and depth of the three-dimensional lettering.  The overall style is industrial and modern, conveying a sense of weight and seriousness.\n\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
