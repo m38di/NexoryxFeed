@@ -145,5 +145,12 @@
         "prompt": "\u2756 The image shows a stylized letter \"JA\" in light blue, rendered in a cartoon style.\u00a0\u00a0\u00a0\u00a0\u00a0 \"JA\" appears to be made of a viscous liquid, like paint or slime, with jagged edges and droplets dripping downward.\u00a0\u00a0\u00a0\u00a0 The drops are highlighted with a lighter, almost white inner rim, creating a three-dimensional effect.\u00a0\n\u00a0\u00a0 It looks like a thunderbolt in the background\n\n\u00a0\u00a0\u00a0 \u25cf Model: Jami Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/24 11:25:57",
+        "image_url": "https://i.ibb.co/j9tzX3DP/c0b9c42cd3ec.jpg",
+        "prompt": "\u2756 The image shows a stylized letter \"JA\" in light blue, rendered in a cartoon style.\u00a0\u00a0\u00a0\u00a0\u00a0 \"JA\" appears to be made of a viscous liquid, like paint or slime, with jagged edges and droplets dripping downward.\u00a0\u00a0\u00a0\u00a0 The drops are highlighted with a lighter, almost white inner rim, creating a three-dimensional effect.\u00a0\n\u00a0\u00a0 It looks like a thunderbolt in the background\n\n\u00a0\u00a0\u00a0 \u25cf Model: Jami Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
