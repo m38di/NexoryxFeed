@@ -593,5 +593,12 @@
         "prompt": "A gaming logo with shadowed letters and a thick gold gaming style LOGO",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/25 00:21:36",
+        "image_url": "https://i.ibb.co/XrGHJz9v/bc08df75c4d2.jpg",
+        "prompt": "A  gaming logo with shadowed letters and a thick gold gaming style  With a gaming background. LOGO",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
