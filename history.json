@@ -369,5 +369,12 @@
         "prompt": "\u2756 The image shows a logo for \"Donkey group\" rendered in a three-dimensional, textured style.  The logo appears to be made of a light gray, rough-textured material, possibly concrete or stone, giving it a rugged and somewhat weathered look.  The letters are deeply embossed and have a slightly irregular, hand-carved feel rather than being perfectly smooth.\n\nThe logo design itself is not a simple arrangement of letters.  Instead, the letters are integrated within a larger, stylized shape that resembles a rectangular frame with additional geometric elements projecting outward, contributing to the logo's three-dimensionality and overall blocky style. This design gives the impression of solidity and strength.\n\nThe background is a dark gray, providing a high contrast that makes the light gray logo stand out prominently. The lighting is subtly directional, causing slight shadowing to accentuate the texture and depth of the three-dimensional lettering.  The overall style is industrial and modern, conveying a sense of weight and seriousness.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/24 20:21:21",
+        "image_url": "https://i.ibb.co/TxVGbcd4/64c87fd1cf01.png",
+        "prompt": "\u2756 The image shows a logo.\u00a0\n\n\nThe logo is a white stylized letter \"SB\" with a horizontal line intersecting it, creating the appearance of a \"S\" within the \"B.\"  The \"B\" is slightly curved. The entire logo is set against a solid black circular background.\u00a0\n\n\nThe background surrounding the black circle is a gradient of dark gray tones, darkening towards the top. The overall aesthetic is minimalist and modern.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
