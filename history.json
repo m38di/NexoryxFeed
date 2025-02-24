@@ -558,5 +558,12 @@
         "prompt": "High quality art of Two goldfishes spinning around, red and gold fishes, persian purple background, minimalistic background, flat objects on background, miniatures, persian miniatures, old miniatures, pale colors. --ar 9:20",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/24 23:52:20",
+        "image_url": "https://i.ibb.co/b5KX33FF/2de4d1b7cde9.jpg",
+        "prompt": "\u067e\u0631\u0686\u0645 \u0647\u062e\u0627\u0645\u0646\u0634\u06cc\u0627\u0646",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
