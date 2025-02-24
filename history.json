@@ -285,5 +285,12 @@
         "prompt": "\u2756 The image shows a logo.\u00a0\n\n\nThe logo is a white stylized letter \"RG\" with a horizontal line intersecting it, creating the appearance of a \"R\" within the \"G.\"  The \"G\" is slightly curved. The entire logo is set against a solid black circular background.\u00a0\n\n\nThe background surrounding the black circle is a gradient of dark gray tones, darkening towards the top. The overall aesthetic is minimalist and modern.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/24 18:16:13",
+        "image_url": "https://i.ibb.co/LzGWqrxv/ec4e1a51000e.png",
+        "prompt": "Design a logo for me for a product sales site I want a logo called ALORI for this name and this type of application design a logo specific like Amazon or Digicel",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
