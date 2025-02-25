@@ -1230,5 +1230,12 @@
         "prompt": "\u2756 The image shows the design of a group logo called Chatroom. The logo is depicted in metallic gray and metallic with a warm, bright yellow design.\n\nThe words Chatroom are highlighted and slightly averaged in the middle of the background. The letters are bold and untitled.\u00a0\n\nBelow the English text at the bottom, very very small and tiny size, a small Sicilian relief, the text \"Editor: @BAD_HOSSEIN\", probably the social media handle.\n\nThe background is a textured, dark brownish gray surface, probably representing a wall or other similar material. The overall effect creates a modern and slightly luxurious feel, reflecting the contemporary brand identity. The lighting enhances the three-dimensional appearance of the logo, making it appear as a physical sign.\n\n\u25cf Model: Gemini Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/25 19:17:33",
+        "image_url": "https://i.ibb.co/GQCPqJJM/c9cb135b1e77.png",
+        "prompt": "\u2756 The image shows the logo design of a group called Chat Room.      This logo is depicted in metallic gray and metallic with a warm and bright yellow design.\n \n     The logo mode is a slightly large medium circle with the chat room highlighted and slightly averaged in the middle of the background.      The letters are bold and untitled.\u00a0\n\n     Below the English text at the bottom, in very small size, a small yellow glow, the text \"Editor: @BAD_HOSSEIN\", possibly the social media handle.\n\n     The background is a textured, dark gray-brown surface, possibly representing a wall or other similar material.      The overall effect creates a modern and slightly luxurious feel that reflects the contemporary brand identity.      Lighting enhances the three-dimensional appearance of the logo and makes it appear as a physical sign.\n\n     \u25cf Model: Gemini Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
