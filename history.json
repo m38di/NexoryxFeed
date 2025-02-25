@@ -691,5 +691,12 @@
         "prompt": "The image is a digital artwork featuring a stylized, three-dimensional rendering of the word \"Evolution\".\u00a0 The lettering is highly stylized, with sharp, angular points and a metallic, chrome-like appearance. The letters are intertwined and overlap, creating a complex and visually dense composition.\n\nThe metallic effect is highly polished, giving the impression of a reflective surface with highlights and shadows suggesting depth and volume. The color palette is primarily silver and dark pink/black. The background is dark, featuring a mottled texture that resembles cracked ice or a distressed surface with faint, light blue lines that could be interpreted as cracks or energy trails.\n\nAt the bottom, small, almost illegible text reads \"Evolution\", indicating the artist's credit. The overall style suggests a blend of heavy metal album art aesthetics and digital graphic design.\u00a0 The image evokes a sense of power, intensity, and perhaps coldness, due to the metallic finish and pink background.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/25 10:52:46",
+        "image_url": "https://i.ibb.co/r2ZYFrFQ/636a01c46173.png",
+        "prompt": "The image showcases the word \"LEADER\" in bold, stylized lettering.\u00a0 The letters are primarily a dark grey/black with a vibrant red inner glow or outline, giving them a three-dimensional, almost metallic appearance.\u00a0\n\n\nThe word is positioned centrally against a backdrop that resembles a dark, textured surface; it looks like a craggy, rocky or possibly volcanic terrain with shades of dark grey, black, and hints of red, suggesting fire or intense heat. The texture is rough and uneven, creating a visually intense contrast with the sharp, clean lines of the lettering.\n\n\nAt the bottom of the image, small text is visible, seemingly a social media handle \"@SHOP_LEADER\" and what appears to be a phone number, \"09927921317\".\u00a0 This suggests the image is likely promotional or branding material for a business or individual associated with leadership. The overall aesthetic is dark, dramatic, and powerful, conveying a sense of strength and authority.\n\n\n\u25cf **\u0645\u062f\u0644:** Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
