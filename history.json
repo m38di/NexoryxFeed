@@ -600,5 +600,12 @@
         "prompt": "A  gaming logo with shadowed letters and a thick gold gaming style  With a gaming background. LOGO",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/25 08:24:18",
+        "image_url": "https://i.ibb.co/S7v0J54m/f101c1154913.jpg",
+        "prompt": "\"A typography logo featuring the name '\u0648\u0644\u06cc\u062f \u0627\u0644\u06a9\u0639\u0628\u0647' in an elegant and artistic Arabic calligraphy style. The text should be white and placed on a textured dark brown background. The calligraphy should have a modern yet traditional feel, with smooth curves and interwoven letters. The design should be minimalistic but visually striking, evoking a sense of heritage and sophistication.\"\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
