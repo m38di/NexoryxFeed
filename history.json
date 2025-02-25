@@ -1195,5 +1195,12 @@
         "prompt": "\u2756 The image shows the design of a group logo called Chatroom. The logo is depicted in metallic gray and metallic with a warm, bright yellow design.\n\nThe words Chatroom are highlighted and slightly averaged in the middle of the background. The letters are bold and untitled.\u00a0\n\nBelow the English text at the bottom, very very small and tiny size, a small Sicilian relief, the text \"Editor: @BAD_HOSSEIN\", probably the social media handle.\n\nThe background is a textured, dark brownish gray surface, probably representing a wall or other similar material. The overall effect creates a modern and slightly luxurious feel, reflecting the contemporary brand identity. The lighting enhances the three-dimensional appearance of the logo, making it appear as a physical sign.\n\n\u25cf Model: Gemini Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/25 18:36:11",
+        "image_url": "https://i.ibb.co/MyjBk2Y5/0ab8e2838946.jpg",
+        "prompt": "\u2756 The image showcases the word \"LOGO SHOP\" rendered in a stylized, gothic font.  The letters appear to be carved from a stone-like material, exhibiting a cracked or weathered texture.  The stone has a predominantly gray tone, with subtle red accents highlighting the cracks and crevices, suggesting a sense of age or decay.\n\nThe background is dark and moody, primarily composed of smoky, dark gray tones.  Scattered throughout the background are small, glowing red particles, resembling embers or sparks, further enhancing the dramatic effect.  Beneath the word, there's a faint suggestion of a geometric pattern, possibly a faded or obscured design, that appears to be polygonal shapes.  The overall aesthetic is dark, mysterious, and slightly ominous, conveying a sense of intensity.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
