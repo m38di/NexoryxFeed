@@ -1006,5 +1006,12 @@
         "prompt": "\nCreate a flat design vector logo for \"Media\". The logo should feature a large, stylized sun as the central element. Use white color for the logo elements against a solid black background. Incorporate the word \"Media\" in a modern, clean, sans-serif font, seamlessly integrated with the sun design. The overall look should be minimalistic, professional, and easily recognizable. Ensure the design is scalable and suitable for various mediums, including digital and print.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/25 16:33:48",
+        "image_url": "https://i.ibb.co/672MhzFH/355afb4168f5.png",
+        "prompt": "\nCreate a flat design vector logo for \"Media\". The logo should feature a large, stylized sun as the central element, using white color for all logo elements. The design should be placed on a solid black background. Incorporate the word \"Media\" in a modern, clean, sans-serif font, positioned either below or to the right of the sun symbol. The overall look should be minimalistic, professional, and easily recognizable, ensuring scalability for various mediums such as digital and print.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
