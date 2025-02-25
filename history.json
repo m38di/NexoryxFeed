@@ -607,5 +607,12 @@
         "prompt": "\"A typography logo featuring the name '\u0648\u0644\u06cc\u062f \u0627\u0644\u06a9\u0639\u0628\u0647' in an elegant and artistic Arabic calligraphy style. The text should be white and placed on a textured dark brown background. The calligraphy should have a modern yet traditional feel, with smooth curves and interwoven letters. The design should be minimalistic but visually striking, evoking a sense of heritage and sophistication.\"\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/25 08:29:43",
+        "image_url": "https://i.ibb.co/Ldg5MxfP/91000e103d5a.jpg",
+        "prompt": "\"A neon typography logo featuring the name 'Star Proxy' in a bold, futuristic font. The text should glow in a vibrant neon blue or purple color, with a subtle 3D shadow effect for depth. The background should be a dark brick wall with a slightly moody and cyberpunk aesthetic, emphasizing the neon glow. The overall design should feel modern, sleek, and eye-catching, with a tech-inspired and urban vibe.\"\n\n\u25cf Model: Gemini-Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
