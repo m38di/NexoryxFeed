@@ -985,5 +985,12 @@
         "prompt": "\"A neon typography logo featuring the name 'KING909' in a bold, futuristic font. The text should glow in a vibrant neon blue or purple color, with a subtle 3D shadow effect for depth. The background should be a dark brick wall with a slightly moody and cyberpunk aesthetic, emphasizing the neon glow. The overall design should feel modern, sleek, and eye-catching, with a tech-inspired and urban vibe.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/25 16:24:26",
+        "image_url": "https://i.ibb.co/zHnC8V52/7ff3a752cad4.jpg",
+        "prompt": "Create a flat design vector logo for \"Solara Media\". The logo should feature a large, stylized sun as the central element, using vibrant and warm colors such as yellows and oranges. Incorporate the word \"Media\" in a modern, clean font, seamlessly integrated with the sun design. The logo should be set against a black background, maintaining a minimalistic and professional look that is easily recognizable. Ensure the design is scalable and suitable for various mediums, including digital and print.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
