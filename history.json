@@ -1244,5 +1244,12 @@
         "prompt": "\u2756 The image shows the design of the group's logo called \"Chat Room\". The logo is depicted in a stylized metallic gray and metallic with a warm, bright yellow design.\n\nThe words \"Chat Room\" are prominently and slightly medium-sized in the middle of the background. The letters are bold and untitled.\u00a0\n\nBelow the English text at the bottom, in a small yellow glow, is the text \"Editor: @BAD_HOSSEIN\", possibly the social media handle.\n\nThe background is a textured, dark grayish-brown surface, likely representing a wall or other similar material. The overall effect creates a modern, slightly luxurious feel that reflects the contemporary brand identity. The lighting enhances the three-dimensional appearance of the logo, making it appear as a physical sign or emblem.\n\n\u25cf Model: Gemini Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/25 19:28:40",
+        "image_url": "https://i.ibb.co/PGpVnF6S/5fc129561d80.png",
+        "prompt": "\u2756 The image shows the logo design of a group called Chat Room.      This logo is depicted in metallic gray and metallic with a warm and bright yellow design.\n \n     The logo mode is a slightly large medium circle with the chat room highlighted and slightly averaged in the middle of the background.      The letters are bold and untitled.\u00a0\n\n     Below the English text at the bottom, in very small size, a small yellow glow, the text \"Editor: @BAD_HOSSEIN\", possibly the social media handle.\n\n     The background is a textured, dark gray-brown surface, possibly representing a wall or other similar material.      The overall effect creates a modern and slightly luxurious feel that reflects the contemporary brand identity.      Lighting enhances the three-dimensional appearance of the logo and makes it appear as a physical sign.\n\n     \u25cf Model: Gemini Vision",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
