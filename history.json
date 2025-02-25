@@ -992,5 +992,12 @@
         "prompt": "Create a flat design vector logo for \"Solara Media\". The logo should feature a large, stylized sun as the central element, using vibrant and warm colors such as yellows and oranges. Incorporate the word \"Media\" in a modern, clean font, seamlessly integrated with the sun design. The logo should be set against a black background, maintaining a minimalistic and professional look that is easily recognizable. Ensure the design is scalable and suitable for various mediums, including digital and print.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/25 16:25:30",
+        "image_url": "https://i.ibb.co/ksYxDcZF/4471f382acf4.jpg",
+        "prompt": "\nCreate a flat design vector logo for \"Media\". The logo should feature a large, stylized sun as the central element. Use white color for the logo elements against a solid black background. Incorporate the word \"Media\" in a modern, clean, sans-serif font, seamlessly integrated with the sun design. The overall look should be minimalistic, professional, and easily recognizable. Ensure the design is scalable and suitable for various mediums, including digital and print.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
