@@ -1818,5 +1818,12 @@
         "prompt": "\"Create a vivid and immersive scene of a stadium with an intense red lighting setup. The background should showcase the structural details of the stadium, including towering stands, floodlights, and a massive crowd partially visible under the crimson glow. Ensure the red lighting dominates the environment, casting deep and dramatic shadows, while emphasizing the vibrant energy of the space. The atmosphere should feel electrifying and surreal, with the red hues blending seamlessly into the stadium\u2019s architectural features.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/26 15:55:53",
+        "image_url": "https://i.ibb.co/r2RqjCtb/c302971203f7.png",
+        "prompt": "A dramatic and immersive nighttime stadium scene with a bold red lighting theme. The stadium is massive, with towering stands filled with dimly lit seats, giving a sense of grandeur and scale. Overhead, the dark night sky sets the perfect backdrop for the intense lighting effects. Bright floodlights pierce through the darkness, casting red beams and highlights across the scene, creating a vibrant and electric atmosphere.\n\nThe stadium's beacon tower is prominently visible near the center-top of the frame, glowing brightly with deep red light, acting as a focal point. The beacon emits sharp rays of light that scatter into the night sky, faintly illuminating the drifting low-hanging mist or haze. Subtle details in the background, such as light reflections on stadium structures and faint lens flares, add depth and realism.  \n\nOn the ground level, the lush green field is visible, but it appears darker and slightly desaturated to keep the focus on the red lighting and the stadium itself. The edges of the field and lower parts of the stands are softly illuminated by additional smaller red and white spotlights, emphasizing the contours of the seating rows and ramps.\n\nHints of moving smoke or vapor are visible near the beacons, adding a dynamic and slightly mysterious touch. The texture of the illuminated steel structures and massive arches of the stadium is detailed, showcasing modern architectural designs. The overall feel is intense, energetic, and slightly cinematic, pulling the viewer into the sheer excitement of the event.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
