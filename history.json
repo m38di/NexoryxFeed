@@ -1804,5 +1804,12 @@
         "prompt": "A high-energy sports poster featuring three football players from *Persepolis FC* standing confidently in the foreground, wearing their iconic bright red team jerseys. The players are positioned in a triangular formation, directly facing the camera, with their intense facial expressions and poses radiating determination and team pride. The central player holds a football firmly in both hands at chest level, while the other two players stand to the sides, arms crossed or with their hands resting on their hips.  \n\nThe background is electrifying, with streaks of red and blue lights blending to create an atmosphere of passion and action. Faint beams of light shoot diagonally across the frame, casting dynamic highlights on the players and accentuating the rich textures of their jerseys. The grass field beneath their feet is partially visible but fades into the vibrant light effects in the background for a clean yet dramatic aesthetic.  \n\nEach player is illuminated with precise highlights, emphasizing their muscular contours and adding a polished, heroic vibe. The warm red tones on one side and colder blue tones on the other side of the frame create a striking color contrast, giving the poster an intense, fiery mood.  \n\nAt the top or bottom of the poster, bold text in a modern, sleek font reads:  \n\"Persepolis United\"  \nwith a tagline beneath it:  \n\"Red Passion. Blue Challenge. One Goal.\"  \nThe text glows faintly, echoing the red and blue lighting of the design.\n\nThe overall composition captures the team's energy, focus, and the thrilling, competitive essence of football.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/26 15:37:57",
+        "image_url": "https://i.ibb.co/NgjFpj2V/7398a5ed6c08.png",
+        "prompt": "\"Create a highly detailed scene featuring three players standing very close to the camera. Each of them is wearing vibrant red jerseys, with intricate fabric textures clearly visible. The background is a dynamic stadium illuminated with powerful red lighting, casting a dramatic atmosphere over the scene. Ensure the players are the central focus, with red highlights reflecting off their faces and jerseys for added emphasis and realism. The overall mood should feel intense and synchronized with the energetic stadium environment.\u201d",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
