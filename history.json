@@ -1811,5 +1811,12 @@
         "prompt": "\"Create a highly detailed scene featuring three players standing very close to the camera. Each of them is wearing vibrant red jerseys, with intricate fabric textures clearly visible. The background is a dynamic stadium illuminated with powerful red lighting, casting a dramatic atmosphere over the scene. Ensure the players are the central focus, with red highlights reflecting off their faces and jerseys for added emphasis and realism. The overall mood should feel intense and synchronized with the energetic stadium environment.\u201d",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/26 15:54:33",
+        "image_url": "https://i.ibb.co/jkDxd5y1/ed4c798efed2.png",
+        "prompt": "\"Create a vivid and immersive scene of a stadium with an intense red lighting setup. The background should showcase the structural details of the stadium, including towering stands, floodlights, and a massive crowd partially visible under the crimson glow. Ensure the red lighting dominates the environment, casting deep and dramatic shadows, while emphasizing the vibrant energy of the space. The atmosphere should feel electrifying and surreal, with the red hues blending seamlessly into the stadium\u2019s architectural features.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
