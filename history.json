@@ -1832,5 +1832,12 @@
         "prompt": "A grand nighttime stadium scene, blending modern energy with historical pride. The massive stadium is illuminated by bold red lighting, with powerful beams streaming upward into the dark sky. In the center-top, a glowing beacon tower emanates sharp, fiery red rays, creating a captivating focal point.  \n\nThe field below is faintly visible, darkened to enhance the vibrant light effects. The stands curve around, lit by smaller red and white spotlights, with subtle mist or haze drifting near the lights, adding atmosphere to the scene.  \n\nIncorporated into the design, the majestic symbol of Persepolis (Takhte Jamshid) is etched or integrated prominently into the beacon or the background, glowing faintly, symbolizing cultural pride and history. The glowing textures of the monument contrast beautifully with the modern architecture of the stadium, blending legacy with energy.  \n\nThe overall vibe is intense, patriotic, and electric, combining ancient heritage with the thrilling energy of the modern stadium.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/02/26 15:57:07",
+        "image_url": "https://i.ibb.co/9BxcCBM/c1b3f58ced5c.png",
+        "prompt": "\"Design a spectacular scene combining the grandeur of Persepolis with the electrifying energy of a modern stadium. The background should be a stadium infused with architectural elements inspired by Persepolis, such as tall stone columns with intricate carvings, winged lions, and ancient reliefs integrated into the stadium's structure. The entire environment is illuminated with glowing red lights, casting an intense and dramatic atmosphere. The stone textures of Persepolis elements should reflect the red lighting, adding depth and realism. Blend the ancient Persian architecture seamlessly with the modern stadium design, creating a fusion of history and contemporary energy. The overall scene should feel majestic, with the red lighting amplifying the sense of power and legacy.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
