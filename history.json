@@ -1979,5 +1979,12 @@
         "prompt": "logo text ''nightmare'' style blue 3d",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/27 00:05:28",
+        "image_url": "https://i.ibb.co/h18C2BXV/e99cda6cae4c.png",
+        "prompt": "logo text ''nightmare'' style blue 3d  backgrund 4k blue jungle",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
