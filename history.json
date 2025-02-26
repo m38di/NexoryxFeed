@@ -1790,5 +1790,12 @@
         "prompt": "\"A futuristic cyborg wearing a sleek, dark helmet with glowing orange eyes, looking determined and powerful. [Digital painting, cyberpunk style], [inspired by the artistry of H.R. Giger], [close-up shot, dramatic lighting, metallic textures, dark grays and vibrant oranges, high detail, and a minimalist background].\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/02/26 15:18:37",
+        "image_url": "https://i.ibb.co/WNcrh4Zw/bdfc647b87b9.png",
+        "prompt": "A dramatic and visually striking football poster featuring three players standing confidently in a triangular formation on a lush green grass field. All players are wearing bright red jerseys with detailed textures, showing subtle wrinkles and highlights from the stadium lights above. The central player is slightly in the foreground, holding a football in both hands, radiating an aura of determination and leadership. The other two players stand slightly behind and to the sides, arms crossed or resting on their hips, exuding confidence and teamwork.  \n\nThe background is a vibrant football stadium, with blurred outlines of roaring fans filling the stands, glowing spotlights beaming down onto the players, and casting sharp shadows on the grass. The intense green of the well-maintained field contrasts beautifully with the bold red uniforms, giving the poster a dynamic color palette.  \n\nSubtle white highlights emphasize the contours and muscles of the players, adding depth and drama to their poses. Each player is illuminated with directional lighting, focusing attention on their confident stances while casting soft shadows behind them.  \n\nThe text overlay is strategically placed to not obstruct the visual impact of the players. At the top or bottom of the poster, in bold, modern font, it reads:  \n\"CHAMPIONS UNITED\"  \nwith a smaller tagline below:  \n\"Together We Rise \u2013 The Final Showdown\"  \nThe text is white, with a slight glow or metallic texture for added impact.  \n\nThe overall composition exudes power, unity, and anticipation, making it a perfect attention-grabbing football poster.\n\n---",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
