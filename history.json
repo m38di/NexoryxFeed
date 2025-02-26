@@ -1762,5 +1762,12 @@
         "prompt": "Online health shop vector",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/26 13:52:45",
+        "image_url": "https://i.ibb.co/nqDF028g/dde95ee138d7.jpg",
+        "prompt": "A futuristic cyborg wearing a sleek, dark helmet with glowing orange eyes, looking determined and powerful. [Digital painting, cyberpunk style], [inspired by the artistry of H.R. Giger], [close-up shot, dramatic lighting, metallic textures, dark grays and vibrant oranges, high detail, and a minimalist background].",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
