@@ -1755,5 +1755,12 @@
         "prompt": "Vector of selling health and beauty products",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/26 13:51:01",
+        "image_url": "https://i.ibb.co/Q7ss9N5V/122844bbe677.png",
+        "prompt": "Online health shop vector",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
