@@ -2203,5 +2203,12 @@
         "prompt": "a big giant Mansion",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/27 21:43:00",
+        "image_url": "https://i.ibb.co/tMDhMFYB/5925e0ad94e8.png",
+        "prompt": "\"A lone knight in shining armor stands in a field of red poppies, his greatsword resting on his shoulder, gazing towards a bright, cloudy sky, evoking a sense of melancholy and resilience. [Oil painting, fantasy art style], [inspired by Frank Frazetta and Alphonse Mucha], [wide-angle shot, soft, diffused lighting, vibrant reds and blues, detailed textures, and a dreamy, ethereal background].\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
