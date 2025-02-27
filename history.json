@@ -2007,5 +2007,12 @@
         "prompt": "`a retro car parked on a nostalgic tokyo street on a foggy snowy night, kodachrome 64, blue purple turquoise --ar 9:16 --v 6.1`",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/27 12:37:04",
+        "image_url": "https://i.ibb.co/BV7gP1x9/afef3d5704d9.png",
+        "prompt": "\"Create a breathtaking and highly detailed scene featuring the iconic setting of a UEFA Champions League stadium. The background should showcase the grandeur of the stadium, with massive stands filled with a vibrant crowd, faintly illuminated under a stunning mix of blue and purple lighting. The lighting should create a dynamic and atmospheric glow, casting soft gradients of blue and purple across the entire stadium. Highlight the famous Champions League star ball logo subtly placed within the design\u2014perhaps on banners, digital screens, or the field itself. The floodlights should beam with intense clarity, blending their luminescence into the blue and purple tones, creating a surreal and electrifying mood. The scene should feel awe-inspiring and capture the energy, passion, and prestige of a Champions League night.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
