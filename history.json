@@ -1986,5 +1986,12 @@
         "prompt": "logo text ''nightmare'' style blue 3d  backgrund 4k blue jungle",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/02/27 12:17:35",
+        "image_url": "https://i.ibb.co/RGTq3vkM/305f8d7ce22d.jpg",
+        "prompt": "`a retro car parked on a nostalgic tokyo street on a foggy snowy night, kodachrome 64, blue purple turquoise --ar 9:16 --v 6.1`",
+        "aspect_ratio": "9:16",
+        "model": "FLUX 1 [Pro]"
     }
 ]
