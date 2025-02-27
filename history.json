@@ -2217,5 +2217,12 @@
         "prompt": "\"A miniature space shuttle model sits on a bookshelf among old books, bathed in warm, inviting light, evoking a sense of nostalgia and wonder. [3D render, photorealistic style], [inspired by the works of Greg Rutkowski], [close-up shot, soft, volumetric lighting, rich wood textures, warm earth tones, high detail, and a shallow depth of field].\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/02/27 21:46:55",
+        "image_url": "https://i.ibb.co/RGp3Q0xT/5abd02e214f1.jpg",
+        "prompt": "\"A miniature space shuttle model sits on a bookshelf among old books, bathed in warm, inviting light, evoking a sense of nostalgia and wonder. [3D render, photorealistic style], [inspired by the works of Greg Rutkowski], [close-up shot, soft, volumetric lighting, rich wood textures, warm earth tones, high detail, and a shallow depth of field].\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
