@@ -1993,5 +1993,12 @@
         "prompt": "`a retro car parked on a nostalgic tokyo street on a foggy snowy night, kodachrome 64, blue purple turquoise --ar 9:16 --v 6.1`",
         "aspect_ratio": "9:16",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/27 12:18:50",
+        "image_url": "https://i.ibb.co/p6dzf6cQ/eec276fa4fdc.jpg",
+        "prompt": "`a retro car parked on a nostalgic tokyo street on a foggy snowy night, kodachrome 64, blue purple turquoise`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
