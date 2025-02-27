@@ -2077,5 +2077,12 @@
         "prompt": "A modern minimalist digital Twitter header with an abstract geometric design. Small interconnected dots form a dynamic network, each dot containing exact and clearly visible logos of Spotify, YouTube, Telegram, cloud storage symbol and icons. The logos have a 3D appearance with clean lines and a pastel or monochromatic color palette on a dark gradient background. The word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/02/27 16:49:54",
+        "image_url": "https://i.ibb.co/Gfgpz0hT/ac83d5a74584.jpg",
+        "prompt": "A modern minimalist digital Twitter header with an abstract geometric design. Small interconnected dots form a dynamic network, each dot containing exact and clearly visible logos of Spotify, YouTube, Telegram, cloud storage symbol and icons. The logos have a 3D appearance with clean lines and a pastel or monochromatic color palette on a dark gradient background. The word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
