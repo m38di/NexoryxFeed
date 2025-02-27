@@ -2161,5 +2161,12 @@
         "prompt": "[A modern minimalist digital picture with an abstract geometric design. \n\nSmall interconnected dots form a dynamic network, each dot containing exact and clearly visible logos of Spotify, YouTube, Telegram, cloud storage icons.\n\n The logos have a 3D appearance with clean lines and a pastel or monochromatic color palette on a gradient background.\n\n The word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.]",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/02/27 17:14:26",
+        "image_url": "https://i.ibb.co/B2b1c5X6/5e05ce8f2fe4.png",
+        "prompt": "[A modern minimalist digital picture with an abstract geometric design. \n\n\nImage have a 3D appearance with clean lines and a pastel or monochromatic color palette on a gradient background.\n\nSmall interconnected dots form a dynamic network.\n\nThe word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.]",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
