@@ -2224,5 +2224,12 @@
         "prompt": "\"A miniature space shuttle model sits on a bookshelf among old books, bathed in warm, inviting light, evoking a sense of nostalgia and wonder. [3D render, photorealistic style], [inspired by the works of Greg Rutkowski], [close-up shot, soft, volumetric lighting, rich wood textures, warm earth tones, high detail, and a shallow depth of field].\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/27 21:48:07",
+        "image_url": "https://i.ibb.co/cc00kq0T/950a342e657a.jpg",
+        "prompt": "\"A lone knight in shining armor stands in a field of red poppies, his greatsword resting on his shoulder, gazing towards a bright, cloudy sky, evoking a sense of melancholy and resilience. [Oil painting, fantasy art style], [inspired by Frank Frazetta and Alphonse Mucha], [wide-angle shot, soft, diffused lighting, vibrant reds and blues, detailed textures, and a dreamy, ethereal background].\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
