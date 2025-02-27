@@ -2140,5 +2140,12 @@
         "prompt": "\nCreate a spooky version of the Simpsons family, depicted in a horror style. The characters should appear eerie and frightening, with dark colors and unsettling expressions. Place them inside a digital green television frame. Below the TV frame, add the text \"February 28, 2025\" in a digital green font.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/27 17:07:06",
+        "image_url": "https://i.ibb.co/sJbYrWx9/a59b503ff055.png",
+        "prompt": "A modern minimalist digital Twitter header with an abstract geometric design. Small interconnected dots form a dynamic network, each dot containing exact and clearly visible logos of Spotify, YouTube, Telegram, cloud storage symbol and icons. The logos have a 3D appearance with clean lines and a pastel or monochromatic color palette on a dark gradient background. The word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
