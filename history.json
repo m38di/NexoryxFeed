@@ -2098,5 +2098,12 @@
         "prompt": "A modern minimalist picture. Small interconnected dots form a dynamic network, each dot containing exact and clearly visible logos of Spotify, YouTube, Telegram, cloud storage symbol and icons. The logos have a 3D appearance with clean lines and a pastel or monochromatic color palette on a dark gradient background. The word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/02/27 16:55:07",
+        "image_url": "https://i.ibb.co/HT54b18f/3a9f4108abe5.jpg",
+        "prompt": "A modern minimalist picture. Small interconnected dots form a dynamic network, each dot containing exact and clearly visible logos of Spotify, YouTube, Telegram, cloud storage symbol and icons. The logos have a 3D appearance with clean lines and a pastel or monochromatic color palette on a dark gradient background. The word \"DadeHub\" is placed at the center where all lines converge, symbolizing data connectivity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
