@@ -2315,5 +2315,12 @@
         "prompt": "\u2756 Prompt:\u00a0 \n\"Create a hyper-realistic, front-view portrayal of a demonic truck, closely resembling a monstrous, nightmare-fueled vehicle. The front grille should resemble sharp, fang-like jaws dripping with an intimidating presence, while the truck's blood-stained, dark-red metallic body shows signs of supernatural aggression. The bright yellow headlights should glow menacingly, mimicking the piercing eyes of a predator in the dark. Capture fine details of heavy-duty tires and a smoky, eerie night setting, with dim orange lights glowing faintly in the misty background. Ensure the angle, lighting, and mood match a raw, fear-inducing intensity.\"",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/01 19:34:49",
+        "image_url": "https://i.ibb.co/Cs3Ccsxw/e8c8040584f5.png",
+        "prompt": "A cheerful cartoon polar bear standing on ice, smiling widely. The polar bear has bright white fur and big, friendly eyes. It\u2019s surrounded by an icy landscape with a light blue hue. The background is a simple bright green, making it easy to remove or change later. The overall style is playful and fun, suitable for children\u2019s illustrations",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
