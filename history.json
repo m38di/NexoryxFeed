@@ -2294,5 +2294,12 @@
         "prompt": "\u2756 **Prompt:**\u00a0 \n\"Create a hyper-realistic, @@front-view portrayal of a demonic truck@@, closely resembling a monstrous, nightmare-fueled vehicle. The front grille should resemble @@sharp, fang-like jaws@@ dripping with an intimidating presence, while the truck's blood-stained, dark-red metallic body shows signs of supernatural aggression. The @@bright yellow headlights@@ should glow menacingly, mimicking the piercing eyes of a predator in the dark. Capture fine details of @@heavy-duty tires@@ and a smoky, eerie night setting, with dim orange lights glowing faintly in the misty background. Ensure the angle, lighting, and mood match a raw, fear-inducing intensity.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 18:59:31",
+        "image_url": "https://i.ibb.co/C3WtQxbp/4ad76352ec1d.png",
+        "prompt": "\u2756 Prompt:\u00a0 \n\"Create a hyper-realistic, front-view portrayal of a demonic truck, closely resembling a monstrous, nightmare-fueled vehicle. The front grille should resemble sharp, fang-like jaws dripping with an intimidating presence, while the truck's blood-stained, dark-red metallic body shows signs of supernatural aggression. The bright yellow headlights should glow menacingly, mimicking the piercing eyes of a predator in the dark. Capture fine details of heavy-duty tires and a smoky, eerie night setting, with dim orange lights glowing faintly in the misty background. Ensure the angle, lighting, and mood match a raw, fear-inducing intensity.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
