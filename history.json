@@ -2448,5 +2448,12 @@
         "prompt": "Create a 3D cartoon-style polar bear enjoying a slice of cake on a vibrant, solid dark green background. The scene should be cheerful and playful, showcasing expressive details on the polar bear's face.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/02 02:52:00",
+        "image_url": "https://i.ibb.co/QjxkhTwd/e8b3d95af1ad.png",
+        "prompt": "Create a minimal 3D scene featuring a simple Burgundy Red gradient background with a seamless transition between the wall and the floor. The lighting should softly illuminate the space, creating a subtle spotlight effect in the center, emphasizing a clean and modern aesthetic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
