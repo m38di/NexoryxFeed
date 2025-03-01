@@ -2427,5 +2427,12 @@
         "prompt": "\u2756 The image is a logo design.\u00a0\n\n\nThe central element is the word \"NEMESiS\" written in a stylized, bold font. The letters are primarily bright green, with a subtle textured effect that resembles leather or a similar material.\u00a0A lighter, almost silver or white outline gives the letters depth.\n\n\nAbove the word \"NEMESiS\" sits a stylized crown.  The crown is composed of five simple, rounded figures, suggesting a minimalist or modern design. It is primarily white/silver, contrasting with the green lettering.\u00a0\n\n\nThe background is dark and textured, featuring a complex pattern of what appears to be grainy, dark grey or black elements arranged in a possibly geometric or tribal-inspired design.  The overall background feel is gritty and somewhat abstract.  The contrast between the vibrant green and white logo and the dark, textured background makes the logo stand out prominently.\n\nThe design style overall leans towards a modern, possibly hip-hop or gaming-related aesthetic, due to the color choices, the bold font, and the inclusion of the crown, which suggests royalty or supremacy.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/03/02 02:18:15",
+        "image_url": "https://i.ibb.co/Nn6Xvn8F/274091b1c613.png",
+        "prompt": "Create a 3D cartoon-style polar bear enjoying a slice of cake on a vibrant, solid dark green background. The scene should be cheerful and playful, showcasing expressive details on the polar bear's face.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
