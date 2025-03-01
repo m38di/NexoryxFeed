@@ -2434,5 +2434,12 @@
         "prompt": "Create a 3D cartoon-style polar bear enjoying a slice of cake on a vibrant, solid dark green background. The scene should be cheerful and playful, showcasing expressive details on the polar bear's face.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/02 02:20:45",
+        "image_url": "https://i.ibb.co/204zLthH/29da62d9eaf6.png",
+        "prompt": "Create a 3D cartoon-style polar bear enjoying a slice of cake on a vibrant, solid dark green background. The scene should be cheerful and playful, showcasing expressive details on the polar bear's face.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
