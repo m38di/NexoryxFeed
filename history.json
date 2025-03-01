@@ -2287,5 +2287,12 @@
         "prompt": "\"Create a terrifying demonic truck with an intimidating front grille shaped like razor-sharp fang-filled jaws. The truck's body should be splattered with blood-like stains across its rusty, dark-red metallic surface. The bright yellow headlights should resemble glowing, predatory eyes piercing through the dark. Add heavy-duty wheels with spiked details and set the scene in an eerie, smoky night environment with a faint orange glow in the background. The portrayal should radiate menace and an unholy presence, making it look like a vehicle of nightmares.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 18:54:39",
+        "image_url": "https://i.ibb.co/LDk3JFHw/37fa75dff42e.jpg",
+        "prompt": "\u2756 **Prompt:**\u00a0 \n\"Create a hyper-realistic, @@front-view portrayal of a demonic truck@@, closely resembling a monstrous, nightmare-fueled vehicle. The front grille should resemble @@sharp, fang-like jaws@@ dripping with an intimidating presence, while the truck's blood-stained, dark-red metallic body shows signs of supernatural aggression. The @@bright yellow headlights@@ should glow menacingly, mimicking the piercing eyes of a predator in the dark. Capture fine details of @@heavy-duty tires@@ and a smoky, eerie night setting, with dim orange lights glowing faintly in the misty background. Ensure the angle, lighting, and mood match a raw, fear-inducing intensity.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
