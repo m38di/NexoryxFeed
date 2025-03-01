@@ -2238,5 +2238,12 @@
         "prompt": "\"A lone knight in shining armor stands in a field of red poppies, his greatsword resting on his shoulder, gazing towards a bright, cloudy sky, evoking a sense of melancholy and resilience. [Oil painting, fantasy art style], [inspired by Frank Frazetta and Alphonse Mucha], [wide-angle shot, soft, diffused lighting, vibrant reds and blues, detailed textures, and a dreamy, ethereal background].\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/03/01 18:34:21",
+        "image_url": "https://i.ibb.co/FLLd5mwV/ef5c6b927a8c.png",
+        "prompt": "Make a logo for my site With the subject Messenger Site name ZominG",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
