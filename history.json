@@ -2385,5 +2385,12 @@
         "prompt": "A young 19-year-old teenage boy standing next to a sophisticated 31-year-old woman. The boy has casual teenage attire: a simple T-shirt, sneakers, and slightly messy hair, emphasizing his youthful energy. The woman is stylishly dressed in an elegant modern outfit, radiating confidence and a mature charm. They are both standing close to one another, smiling subtly, showcasing a friendly and relaxed dynamic. The scene takes place outdoors in a hyper-realistic setting, with soft natural lighting, a blurred urban background, and focus on facial expressions. The rendering style is ultra-realistic, with detailed textures, skin tones, and a cinematic atmosphere.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Dev]"
+    },
+    {
+        "date": "2025/03/02 00:08:50",
+        "image_url": "https://i.ibb.co/v4mq3pjK/df0854e29806.png",
+        "prompt": "A 19-year-old teenage boy standing next to a confident and slightly plus-sized 31-year-old woman with Iranian features. The boy is casually dressed in a plain T-shirt and jeans, with simple sneakers and short, tidy hair, presenting a fresh and youthful vibe. The woman has a traditionally Iranian look: wearing a modern yet modest, elegant outfit with flowing fabric, adorned with subtle jewelry, exuding sophistication. Her physique is curvier, with a warm smile and an aura of strong presence. They are positioned side by side, standing in a relaxed pose. The setting is a sunlit Persian-style garden, with traditional architecture, vibrant flowers, and intricate tile patterns visible in the blurred background. The image should be hyper-realistic, with detailed skin textures, vibrant colors, and cinematic natural lighting.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
