@@ -2273,5 +2273,12 @@
         "prompt": "Create a highly detailed and visually stunning image of an evil-looking car. The car should have a futuristic yet sinister design, featuring sharp edges, glowing red lights, dark metallic colors (like black, dark gray, or crimson), and menacing embellishments resembling demonic traits. The environment should be eerie, perhaps set on a desolate highway at midnight, with stormy skies, lightning flashes, and fog creeping across the ground. Make it dramatic and intense.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 18:48:57",
+        "image_url": "https://i.ibb.co/h1C4Wk7V/070ac8d4ca2a.jpg",
+        "prompt": "\u2756 \"Craft a visual masterpiece of an @@evil-themed, futuristic car@@ that embodies raw power and dark energy. This vehicle should feature @@sleek, razor-sharp lines@@, a @@dark metallic black finish@@ with @@crimson, glowing cracks resembling molten lava@@ coursing through its surface, and @@intense red headlights@@ that shine like demonic eyes piercing through darkness. The wheels should carry @@spiked rims@@, evoking a sense of danger, and flames should burst from its exhaust with @@hellfire intensity@@. Integrate @@gothic-inspired engravings@@ along the body, hinting at a supernatural origin. The scene should be set in an @@abandoned, stormy highway at midnight@@, with turbulent skies, lightning strikes, and thick creeping fog encircling the car. Let the image radiate dominance, fear, and a glimpse of what a vehicle from the underworld would look like.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
