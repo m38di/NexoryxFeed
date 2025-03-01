@@ -2280,5 +2280,12 @@
         "prompt": "\u2756 \"Craft a visual masterpiece of an @@evil-themed, futuristic car@@ that embodies raw power and dark energy. This vehicle should feature @@sleek, razor-sharp lines@@, a @@dark metallic black finish@@ with @@crimson, glowing cracks resembling molten lava@@ coursing through its surface, and @@intense red headlights@@ that shine like demonic eyes piercing through darkness. The wheels should carry @@spiked rims@@, evoking a sense of danger, and flames should burst from its exhaust with @@hellfire intensity@@. Integrate @@gothic-inspired engravings@@ along the body, hinting at a supernatural origin. The scene should be set in an @@abandoned, stormy highway at midnight@@, with turbulent skies, lightning strikes, and thick creeping fog encircling the car. Let the image radiate dominance, fear, and a glimpse of what a vehicle from the underworld would look like.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 18:53:31",
+        "image_url": "https://i.ibb.co/fYw4vWbb/77e71f4b26b9.jpg",
+        "prompt": "\"Create a terrifying demonic truck with an intimidating front grille shaped like razor-sharp fang-filled jaws. The truck's body should be splattered with blood-like stains across its rusty, dark-red metallic surface. The bright yellow headlights should resemble glowing, predatory eyes piercing through the dark. Add heavy-duty wheels with spiked details and set the scene in an eerie, smoky night environment with a faint orange glow in the background. The portrayal should radiate menace and an unholy presence, making it look like a vehicle of nightmares.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
