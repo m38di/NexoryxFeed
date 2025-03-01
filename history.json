@@ -2252,5 +2252,12 @@
         "prompt": "batman pinky \nSize 3:4",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 18:35:38",
+        "image_url": "https://i.ibb.co/CKYpKS1c/9c6515f25474.png",
+        "prompt": "Make a logo for my site With the subject Messenger Site name ZominG",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
