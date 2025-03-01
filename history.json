@@ -2350,5 +2350,12 @@
         "prompt": "A futuristic city with flying cars at sunset. --ar 3:4",
         "aspect_ratio": "3:4",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 23:46:48",
+        "image_url": "https://i.ibb.co/XfzchrdW/00f4db278d22.jpg",
+        "prompt": "`\nA stylish mature woman and a young man standing together. The woman radiates confidence, wearing a luxurious outfit, with elegant accessories and a kind smile. The young man is casually dressed, appearing cheerful and relaxed. The background is a warm, sunlit outdoor setting, like a modern park or cityscape. The scene is captured in a hyper-realistic style, with vibrant colors and fine details, emphasizing their bond and dynamic energy.`",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
