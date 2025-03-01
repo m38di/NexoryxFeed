@@ -2357,5 +2357,12 @@
         "prompt": "`\nA stylish mature woman and a young man standing together. The woman radiates confidence, wearing a luxurious outfit, with elegant accessories and a kind smile. The young man is casually dressed, appearing cheerful and relaxed. The background is a warm, sunlit outdoor setting, like a modern park or cityscape. The scene is captured in a hyper-realistic style, with vibrant colors and fine details, emphasizing their bond and dynamic energy.`",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/01 23:53:39",
+        "image_url": "https://i.ibb.co/hJwgpJ6g/3ab8c97ca226.png",
+        "prompt": "\nA confident, stylish mature woman standing beside a cheerful, vibrant teenager. The woman is dressed in luxurious and elegant clothing with intricate designs and glamorous accessories, radiating sophistication and warmth. The teenager is casually but stylishly dressed, with a youthful and energetic appearance, featuring a bright smile and lively eyes. They are positioned in a harmonious pose, showcasing a friendly and close bond. The scene is set in a modern, sunlit park with lush greenery and a touch of urban architecture in the background. Captured in an ultra-realistic style with vivid colors, fine textures, and cinematic lighting.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Dev]"
     }
 ]
