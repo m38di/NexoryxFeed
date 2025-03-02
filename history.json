@@ -2497,5 +2497,12 @@
         "prompt": "A tall girl with a blue scarf and a white coat and blue pants and blue shoes in a cafe",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/02 16:44:04",
+        "image_url": "https://i.ibb.co/ZztB2Cpz/cb98b037cac6.png",
+        "prompt": "\u06cc\u06a9 \u062f\u062e\u062a\u0631 \u0642\u062f\u0628\u0644\u0646\u062f \u0628\u0627 \u0631\u0648\u0633\u0631\u06cc \u0622\u0628\u06cc \u0648 \u0645\u0627\u0646\u062a\u0648\u06cc \u0633\u0641\u06cc\u062f \u0648 \u0634\u0644\u0648\u0627\u0631 \u0622\u0628\u06cc \u0648 \u06a9\u0641\u0634 \u0647\u0627\u06cc \u0622\u0628\u06cc \u062f\u0631 \u06a9\u0627\u0641\u0647",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
