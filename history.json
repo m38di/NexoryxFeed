@@ -2525,5 +2525,12 @@
         "prompt": "\u2756 The image depicts a dramatic scene in space.  The central focus is an astronaut, seemingly stranded on a lunar or similarly desolate, dark gray, rocky surface. The astronaut is lying on the incline of the surface, their body angled downwards, one arm outstretched as if reaching or grasping for something. The astronaut's spacesuit is predominantly white, appearing somewhat damaged or soiled, with noticeable dirt or dust accumulating on parts of it. A striking detail is the teal-colored accents on the astronaut's gloves, which sharply contrast the overall grayscale palette of the scene. The astronaut's helmet is also white, and its visor reflects a dark, possibly shadowed interior. The reflection within the helmet appears to show some debris or dust inside.\n\nIn the background, a small but clearly visible Earth hangs in the black vacuum of space. The Earth is detailed enough to show its continents and cloud patterns. The background is largely black, emphasizing the vast emptiness and isolation of the scene.  The overall mood is one of despair, loneliness, and perhaps a sense of impending danger or failure. The composition, lighting, and color choices all contribute to a highly dramatic and visually compelling image.\n\n\n\u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/03/02 22:41:16",
+        "image_url": "https://i.ibb.co/WWh0dG0Y/fa87012a7292.png",
+        "prompt": "\u201cImagine a scene in a winter landscape where a man wearing a hoodie stands in profile. He has both hands covering his face, capturing a moment of contemplation or solitude amidst the snowy backdrop.\u201d",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
