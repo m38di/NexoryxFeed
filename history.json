@@ -2539,5 +2539,12 @@
         "prompt": "\u201cImagine a scene in a winter landscape where a man wearing a hoodie stands in profile. He has both hands covering his face, capturing a moment of contemplation or solitude amidst the snowy backdrop.\u201d",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/02 22:44:57",
+        "image_url": "https://i.ibb.co/RGW9XmTq/12b3c2013693.png",
+        "prompt": "\u201cImagine a scene in a winter landscape where a man wearing a hoodie stands in profile. He has both hands covering his face, capturing a moment of contemplation or solitude amidst the snowy backdrop.\u201d",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
