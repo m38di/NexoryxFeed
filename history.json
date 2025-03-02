@@ -2553,5 +2553,12 @@
         "prompt": "\u201cVisualize a full-body image of a man wearing a hoodie, standing in a winter setting. His hands are placed on his face, and the photograph is taken from behind, showcasing the snowy landscape and the atmosphere of the cold season.\u201d",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/02 23:01:56",
+        "image_url": "https://i.ibb.co/1YKDFptz/71b9b3ca741e.png",
+        "prompt": "Create a highly detailed 3D graphic rendering of a realistic bear with an animated style. The bear should have soft, fluffy fur and expressive features, blending realism with a charming animated aesthetic. Use natural colors for the fur but add a slightly exaggerated, cartoonish touch to its proportions, like large eyes or a rounded snout. The environment around the bear should be a serene forest scene with bright, vibrant colors, complementing the animated style while maintaining realistic textures.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
