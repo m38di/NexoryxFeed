@@ -2483,5 +2483,12 @@
         "prompt": "is a \"MAHDI\" logo or artwork, possibly designed for a group or project.\u00a0\u00a0\u00a0\u00a0 It has a large, central design of interlocking, chrome-like or metallic letters that appear stylized and possibly represent a name or title.\u00a0\u00a0\u00a0 The letters are sharp, angular, and have a three-dimensional quality, usually sculpted with highlights and shadows that give off a metallic sheen.\u00a0\n\n\n\u00a0\u00a0 The overall style is dark and edgy, with a gothic or black metal aesthetic.\u00a0\u00a0\u00a0 The background is dark, almost black, with streaks of blue-gray textures and faint lines, Lacter, or energy effects.\u00a0\u00a0\u00a0 These textures contrast with the bright and reflective quality of the central letters..\u00a0\u00a0\u00a0 The background details appear abstract, and the narrative or vivid representational elements are primarily intended to dramatically accentuate the central metal letters.\u00a0\u00a0\u00a0\u00a0 The combination of darkness, sharp angles and metallic reflections creates a striking and memorable visual piece.\n\n\n\u00a0\u00a0 \u25cf Model: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Schnell]"
+    },
+    {
+        "date": "2025/03/02 16:29:03",
+        "image_url": "https://i.ibb.co/Kpb7CL3b/fd9f35026cda.jpg",
+        "prompt": "\u0645\u0631\u062f \u0642\u062f \u0628\u0644\u0646\u062f \u0633\u06cc\u0627\u0647\u067e\u0648\u0633\u062a \u0647\u06cc\u06a9\u0644\u0645\u0646\u062f \u0628\u0627 \u0644\u0628\u0627\u0633\u200c\u0647\u0627\u06cc \u0633\u0641\u06cc\u062f \u0648 \u06a9\u0641\u0634\u200c\u0647\u0627\u06cc \u0642\u0631\u0645\u0632 \u062f\u0631 \u062d\u0627\u0644 \u0631\u0627\u0647 \u0631\u0641\u062a\u0646 \u062f\u0631 \u062e\u06cc\u0627\u0628\u0627\u0646",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
