@@ -2672,5 +2672,12 @@
         "prompt": "\u201cVisualize five men standing behind a table, with a photo frame positioned on the table facing the camera. The composition captures a moment of camaraderie or discussion, with the framed picture adding a focal point of interest to the scene.\u201d",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/03 15:47:41",
+        "image_url": "https://i.ibb.co/67840hrS/5d99d52cf0b0.png",
+        "prompt": "\u2756 \"Five men standing together, dressed in elegant classic attire, with the man in the center holding a large picture frame in his hands.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
