@@ -2770,5 +2770,12 @@
         "prompt": "\"Two men holding bottles of alcohol, and two other men sitting on chairs with cigarettes in their hands, all inside an old vintage house.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/03/03 21:00:25",
+        "image_url": "https://i.ibb.co/HLfcXLDW/cc629a8433cf.png",
+        "prompt": "Automotive X2, A navy blue BMW Series 7 2023 on road",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [AutoMotive-LoRA]"
     }
 ]
