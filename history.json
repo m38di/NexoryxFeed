@@ -2637,5 +2637,12 @@
         "prompt": "\u201cVisualize five men standing behind a table, with a photo frame positioned on the table facing the camera. The composition captures a moment of camaraderie or discussion, with the framed picture adding a focal point of interest to the scene.\u201d",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/03 14:10:18",
+        "image_url": "https://i.ibb.co/CKhrgFXZ/f8365e9a6e66.png",
+        "prompt": "\u201cVisualize five men standing behind a table, with a photo frame positioned on the table facing the camera. The composition captures a moment of camaraderie or discussion, with the framed picture adding a focal point of interest to the scene.\u201d",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large-Turbo]"
     }
 ]
