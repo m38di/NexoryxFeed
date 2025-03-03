@@ -2812,5 +2812,12 @@
         "prompt": "An art image for the rap and music industry\n\nVery dark background\n\nRed and pale clouds with lightning in between\n\nThe name Ares should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\n\nWith red streaks",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/04 00:24:09",
+        "image_url": "https://i.ibb.co/0p67CwSq/1f2f9ed00eb2.png",
+        "prompt": "An art image for the rap and music industry\n\nVery dark background\n\nRed and pale clouds with lightning in between\n\nThe name Ares should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\n\nWith red streaks",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
