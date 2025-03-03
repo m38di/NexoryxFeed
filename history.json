@@ -2924,5 +2924,12 @@
         "prompt": "An art image for the rap and music industry\n\nThe name Ares is written in the middle of the image in a font that looks like blood\n\nThe color of the writing is in red, a combination of light effects that make him look natural",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/04 00:52:31",
+        "image_url": "https://i.ibb.co/FL16tQt8/f93dc3fa48ea.png",
+        "prompt": "An art image for the rap and music industry\n\nThe name Ares is written in the middle of the image in a font that looks like blood\n\nThe color of the writing is in red, a combination of light effects that make him look natural",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
