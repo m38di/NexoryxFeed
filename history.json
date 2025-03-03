@@ -2910,5 +2910,12 @@
         "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name Ares should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/04 00:47:38",
+        "image_url": "https://i.ibb.co/LhngJkmD/26a1a28f24df.png",
+        "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name Ares should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
