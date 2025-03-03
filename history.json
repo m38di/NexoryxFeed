@@ -2721,5 +2721,12 @@
         "prompt": "\"Five men standing together, with the man in the center holding a large picture frame in his hands.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/03 17:19:56",
+        "image_url": "https://i.ibb.co/pjwyC1pv/518e56e3945e.png",
+        "prompt": "\"Five men standing together, with the man in the center holding a large picture frame in his hands.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
