@@ -2588,5 +2588,12 @@
         "prompt": "3d cute cartoonic Brown Bear, Solid color background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/03 03:04:24",
+        "image_url": "https://i.ibb.co/GvXQFB2L/6473e1a38318.png",
+        "prompt": "3d cute cartoonic Brown Bear, Solid Burgundy Red color background",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Schnell]"
     }
 ]
