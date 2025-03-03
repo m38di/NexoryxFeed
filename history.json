@@ -2714,5 +2714,12 @@
         "prompt": "image presents a stylized uppercase letter \"M\" rendered in bold, white, and outlined against a stark black background.  The \"M\" is not a standard typeface; it's dynamically designed, appearing as if it's leaning or in motion. The top of the \"M\" is shaped like a pointed hat or cone, featuring several horizontal lines suggesting texture or shading.\n\nTwo small, circular, red emojis are incorporated into the design.  These emojis are simple depictions of faces, one with a sad expression, positioned at the lower left, seemingly attached to the leg of the \"M\". The second sad-faced emoji is located on the upper right side of the letter, at the curved juncture of the hat-like top.  These emojis add a quirky, almost cartoonish element to the otherwise sharp, geometric letterform.  The overall effect is a graphic design with a slightly playful and possibly melancholic undertone, given the sad faces.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/03 16:34:51",
+        "image_url": "https://i.ibb.co/GfgQ0MYC/17e043086940.png",
+        "prompt": "\"Five men standing together, with the man in the center holding a large picture frame in his hands.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
