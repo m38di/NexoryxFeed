@@ -2854,5 +2854,12 @@
         "prompt": "An art image for the rap and music industry\n\nThe background is very dark\nBlack and gray clouds are visible\n\nThe name Ares is written in the middle of the image in a font with sharp corners\n\nThe color of the writing is in the form of metal, a combination of silver and gray\n\nWith red veins",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/04 00:31:34",
+        "image_url": "https://i.ibb.co/VY52ZjV6/05de953ebe5e.png",
+        "prompt": "An art image for the rap and music industry\n\nThe background is very dark\nBlack and gray clouds are visible\n\nThe name Ares is written in the middle of the image in a font with sharp corners\n\nThe color of the writing is in the form of metal, a combination of silver and gray\n\nWith red veins",
+        "aspect_ratio": "1:1",
+        "model": "StableDiffusion 3.5 [Large]"
     }
 ]
