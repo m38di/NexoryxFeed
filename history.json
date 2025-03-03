@@ -2602,5 +2602,12 @@
         "prompt": "3d cute cartoonic Brown Bear, Solid Burgundy Red color background",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/03 03:17:16",
+        "image_url": "https://i.ibb.co/Z1JWSmzw/8718b1554421.png",
+        "prompt": "Super Portrait, A close-up of a young man with dark brown eyes and wavy black hair. He is wearing a dark green trench coat with a high collar and a light brown scarf around his neck. The backdrop is a cloudy gray, adding an air of mystery to the scene.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Super-Portrait-LoRA]"
     }
 ]
