@@ -3064,5 +3064,12 @@
         "prompt": "\"Two men sitting on old chairs, and three other men seated around a table, with a picture frame placed on the table facing the camera.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/04 13:59:54",
+        "image_url": "https://i.ibb.co/hR3QG2GJ/75bc933b825f.png",
+        "prompt": "\"Two men sitting on old chairs, and three other men seated around a table, with a picture frame placed on the table facing the camera.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
