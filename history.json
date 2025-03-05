@@ -3120,5 +3120,12 @@
         "prompt": "\"A complete photo of a table with cigarettes, an ashtray, alcohol bottles, and glasses of alcohol on it.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/05 04:29:42",
+        "image_url": "https://i.ibb.co/ZRpwh5Tw/7f99ea71eae9.png",
+        "prompt": "\"A full, front-facing view of a table with cigarettes, an ashtray, alcohol bottles, and glasses of alcohol arranged on it.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
