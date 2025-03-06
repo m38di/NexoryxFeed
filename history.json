@@ -3197,5 +3197,12 @@
         "prompt": ": [A white abstract cat with round black glasses, minimalist style, light blue monochrome background, the word Meowsic in typewriter font (Courier New) next to the cat, modern and digital vibe, musical and intelligent atmosphere, soft lighting with subtle shadows]",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large]"
+    },
+    {
+        "date": "2025/03/06 03:54:16",
+        "image_url": "https://i.ibb.co/b5qJtcBy/90cffb1fd0cc.png",
+        "prompt": "A highly detailed and artistic 3D neon map of planet Earth, with each country elevated in glowing neon relief, featuring intricate borders and vibrant gradients of blue, purple, and pink. Major cities are highlighted with pulsating neon dots, connected by shimmering neon pathways. The map is set against a deep, starry cosmic background with holographic grid lines and subtle cyberpunk elements, creating a futuristic and immersive sci-fi masterpiece",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
