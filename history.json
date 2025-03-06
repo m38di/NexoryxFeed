@@ -3232,5 +3232,12 @@
         "prompt": "A black ink tattoo-style illustration of a curved, leafless tree branch with detailed, fine lines. The branch bends naturally, extending from one side to another, with smaller twigs growing outward. The design is high contrast, with sharp and clean lines, set on a pure white background. The branch should have a natural, organic flow, and its twigs should be thin and slightly jagged, resembling a real tree.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/07 01:11:03",
+        "image_url": "https://i.ibb.co/k2CQmgXG/df1d007b5f72.jpg",
+        "prompt": "\"A black ink tattoo-style illustration of a curved, leafless tree branch with fine details and sharp lines. The branch bends naturally, extending from one side to another, with smaller twigs growing outward. Several birds are flying away from the branch, positioned organically as if taking off. The birds are simple, solid black silhouettes, arranged in a natural flow. The design is high contrast, clean, and sharp, set on a pure white background. The composition should look elegant and balanced, suitable for a tattoo.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
