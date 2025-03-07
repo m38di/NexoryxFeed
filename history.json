@@ -3309,5 +3309,12 @@
         "prompt": "`A photorealistic, cinematic image of a single black raven perched prominently in the foreground, detailed feathers catching the red light.\u00a0 Background shows a desolate, scorched landscape, with roaring fires and billowing smoke filling the distance. The sky is a fiery blood-red, thick with smoke and ash.\u00a0 Ominous and dark atmosphere, apocalyptic scene. Low-key, dramatic, and backlit cinematic lighting emphasizing the raven's silhouette against the fiery backdrop. Volumetric light and a sense of infernal glow emanating from the background fires. Low angle perspective, shallow depth of field to blur the background and focus sharply on the raven in the foreground. Raven has glowing red eyes, adding a touch of otherworldly or supernatural element. Style: dark fantasy, horror, photorealistic render, 8k, octane render --ar 16:9 --zoom 1.2 --v 5 --q 2 --s 750 --neg bright, colorful, daytime, sunny, cartoonish, illustration, vibrant, detailed sky, clear sky, multiple ravens in foreground, human figures`",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/07 23:36:17",
+        "image_url": "https://i.ibb.co/XfCq5FQx/28d907b2d621.jpg",
+        "prompt": "A highly detailed and immersive POV (Point of View) scene featuring several cows with unusually large, expressive eyes staring directly at the viewer. The cows are positioned in a natural outdoor environment, such as a serene meadow or grassy field, with soft natural lighting enhancing their features. The oversized eyes are hyper-realistic, filled with intricate details like reflections and depth, creating an eerie yet captivating atmosphere. The composition is designed to make the viewer feel as if they are standing face-to-face with the cows, emphasizing the intensity of their gaze. Ultra-realistic textures, cinematic composition, 8K resolution, full HD, professional attention to details such as fur texture, eye reflections, and environmental elements, designed with precision and creativity for an artistic and surreal aesthetic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
