@@ -3323,5 +3323,12 @@
         "prompt": "A hyper-realistic POV (Point of View) scene where several cows with strikingly large, luminous eyes stare directly into the camera lens, creating an intense and immersive gaze. The cows are positioned in a natural outdoor setting like a sunlit meadow, with soft cinematic lighting casting warm golden tones. The oversized eyes are meticulously detailed, featuring reflections of the camera lens and surrounding environment, while the cows' calm yet curious expressions add an eerie yet captivating atmosphere. The composition mimics the perspective of a photographer\u2019s lens, with subtle depth of field and lens flare effects to enhance realism. Ultra-sharp details, 8K resolution, full HD, professional attention to fur texture, eye reflections, and environmental elements like grass and sunlight, designed for a surreal and artistic aesthetic.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/07 23:39:17",
+        "image_url": "https://i.ibb.co/kVJCb1ft/f8dad2d396da.jpg",
+        "prompt": "A hyper-realistic POV (Point of View) scene where several cows with strikingly large, luminous eyes stare directly into the camera lens, framed within a circular black border to mimic the viewfinder of a camera lens. The cows are positioned in a natural outdoor setting like a sunlit meadow, with soft cinematic lighting casting warm golden tones. The oversized eyes are meticulously detailed, featuring reflections of the camera lens and surrounding environment, while the cows' calm yet curious expressions add an eerie yet captivating atmosphere. The circular frame is surrounded by a dark vignette effect, emphasizing the central focus on the cows and their intense gaze. Ultra-sharp details, 8K resolution, full HD, professional attention to fur texture, eye reflections, and environmental elements like grass and sunlight, designed for a surreal and artistic aesthetic.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
