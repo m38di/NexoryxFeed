@@ -3260,5 +3260,12 @@
         "prompt": "\"A highly detailed black ink tattoo design on a white background. A curved, leafless tree branch extends naturally, with small, sharp offshoots. The branch follows an arc similar to a shoulder tattoo, with intricate line work and high contrast. The design is clean and bold, making it perfect for tattooing.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/07 09:57:56",
+        "image_url": "https://i.ibb.co/gb8QV4rV/9a1f0648353b.jpg",
+        "prompt": "\"A black ink tattoo design on a pure white background. A curved, leafless tree branch with the exact shape and number of offshoots as marked in the reference image. The branch extends naturally, following an arching motion. All black elements from the original tattoo must be included, preserving the artistic look. High contrast, fine linework, and bold details suitable for tattooing.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
