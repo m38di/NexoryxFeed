@@ -3358,5 +3358,12 @@
         "prompt": "prompt: [1], A woman's torso with \"Love App\" and painted hearts on her chest, she is looking directly at the viewer with a subtle smirk, the background is a soft, muted grey, suggesting a sense of introspection and quiet confidence, Sculpture, bronze cast with smooth, polished surfaces highlighting the curves of the body, --ar 16:9 --v 6.1",
         "aspect_ratio": "16:9",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/08 23:00:42",
+        "image_url": "https://i.ibb.co/tMJC4ztb/31e1253f643c.jpg",
+        "prompt": "A music album cover with the word \"Mehdi Kooni\". The background is an angelic figure, wearing white robes and holding out her wings to shield someone in need of help. At its center stands a woman with blonde hair and brown eyes, with long flowing locks and silver earrings. She has dark makeup on her face, giving off a mysterious yet beautiful aura. Her name 'Ivanna' is written below in large letters.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
