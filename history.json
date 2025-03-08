@@ -3351,5 +3351,12 @@
         "prompt": "The image is a stylized graphic design that prominently features the word \"CARDI.\" Here's a breakdown of the details:\n\n* The word \"CARDI\": The word is written in a bold, three-dimensional font. The letters are primarily silver or light gray, giving a metallic look. Intricate red detailing, similar to a slipper or paisley pattern, fills the recesses of the letters, creating strong contrast. The \"N\" and \"L\" are topped with small, stylish devil horns, adding to the special feel.\n\n* Background: Black \n\n* Katana: A silver katana, a Japanese sword, is located horizontally throughout the graphic. This adds another layer of visual interest and possibly thematic elements, suggesting action, combat, or perhaps a sense of struggle for survival (a connection to the word \"CARDI\").\n\n* Overall Style and Mood: The overall style is dark, dramatic, and intense. The combination of metallic lettering, red details, shadowy figures, and the katana creates an image that is both striking and evocative. The imagery suggests themes of survival, power, possibly even demonic or supernatural elements due to the horns. The color palette lends itself greatly to the violent pink aesthetic.\n\n\u25cf Model: Gemini-Vision\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/08 22:47:16",
+        "image_url": "https://i.ibb.co/mCycZgcd/ad5c9e53a94e.jpg",
+        "prompt": "prompt: [1], A woman's torso with \"Love App\" and painted hearts on her chest, she is looking directly at the viewer with a subtle smirk, the background is a soft, muted grey, suggesting a sense of introspection and quiet confidence, Sculpture, bronze cast with smooth, polished surfaces highlighting the curves of the body, --ar 16:9 --v 6.1",
+        "aspect_ratio": "16:9",
+        "model": "FLUX 1 [Pro]"
     }
 ]
