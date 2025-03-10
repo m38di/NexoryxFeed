@@ -3484,5 +3484,12 @@
         "prompt": "A simple vector logo of the Spider-Man symbol, on a white background, with no shadows, using black and simple lines, in a flat design, minimalist style, and solid shapes.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/11 00:05:11",
+        "image_url": "https://i.ibb.co/G3MhkjpS/db37684a546e.jpg",
+        "prompt": "\"A beautiful young woman with long brown hair, confidently standing in full military attire, consisting of a dark green camo jacket, matching pants, black combat boots, and a military cap. She has a strong, determined expression, exuding confidence and discipline. The background is pure white, ensuring the focus remains entirely on her and her commanding presence.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
