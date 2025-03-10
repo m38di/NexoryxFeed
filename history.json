@@ -3491,5 +3491,12 @@
         "prompt": "\"A beautiful young woman with long brown hair, confidently standing in full military attire, consisting of a dark green camo jacket, matching pants, black combat boots, and a military cap. She has a strong, determined expression, exuding confidence and discipline. The background is pure white, ensuring the focus remains entirely on her and her commanding presence.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/11 00:20:38",
+        "image_url": "https://i.ibb.co/gLN2hwZy/dc6c7e18c26f.jpg",
+        "prompt": "\"A stunning and beautiful female soldier with a captivating face, wearing a stylish and well-fitted military uniform. She has long, flowing hair and a confident yet charming expression. Her uniform is detailed, with visible badges and accessories, giving her a strong yet elegant presence. The background is slightly blurred, resembling a battlefield or a dramatic military setting. The lighting is cinematic, highlighting her facial features and the texture of her uniform.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
