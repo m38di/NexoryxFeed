@@ -3428,5 +3428,12 @@
         "prompt": "A cinematic scene showcasing a packed movie theater. The audience is seated, watching a big screen with vivid visuals. The image is captured from behind the crowd, highlighting the silhouettes of people and the soft glow of the screen, creating an atmospheric and immersive view of the cinema experience.*",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/10 14:39:19",
+        "image_url": "https://i.ibb.co/TxrvCwPX/7ecf16d44447.png",
+        "prompt": "A perfectly symmetrical view of a cinema hall captured from the center aisle. The image is taken from behind, showcasing rows of seated audience members on both sides of the frame. A square-shaped movie screen glows softly at the front, casting a muted light over the crowd. The alignment emphasizes the symmetry, evoking a balanced and focused cinematic",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
