@@ -3435,5 +3435,12 @@
         "prompt": "A perfectly symmetrical view of a cinema hall captured from the center aisle. The image is taken from behind, showcasing rows of seated audience members on both sides of the frame. A square-shaped movie screen glows softly at the front, casting a muted light over the crowd. The alignment emphasizes the symmetry, evoking a balanced and focused cinematic",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Mix-Midjourney-LoRA]"
+    },
+    {
+        "date": "2025/03/10 15:43:52",
+        "image_url": "https://i.ibb.co/LD72wP82/3f2927d9bd74.png",
+        "prompt": "Design a minimalist yet conceptual logo that combines the image of a spider with symbols representing networking and data mining. The design should be modern and professional, using precise geometric lines to convey a sense of technology and data analysis. Incorporate a futuristic and analytical typography style for the word 'Ankabut' in English. The color scheme should be dark and sophisticated, featuring shades like black, gray, and deep blue to enhance the tech-inspired aesthetic. The overall look should be simple yet intelligent, ensuring an immediate visual connection between the spider and the concept of data-driven networks",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
