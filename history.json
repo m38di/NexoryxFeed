@@ -3449,5 +3449,12 @@
         "prompt": "Create a modern and minimalistic logo for a group called 'Ankabut' that focuses on OSINT, data mining, and AI. The design should feature a stylized spider or a web pattern integrated with data network elements, symbolizing intelligence gathering and analysis. Use a dark, futuristic color scheme such as black, gray, deep blue, or red to convey a tech-savvy and analytical feel. The typography should be sleek and modern, complementing the theme. Ensure the logo is unique, visually striking, and instantly recognizable while maintaining simplicity and clarity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Super-Portrait-LoRA]"
+    },
+    {
+        "date": "2025/03/10 15:51:58",
+        "image_url": "https://i.ibb.co/mC6BgvLj/fa7cdc5d938f.png",
+        "prompt": "Create a modern and minimalistic logo for a group called 'Ankabut' that focuses on OSINT, data mining, and AI. The design should feature a stylized spider or a web pattern integrated with data network elements, symbolizing intelligence gathering and analysis. Use a dark, futuristic color scheme such as black, gray, deep blue, or red to convey a tech-savvy and analytical feel. The typography should be sleek and modern, complementing the theme. Ensure the logo is unique, visually striking, and instantly recognizable while maintaining simplicity and clarity.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
     }
 ]
