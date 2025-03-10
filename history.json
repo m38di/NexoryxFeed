@@ -3421,5 +3421,12 @@
         "prompt": "test",
         "aspect_ratio": "1:1",
         "model": "StableDiffusion 3.5 [Large-Turbo]"
+    },
+    {
+        "date": "2025/03/10 14:38:23",
+        "image_url": "https://i.ibb.co/PGP3XdfT/d0bcaeb74019.png",
+        "prompt": "A cinematic scene showcasing a packed movie theater. The audience is seated, watching a big screen with vivid visuals. The image is captured from behind the crowd, highlighting the silhouettes of people and the soft glow of the screen, creating an atmospheric and immersive view of the cinema experience.*",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
