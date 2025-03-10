@@ -3456,5 +3456,12 @@
         "prompt": "Create a modern and minimalistic logo for a group called 'Ankabut' that focuses on OSINT, data mining, and AI. The design should feature a stylized spider or a web pattern integrated with data network elements, symbolizing intelligence gathering and analysis. Use a dark, futuristic color scheme such as black, gray, deep blue, or red to convey a tech-savvy and analytical feel. The typography should be sleek and modern, complementing the theme. Ensure the logo is unique, visually striking, and instantly recognizable while maintaining simplicity and clarity.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Nexo\u200c\u200c-LoRA]\u200c"
+    },
+    {
+        "date": "2025/03/10 16:06:15",
+        "image_url": "https://i.ibb.co/0RyxyBqg/b82fb6dac2ad.png",
+        "prompt": "A simple vector logo of the Spider-Man symbol, on a white background, with no shadows, using black and simple lines, in a flat design, minimalist style, and solid shapes.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Mix-Midjourney-LoRA]"
     }
 ]
