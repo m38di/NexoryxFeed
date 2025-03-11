@@ -3554,5 +3554,12 @@
         "prompt": "a Create a logo with the name arshia",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/12 01:59:30",
+        "image_url": "https://i.ibb.co/yn31VDDs/bd0b432dd52b.jpg",
+        "prompt": "a Create a logo with the name arshia gap",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
