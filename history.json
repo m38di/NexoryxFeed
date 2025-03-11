@@ -3547,5 +3547,12 @@
         "prompt": "a Create a gaming logo with the name arshia",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/12 01:55:27",
+        "image_url": "https://i.ibb.co/6J8sDSDn/813775211df9.jpg",
+        "prompt": "a Create a logo with the name arshia",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
