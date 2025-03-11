@@ -3575,5 +3575,12 @@
         "prompt": "a Make me a cool logo with the letter A.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/12 02:13:45",
+        "image_url": "https://i.ibb.co/3m3Fh4XJ/4aa19bb55ac3.jpg",
+        "prompt": "a Make me a cool and busy logo with the letter A.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
