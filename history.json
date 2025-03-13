@@ -3827,5 +3827,12 @@
         "prompt": "[Silhouetted figure walking across a bridge at sunset, large orange moon in the sky, feeling of solitude and contemplation], [Digital painting, anime-inspired landscape art], [Style reminiscent of Makoto Shinkai's work], [Warm sunset colors transitioning to dark blues in the sky, highly detailed clouds, silhouetted figure with minimal detail, smooth water reflection, strong contrast between light and dark, calm and serene atmosphere, suspension bridge with visible cables, realistic rendering of the moon and sky.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/13 21:12:31",
+        "image_url": "https://i.ibb.co/C5m54hGG/ad01287ac30f.jpg",
+        "prompt": "[Two figures standing in a desert landscape, observing a recreational vehicle at sunset, a sense of anticipation or contemplation], [Digital painting, photorealistic style reminiscent of film stills], [Inspired by the cinematography of Breaking Bad and Better Call Saul], [Warm, hazy, golden-hour lighting, cracked earth texture, sparse desert vegetation, distant mountains shrouded in haze, flock of birds in the sky, realistic rendering of the RV and figures, muted color palette with emphasis on yellows and oranges, shallow depth of field, focus on the figures and the RV, overall mood is suspenseful and atmospheric.]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
