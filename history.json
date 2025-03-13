@@ -3666,5 +3666,12 @@
         "prompt": " The image depicts a romantic scene under a night sky, illuminated by a bright moon. A knight in full black armor embraces a woman in a flowing, light-blue gown.  They are locked in a tender kiss.\n\nThe setting appears to be a garden, with lush rose bushes blooming in shades of pink and white around them.\u00a0 The roses frame the couple, creating a natural archway or passage.  The garden is set within an architectural structure, perhaps a stone alcove or part of a larger building, suggested by the visible stonework to the sides.\n\nThe woman's dress is elegant and detailed, showing lace or delicate embroidery. Her hair is long and dark, cascading down her back.  The knight's armor is dark and highly polished, reflecting the moonlight.  The overall atmosphere is one of romance, mystery, and perhaps a hint of fantasy. The color palette is predominantly cool blues and greens, contrasting beautifully with the warmer tones of the roses.  is subtly visible in the center of the image, potentially part of the artwork's signature or a superimposed message.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/13 12:31:26",
+        "image_url": "https://i.ibb.co/7t0ps9Dp/1256fa5a23e6.jpg",
+        "prompt": "[a sleek, satanic typography that reads \"Ankabut\" and contains devil-like features (like an arrow-shaped tail and horns). Black on white background.]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
