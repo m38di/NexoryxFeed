@@ -3673,5 +3673,12 @@
         "prompt": "[a sleek, satanic typography that reads \"Ankabut\" and contains devil-like features (like an arrow-shaped tail and horns). Black on white background.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/13 17:29:25",
+        "image_url": "https://i.ibb.co/zWmZ0C3H/6eefdb11b7b2.jpg",
+        "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name TraA should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
