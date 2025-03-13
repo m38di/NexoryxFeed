@@ -3869,5 +3869,12 @@
         "prompt": "A vertical image of a spider whose entire body and legs are composed of laptop keyboard keys. The keys are arranged meticulously to form the shape of a realistic spider, with larger keys like \"Enter\" and \"Shift\" making up the body, while smaller keys form the legs. The scene is illuminated with cyberpunk-style lighting in deep blue and red hues, creating a futuristic and eerie atmosphere. The image is captured from a top-down perspective, emphasizing the intricate details of the keyboard keys forming the spider.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 01:23:43",
+        "image_url": "https://i.ibb.co/gFRJK6cw/0394ab03da44.jpg",
+        "prompt": "Create a vertical image of a spider artistically composed entirely of laptop keyboard keys. The spider's body should prominently feature larger keys, such as \"Enter,\" \"Spacebar,\" and \"Shift,\" while its legs are constructed from smaller keys like \"A,\" \"S,\" \"D,\" and \"W.\" The arrangement of the keys should be meticulous and realistic, showcasing intricate detail in the shape and texture of the spider.\n\nIlluminate the scene with a cyberpunk aesthetic, utilizing deep blue and vibrant red lighting to evoke a futuristic and eerie atmosphere. The ambient glow should accentuate the contours of the keys, creating striking shadows and highlights. Capture the image from a top-down perspective to emphasize the intricate craftsmanship of the keyboard keys forming this unique spider, making sure to convey a sense of depth and dimensionality.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
