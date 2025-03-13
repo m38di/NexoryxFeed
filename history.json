@@ -3876,5 +3876,12 @@
         "prompt": "Create a vertical image of a spider artistically composed entirely of laptop keyboard keys. The spider's body should prominently feature larger keys, such as \"Enter,\" \"Spacebar,\" and \"Shift,\" while its legs are constructed from smaller keys like \"A,\" \"S,\" \"D,\" and \"W.\" The arrangement of the keys should be meticulous and realistic, showcasing intricate detail in the shape and texture of the spider.\n\nIlluminate the scene with a cyberpunk aesthetic, utilizing deep blue and vibrant red lighting to evoke a futuristic and eerie atmosphere. The ambient glow should accentuate the contours of the keys, creating striking shadows and highlights. Capture the image from a top-down perspective to emphasize the intricate craftsmanship of the keyboard keys forming this unique spider, making sure to convey a sense of depth and dimensionality.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 02:39:58",
+        "image_url": "https://i.ibb.co/fGDmgmKv/b3f497ee027a.jpg",
+        "prompt": "Cool isometric + cyberpunk bedroom + with a mac --ar 3:2",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
