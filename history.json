@@ -3848,5 +3848,12 @@
         "prompt": "\"A stylized logo or artwork, named after Traa. It features a large, central design element consisting of interlocking, chrome-like or metallic letters that appear to be stylized and likely represent a name or title. The letters are sharp, angular, and have a three-dimensional quality, composed of metallic highlights.\n\nThe overall style is dark and edgy, with a gothic or black metal aesthetic. The background is dark, almost black, with streaks of bluish-gray textures and faint, cracked lines or energy effects. These textures contrast with the bright, reflective quality of the central letters.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/13 22:03:59",
+        "image_url": "https://i.ibb.co/bRvfDtfv/345c527bb8a6.jpg",
+        "prompt": "[A lone knight in ornate armor and a crimson cloak sits on a rocky outcrop, gazing at a starry night sky, a sword resting beside him, conveying a sense of quiet contemplation and perhaps weariness], [Digital fantasy art, cinematic illustration], [Inspired by Frank Frazetta and Boris Vallejo for the character design and dramatic lighting, Greg Rutkowski for the environmental detail], [Dark, atmospheric night scene, vibrant stars and nebulae in the sky, detailed armor with metallic highlights, rich textures on the cloak and rock, soft light source from the stars, deep shadows, high dynamic range, focus on the knight's figure, sense of scale and vastness, overall mood is melancholic and epic.]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
