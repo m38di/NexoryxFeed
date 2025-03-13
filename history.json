@@ -3680,5 +3680,12 @@
         "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name TraA should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/13 17:31:16",
+        "image_url": "https://i.ibb.co/zVpmXFwC/a854fbbe4cf7.jpg",
+        "prompt": "\"A stylized logo or artwork, named after TraA. It features a large, central design element consisting of interlocking, chrome-like or metallic letters that appear to be stylized and likely represent a name or title. The letters are sharp, angular, and have a three-dimensional quality, composed of metallic highlights.\n\nThe overall style is dark and edgy, with a gothic or black metal aesthetic. The background is dark, almost black, with streaks of bluish-gray textures and faint, cracked lines or energy effects. These textures contrast with the bright, reflective quality of the central letters.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
