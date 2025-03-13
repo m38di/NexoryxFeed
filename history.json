@@ -3792,5 +3792,12 @@
         "prompt": "[Solitary figure in a long coat standing on a subway platform, blurred motion of a train passing, feeling of isolation and anonymity], [Digital art, cyberpunk-inspired photography, motion blur effect], [Inspired by Syd Mead's futuristic cityscapes and Blade Runner's visual style], [Predominantly dark teal and black color palette, high contrast, strong motion blur effect on the train, text overlay with artist's signature and social media handle, grain added for a film-like texture, shallow depth of field focusing on the figure, ambient lighting from the train and platform, slightly desaturated colors.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/13 21:03:17",
+        "image_url": "https://i.ibb.co/0jR5H85Y/0fbafae45fe6.jpg",
+        "prompt": "[Solitary figure in a long coat on a subway platform, blurred motion of a train passing, feeling of isolation and anonymity], [Digital art, cinematic poster style, motion blur effect], [Inspired by Blade Runner 2049 and Syd Mead's futuristic cityscapes], [Predominantly dark teal and black color palette, strong motion blur effect on the train, text overlay with artist's signature and Instagram handle, gritty texture, high contrast, ambient lighting, shallow depth of field focusing on the figure, overall moody and mysterious atmosphere.]",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
