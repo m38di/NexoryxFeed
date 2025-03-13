@@ -3855,5 +3855,12 @@
         "prompt": "[A lone knight in ornate armor and a crimson cloak sits on a rocky outcrop, gazing at a starry night sky, a sword resting beside him, conveying a sense of quiet contemplation and perhaps weariness], [Digital fantasy art, cinematic illustration], [Inspired by Frank Frazetta and Boris Vallejo for the character design and dramatic lighting, Greg Rutkowski for the environmental detail], [Dark, atmospheric night scene, vibrant stars and nebulae in the sky, detailed armor with metallic highlights, rich textures on the cloak and rock, soft light source from the stars, deep shadows, high dynamic range, focus on the knight's figure, sense of scale and vastness, overall mood is melancholic and epic.]",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 01:15:29",
+        "image_url": "https://i.ibb.co/8LcH0tnQ/061e2a58e7b1.jpg",
+        "prompt": "A vertical image of a spider whose entire body and legs are composed of laptop keyboard keys. The keys are arranged meticulously to form the shape of a realistic spider, with larger keys like \"Enter\" and \"Shift\" making up the body, while smaller keys form the legs. The scene is illuminated with cyberpunk-style lighting in deep blue and red hues, creating a futuristic and eerie atmosphere. The image is captured from a top-down perspective, emphasizing the intricate details of the keyboard keys forming the spider.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
