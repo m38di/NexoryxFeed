@@ -3967,5 +3967,12 @@
         "prompt": "An illustration of a spider sitting at a desk, intently working on a laptop. The spider features a cute, cartoonish design with large, expressive eyes. The scene is colorful and whimsical, with a cozy workspace filled with spider-friendly gadgets and stationery items. Soft light illuminates the workspace, creating a warm and inviting atmosphere",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 16:08:03",
+        "image_url": "https://i.ibb.co/bgQWLmxD/9f31fa11f537.jpg",
+        "prompt": "a stained glass figurine in the shape of a cute and magical little spider with a shiny glass ice shell and big shiny blue eyes, sit on a frosted surface, it has delicate ice crystals on it. the spider has a cheerful expression, her soft pink cheeks and glowing highlights enhance her charm. the background is soft, blurred ice scenes and glowing light reflections, create a whimsical, charming winter atmosphere. very detailed, energetic, and lovely, focus on cold textures and warmth, a magical feeling. delicate texture and color variation, stained glass windows. landscape elements: stained glass, oil painting style, the light from the stained glass comes in through the stained glass window, stained glass art. white background --ar 3:4 --v 6.1\n\n\ud83d\udc08\u200d\u2b1b @AskTheCatBot",
+        "aspect_ratio": "3:4",
+        "model": "FLUX 1 [Pro]"
     }
 ]
