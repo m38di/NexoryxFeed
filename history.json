@@ -3939,5 +3939,12 @@
         "prompt": "A mystical, glowing green eye floating in a surreal, cosmic environment. The eye appears otherworldly, surrounded by vibrant, swirling nebulae and scattered stars. Ethereal light emanates from the eye, blending seamlessly with the colors of the space, evoking a sense of mystery and supernatural presence.*",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 13:49:06",
+        "image_url": "https://i.ibb.co/9kxHSN8d/14c1fd1f7a58.jpg",
+        "prompt": "*An open window framed by delicate curtains fluttering gently in the breeze. Soft, natural light pours through, illuminating the room. Beyond the window, a serene view of a bright sky or a lush landscape is visible, evoking a sense of calm and openness.*",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
