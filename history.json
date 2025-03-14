@@ -4051,5 +4051,12 @@
         "prompt": "**\"A high-energy, world-class tournament logo featuring the name 'FilmbardaraM' in a bold, three-dimensional gaming-style font. The letters are sharp, angular, and have a fiery red metallic texture, glowing with intense molten energy, symbolizing passion and competition. The background is completely black with chaotic black streaks and scratches, creating a raw, battle-hardened aesthetic. Surrounding the logo, floating dollar bills enhance the theme of high stakes and global competition.\n\nTo add more depth and power, dynamic elements such as sparks, glowing embers, and subtle electric currents weave around the text, amplifying the dramatic effect. Additionally, futuristic metallic brackets, circuit-like patterns, and abstract gaming symbols are subtly placed around the typography to emphasize a high-tech, competitive atmosphere. The combination of fiery red lettering, dark chaotic textures, financial symbolism, and glowing power effects makes this design perfect for a high-profile esports or global gaming championship.\"**",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 18:10:07",
+        "image_url": "https://i.ibb.co/Jj8Dj957/70342fd94c38.jpg",
+        "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name M should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
