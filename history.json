@@ -3995,5 +3995,12 @@
         "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name Mahi should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 17:51:09",
+        "image_url": "https://i.ibb.co/4nf07BY1/6ee4fe380b09.jpg",
+        "prompt": "\n\n/img \"A bold and intense logo featuring the name 'FilmbardaraM' in a sharp, angular, three-dimensional gaming-style font. The letters have a fiery red metallic texture, glowing with an intense molten effect, giving off a battle-hardened, high-energy feel. The background is completely deep, fiery red with chaotic black streaks and scratches, creating a raw, aggressive aesthetic. Behind the text, a faint, blurred image of a ticket character is subtly integrated, blending seamlessly into the background while maintaining the focus on the central lettering. The combination of the red-hot metal text, dark chaotic lines, and hidden visual details creates a visually striking and unforgettable design, perfect for gaming or branding.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
