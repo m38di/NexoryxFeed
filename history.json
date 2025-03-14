@@ -3988,5 +3988,12 @@
         "prompt": "\"A bold and intense logo featuring the name 'FilmbardaraM' in a sharp, angular, three-dimensional gaming-style font. The letters have a fiery red metallic texture, glowing with an intense molten effect, giving off a battle-hardened, high-energy feel. The background is completely deep, fiery red with chaotic black streaks and scratches, creating a raw, aggressive aesthetic. Below the main text, '@FilmbardaraM' is written in a small, sleek white font, inspired by the iPhone typeface, standing out subtly yet clearly against the intense backdrop. The combination of the red-hot metal text, dark chaotic lines, and glowing effects creates a visually striking and unforgettable design, perfect for gaming or branding.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 17:49:35",
+        "image_url": "https://i.ibb.co/qMyv7nbs/57a1d56baef7.jpg",
+        "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name Mahi should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
