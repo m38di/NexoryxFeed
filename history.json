@@ -3946,5 +3946,12 @@
         "prompt": "*An open window framed by delicate curtains fluttering gently in the breeze. Soft, natural light pours through, illuminating the room. Beyond the window, a serene view of a bright sky or a lush landscape is visible, evoking a sense of calm and openness.*",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 15:55:26",
+        "image_url": "https://i.ibb.co/p6q6CQmB/ab47de2323ec.jpg",
+        "prompt": "Create a realistic and cyberpunk-themed illustration of a spider crawling toward the YouTube logo. The scene should be set in a neon-lit urban environment, with futuristic buildings and glowing signs in the background. The spider should have metallic and bioluminescent features, reflecting the cyberpunk aesthetic. The logo should be vivid and prominent, surrounded by a contrasting dark atmosphere, enhancing the eerie sense of the spider\u2019s approach",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
