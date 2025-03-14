@@ -3890,5 +3890,12 @@
         "prompt": "Here\u2019s a prompt in English with your requested details:\n\n\"A striking, high-detail logo featuring the name 'Parham' in a bold, three-dimensional gaming-style font. The letters are sharp, angular, and have a fiery red metallic texture, glowing with an intense, molten energy effect. The design is sleek and modern, resembling a futuristic or battle-hardened gaming aesthetic. The background is dark, nearly black, with streaks of ember-like textures, faint glowing cracks, and abstract energy lines, enhancing the intensity of the central lettering. The contrast between the dark backdrop and the fiery red metal text creates a powerful and dynamic visual impact, embodying strength, action, and gaming spirit.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 13:05:08",
+        "image_url": "https://i.ibb.co/G3QqFCNh/fc48546823a0.jpg",
+        "prompt": "A mystical, glowing green eye floating in a surreal, cosmic environment. The eye appears otherworldly, surrounded by vibrant, swirling nebulae and scattered stars. Ethereal light emanates from the eye, blending seamlessly with the colors of the space, evoking a sense of mystery and supernatural presence.*",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
