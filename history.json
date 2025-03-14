@@ -4065,5 +4065,12 @@
         "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name M should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 18:26:11",
+        "image_url": "https://i.ibb.co/cSfCmPHF/31fb0e92b32c.jpg",
+        "prompt": "\"A 3D balloon-style text with vibrant, multi-color gradient shading. The letters should have a glossy, inflated appearance with realistic reflections and soft shadows. The text follows a Russian-inspired typographic design, featuring subtle Cyrillic-style curves and details. The material should resemble smooth, shiny plastic, similar to helium balloons, with a slightly translucent effect. The background is clean and neutral to emphasize the vivid colors and depth of the text. Soft lighting enhances the highlights and adds a playful, dynamic feel.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
