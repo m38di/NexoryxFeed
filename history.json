@@ -4016,5 +4016,12 @@
         "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name MAHI should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 17:58:01",
+        "image_url": "https://i.ibb.co/jvrqS0mc/d68bda9ce878.jpg",
+        "prompt": "An art image for the rap and music industry\n\nBlack background\n\nThe name M should be written in the middle of the image in a font with sharp corners\n\nThe color of the writing should be in a metal form, a combination of silver and gray\nWith cracked veins",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
