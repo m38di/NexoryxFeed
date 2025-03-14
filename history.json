@@ -3974,5 +3974,12 @@
         "prompt": "a stained glass figurine in the shape of a cute and magical little spider with a shiny glass ice shell and big shiny blue eyes, sit on a frosted surface, it has delicate ice crystals on it. the spider has a cheerful expression, her soft pink cheeks and glowing highlights enhance her charm. the background is soft, blurred ice scenes and glowing light reflections, create a whimsical, charming winter atmosphere. very detailed, energetic, and lovely, focus on cold textures and warmth, a magical feeling. delicate texture and color variation, stained glass windows. landscape elements: stained glass, oil painting style, the light from the stained glass comes in through the stained glass window, stained glass art. white background --ar 3:4 --v 6.1\n\n\ud83d\udc08\u200d\u2b1b @AskTheCatBot",
         "aspect_ratio": "3:4",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/14 17:46:24",
+        "image_url": "https://i.ibb.co/xqrbgX1L/d758c8a7d6d3.jpg",
+        "prompt": "\"A bold and intense logo featuring the name 'FilmbardaraM' in a sharp, angular, three-dimensional gaming-style font. The letters have a fiery red metallic texture, glowing with an intense molten effect, giving off a battle-hardened, high-energy feel. The background is a deep, fiery red with swirling flames and black shadows, enhancing the dramatic and powerful aesthetic. Below the main text, '@FilmbardaraM' is written in a sleek, white iPhone-style font, standing out clearly against the intense background. The combination of the red-hot metal text, dark shadows, and glowing effects creates a visually striking and unforgettable design, perfect for a gaming or high-energy brand.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
