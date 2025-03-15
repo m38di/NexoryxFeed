@@ -4401,5 +4401,12 @@
         "prompt": " \u2756 The image shows a three-dimensional rendering of the words \"chalesh kodeh\" in a style reminiscent of a vintage marquee sign.\u00a0\n\n\nHere's a breakdown of the details:\n\n* Lettering: The letters are large, bold, and golden, appearing metallic or bronze. Each letter is outlined with what looks like small, illuminated bulbs, giving it a classic, glowing effect. The bulbs emit a warm, orange-yellow light.\n\n* Style: The font is a stylized serif typeface, suggestive of early to mid-20th-century signage.  The overall style is luxurious and eye-catching.\n\n* Background: The sign is mounted on a dark gray brick wall, which provides a textured and slightly gritty contrast to the polished look of the lettering. The bricks are irregularly shaped, adding to the realism.\n\n* Crown: Above the word \"BLACK,\" a golden crown sits, adding to the regal and premium impression.\n\n* Lighting Effects: The image incorporates dramatic lighting.  There's a spotlight effect from above, highlighting the sign.  Additionally, stylized electrical sparks or lightning bolts emanate from the sides of the sign, further enhancing the visual drama and suggesting energy or excitement.\n\n* Overall Impression: The image conveys a sense of opulence, exclusivity, and perhaps a touch of vintage glamour. The use of the crown particularly suggests high quality or prestige.  The lighting and stylistic choices create a powerful and memorable visual.\n\n\n\u25cf \u0645\u062f\u0644: Gemini-Vision",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/15 21:16:25",
+        "image_url": "https://i.ibb.co/B5pf65TM/517277e7a404.jpg",
+        "prompt": "\n\nPrompt:\n\"Create a high-quality gaming-style text logo featuring the word 'SIGMA' in a bold, futuristic font. The text should have a glowing, high-tech neon effect, blending vibrant blue and red colors for a dynamic and intense look. The letters should have sharp edges and an aggressive, modern aesthetic, fitting for a gaming brand. The background must be completely black to maximize contrast and make the glowing text stand out. Ensure a sleek, digital, and cyberpunk-inspired feel, with a polished and professional finish.\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
