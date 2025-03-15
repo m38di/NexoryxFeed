@@ -4429,5 +4429,12 @@
         "prompt": "\"Design a powerful gaming-style text logo featuring the word 'SIGMA' in a bold, handcrafted font. The text should have a unique, aggressive, and futuristic look, with sharp edges and a dynamic flow. The color scheme should be a perfect balance of deep blue and intense red, blended in a way that creates a striking contrast. The font must have a hand-forged, battle-worn, or custom-drawn aesthetic\u2014no neon, no glow, just pure handcrafted power. The background must be completely black to make the design stand out. The overall style should exude dominance, strength, and an elite gaming feel, making it look like a true pro-level logo.\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/15 21:39:16",
+        "image_url": "https://i.ibb.co/C3dnpbBW/334fbc48e7ac.jpg",
+        "prompt": "*\"Design an elite, handcrafted gaming-style text logo featuring the word 'SIGMA' in a bold, battle-forged font. The letters should have a fiery red aesthetic, exuding raw intensity and power, resembling molten metal or burning embers. Avoid neon or artificial glow\u2014this must look hand-sculpted, as if forged in the heart of a volcano.\n\nEach letter should have intricate micro-details, including sharp edges, subtle cracks, fine scorch marks, and ember-like textures, making the text feel alive with energy. The structure of the font must be aggressive, dynamic, and uniquely customized, tailored for a competitive gaming identity.\n\nThe background must be pure black, creating an extreme contrast to enhance the fiery red tones. The overall composition should radiate dominance, precision, and championship-level craftsmanship, making it look like a true pro-tier gaming insignia.*\"",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
