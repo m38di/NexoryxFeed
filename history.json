@@ -4590,5 +4590,12 @@
         "prompt": "*\"Design an elite, handcrafted gaming-style text logo featuring the word \u0640Panda-in a bold, battle-forged font. The letters should have a fiery red aesthetic, exuding raw intensity and power, resembling molten metal or burning embers. Avoid neon or artificial glow\u2014this must look hand-sculpted, as if forged in the heart of a volcano.\n\nEach letter should have intricate micro-details, including sharp edges, subtle cracks, fine scorch marks, and ember-like textures, making the text feel alive with energy. The structure of the font must be aggressive, dynamic, and uniquely customized, tailored for a competitive gaming identity.\n\nThe background must be pure black, creating an extreme contrast to enhance the fiery red tones. The overall composition should radiate dominance, precision, and championship-level craftsmanship, making it look like a true pro-tier gaming insignia.*\"",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/16 19:03:45",
+        "image_url": "https://i.ibb.co/FkvG8Yt3/f61b61bd1847.jpg",
+        "prompt": "Subtle cracks and battle scars, showing resilience and history.\n\nFine scorch marks and ember-like textures, adding depth and realism.\n\nLayered metal engraving effects, creating a sense of elite artistry.\n\n\n\ud83d\udd31 Additional Handcrafted Elements:\n\nA hand-forged royal crown above the \u201cP\u201d in \u2018Panda,\u2019 symbolizing dominance.\n\nA symbolic flame or infernal insignia, seamlessly embedded into the typography.\n\nSharp, battle-worn metallic edges, resembling an ancient warrior\u2019s blade.\n\nSmall, intricate human-crafted embellishments, subtly enhancing the structure.\n\n\nThe background must be completely black, ensuring maximum contrast to make the fiery typography and handcrafted elements stand out powerfully. Every component of this design should radiate strength, precision, and elite-level craftsmanship, making it a true championship-worthy esports insignia.\"*",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
