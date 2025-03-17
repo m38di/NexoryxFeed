@@ -4870,5 +4870,12 @@
         "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name (TraA) should be written in a sharp font and a melted or Alien style, in a way that looks scary.\n\nText color: It should consist of a range of silver and light gray colors so that it resembles metal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/17 11:36:14",
+        "image_url": "https://i.ibb.co/v8q1P9w/9a08b0329231.jpg",
+        "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name Hamid should be written in a font with sharp corners and a rap\n\nText color: It should consist of a range of silver and light gray colors so that it resembles metal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
