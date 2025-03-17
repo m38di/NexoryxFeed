@@ -4821,5 +4821,12 @@
         "prompt": "Create an image for the logo\n\nBackground: The background should be dark and dark, with a red lightning bolt visible in it.\n\nText: The name TRAA should be written in a sharp font and a venom style, in a way that makes it look scary.\n\nText color: It should consist of a spectrum of silver and light gray colors, so that it resembles metal.",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/17 11:22:12",
+        "image_url": "https://i.ibb.co/qYWk126N/5beb28b6fc6d.jpg",
+        "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name Hamid should be written in a sharp font and a Venom style, in a way that looks scary.\n\nText color: It should be made up of a spectrum of silver and light gray colors, so that it resembles metal.",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
