@@ -4884,5 +4884,12 @@
         "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name TraA should be written in a font with sharp corners and a rap\n\nText color: It should consist of a range of silver and light gray colors so that it resembles metal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/17 11:39:02",
+        "image_url": "https://i.ibb.co/hxgVpLkZ/cb941b34afa8.jpg",
+        "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name TraA should be written in a font with sharp corners and rap\n\nText color: It should be made up of a range of silver and light gray colors so that it resembles metal, the writing should be similar to the GTA San Andreas font",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
