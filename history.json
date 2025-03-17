@@ -4849,5 +4849,12 @@
         "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name (TraA) should be written in a sharp font and a melted or Alien style, in a way that looks scary.\n\nText color: It should consist of a range of silver and light gray colors so that it resembles metal",
         "aspect_ratio": "1:1",
         "model": "FLUX 1 [Pro]"
+    },
+    {
+        "date": "2025/03/17 11:28:29",
+        "image_url": "https://i.ibb.co/d46D6TRd/5d13b2176c88.jpg",
+        "prompt": "Create an image for the logo\n\nBackground: Black\n\nText: The name (TraA) should be written in a sharp font and a melted or Alien style, in a way that looks scary.\n\nText color: It should consist of a range of silver and light gray colors so that it resembles metal",
+        "aspect_ratio": "1:1",
+        "model": "FLUX 1 [Pro]"
     }
 ]
